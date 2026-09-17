@@ -375,6 +375,12 @@
         "license": "CC BY 4.0; normalized to SPECTRA race and party fields"
       },
       {
+        "name": "Decision Labs polling API",
+        "purpose": "Daily bulk check of public 2026 House and Senate polls with source links",
+        "url": "https://www.decisionlabs.ai/docs/api",
+        "license": "CC BY 4.0; attribute \"Decision Labs (decisionlabs.ai)\"; upstream source licenses apply"
+      },
+      {
         "name": "2026 House candidate tracker",
         "purpose": "District candidates, incumbent status, and primary status compiled from cited state election records",
         "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
@@ -385,18 +391,12 @@
         "purpose": "Current district-level House polling with candidate matchups",
         "url": "https://pollingsource.com/house/polls",
         "license": "Public poll facts attributed to the source ledger"
-      },
-      {
-        "name": "Decision Labs polling API",
-        "purpose": "Daily bulk check of public 2026 House and Senate polls with source links",
-        "url": "https://www.decisionlabs.ai/docs/api",
-        "license": "CC BY 4.0; attribute \"Decision Labs (decisionlabs.ai)\"; upstream source licenses apply"
       }
     ],
     "pollRefresh": {
       "checkedAt": "2026-09-17",
       "provider": "VoteHub",
-      "added": 10,
+      "added": 0,
       "needsReview": [
         {
           "id": "gen202mor1928580e",
@@ -444,7 +444,7 @@
     },
     "housePollCoverage": {
       "checkedAt": "2026-09-17",
-      "provider": "PollingSource, VoteHub, and Decision Labs",
+      "provider": "PollingSource and VoteHub",
       "polls": 67,
       "districts": 46
     },
