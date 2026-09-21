@@ -2,13 +2,13 @@
   "meta": {
     "cycle": 2026,
     "electionDate": "2026-11-03",
-    "updatedAt": "2026-09-17",
+    "updatedAt": "2026-09-20",
     "experimental": true,
     "houseBaselineNationalMargin": -2.782,
     "senatePollCoverage": {
       "totalRaces": 35,
       "racesWithAnyPoll": 28,
-      "racesWithModelPoll": 26,
+      "racesWithModelPoll": 27,
       "unpolledRaceIds": [
         "CO-SEN",
         "DE-SEN",
@@ -19,8 +19,7 @@
         "WY-SEN"
       ],
       "excludedOnlyRaceIds": [
-        "MA-SEN",
-        "MT-SEN"
+        "MA-SEN"
       ],
       "realClearAudit": {
         "auditedAt": "2026-08-27",
@@ -389,35 +388,10 @@
       }
     ],
     "pollRefresh": {
-      "checkedAt": "2026-09-17",
+      "checkedAt": "2026-09-20",
       "provider": "VoteHub",
-      "added": 0,
+      "added": 9,
       "needsReview": [
-        {
-          "id": "gen202mor1928580e",
-          "subject": "2026",
-          "reason": "Candidate matchup needs review"
-        },
-        {
-          "id": "gen202you883b1d2b",
-          "subject": "2026",
-          "reason": "Candidate matchup needs review"
-        },
-        {
-          "id": "us-202ins635442db",
-          "subject": "2026 South Carolina",
-          "reason": "Candidate matchup needs review"
-        },
-        {
-          "id": "us-202cha69e5536b",
-          "subject": "2026 Florida",
-          "reason": "Candidate matchup needs review"
-        },
-        {
-          "id": "us-202qua2b8ed3cb",
-          "subject": "2026 Florida",
-          "reason": "Candidate matchup needs review"
-        },
         {
           "id": "us-202gra1f1faac3",
           "subject": "2026 CA-40",
@@ -431,24 +405,24 @@
       ]
     },
     "houseCandidateCoverage": {
-      "checkedAt": "2026-09-17",
+      "checkedAt": "2026-09-20",
       "districts": 435,
       "finalizedDemocratic": 412,
       "finalizedRepublican": 411,
       "openSeats": 77
     },
     "housePollCoverage": {
-      "checkedAt": "2026-09-17",
+      "checkedAt": "2026-09-20",
       "provider": "PollingSource, VoteHub, and Decision Labs",
-      "polls": 67,
-      "districts": 46
+      "polls": 71,
+      "districts": 48
     },
     "decisionLabsPollRefresh": {
-      "checkedAt": "2026-09-17",
-      "generatedAt": "2026-09-18T03:20:50.949Z",
+      "checkedAt": "2026-09-20",
+      "generatedAt": "2026-09-21T03:47:02.822Z",
       "provider": "Decision Labs",
       "reviewed": 167,
-      "added": 1,
+      "added": 0,
       "imported": 2,
       "needsReviewRaceIds": [
         "AL-SEN",
@@ -1631,6 +1605,22 @@
       "modelRoomExcluded": false
     },
     {
+      "id": "miller-consulting-services",
+      "name": "Miller Consulting Services",
+      "historicalPolls": 0,
+      "historicalSourceName": null,
+      "historicalError": null,
+      "transparencyScore": 0.8,
+      "meanRevertedBias": null,
+      "bias": null,
+      "houseEffect": null,
+      "predictivePlusMinus": null,
+      "racesCalledCorrectly": null,
+      "manualGrade": null,
+      "manualGradeNotes": null,
+      "modelRoomExcluded": false
+    },
+    {
       "id": "mitchell-research",
       "name": "Mitchell Research & Communications",
       "historicalSourceName": "Mitchell Research & Communications",
@@ -1818,6 +1808,22 @@
       "houseEffect": 0.975,
       "predictivePlusMinus": 0.059,
       "racesCalledCorrectly": 0.5,
+      "manualGrade": null,
+      "manualGradeNotes": null,
+      "modelRoomExcluded": false
+    },
+    {
+      "id": "public-opinion-strategies-r",
+      "name": "Public Opinion Strategies (R)",
+      "historicalPolls": 0,
+      "historicalSourceName": null,
+      "historicalError": null,
+      "transparencyScore": 0.8,
+      "meanRevertedBias": null,
+      "bias": null,
+      "houseEffect": null,
+      "predictivePlusMinus": null,
+      "racesCalledCorrectly": null,
       "manualGrade": null,
       "manualGradeNotes": null,
       "modelRoomExcluded": false
@@ -2122,6 +2128,22 @@
       "houseEffect": null,
       "predictivePlusMinus": null,
       "racesCalledCorrectly": null,
+      "manualGrade": null,
+      "manualGradeNotes": null,
+      "modelRoomExcluded": false
+    },
+    {
+      "id": "st-pete-polls",
+      "name": "St. Pete Polls",
+      "historicalSourceName": "St. Pete Polls",
+      "historicalPolls": 27,
+      "historicalError": 4.983,
+      "transparencyScore": 0.55,
+      "meanRevertedBias": 0.034,
+      "bias": 0.067,
+      "houseEffect": -1.277,
+      "predictivePlusMinus": -0.077,
+      "racesCalledCorrectly": 0.574,
       "manualGrade": null,
       "manualGradeNotes": null,
       "modelRoomExcluded": false
@@ -11497,6 +11519,258 @@
       "sourceType": "public_aggregator",
       "notes": "Candidate matchup and topline reconciled from the supplied current-poll audit; public release index linked",
       "modelEligible": true
+    },
+    {
+      "id": "votehub-us-202harfc1499b8",
+      "raceId": "NC-SEN",
+      "pollsterId": "harper-polling",
+      "pollster": "Harper Polling",
+      "sponsor": "Carolina Journal",
+      "partisanSponsor": null,
+      "startDate": "2026-09-13",
+      "endDate": "2026-09-15",
+      "population": "LV",
+      "sampleSize": 608,
+      "demPct": 49.0,
+      "repPct": 34.0,
+      "margin": 15.0,
+      "sourceUrl": "https://www.carolinajournal.com/polls/september-2026-roy-coopers-lead-grows-to-15-points-in-nc-senate-race/",
+      "sourceLabel": "VoteHub poll ledger · linked public release",
+      "methodologyUrl": "https://www.carolinajournal.com/polls/september-2026-roy-coopers-lead-grows-to-15-points-in-nc-senate-race/",
+      "sourceType": "public_aggregator",
+      "notes": "VoteHub CC BY 4.0; published 2026-09-18; Roy Cooper (D) / Michael Whatley (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "votehub-us-202co/0acc5699",
+      "raceId": "AK-SEN",
+      "pollsterId": "co-efficient",
+      "pollster": "co/efficient",
+      "sponsor": null,
+      "partisanSponsor": null,
+      "startDate": "2026-09-14",
+      "endDate": "2026-09-17",
+      "population": "LV",
+      "sampleSize": 799,
+      "demPct": 46.0,
+      "repPct": 49.0,
+      "margin": -3.0,
+      "sourceUrl": "https://battlegrounds.coefficient.org/ak/",
+      "sourceLabel": "VoteHub poll ledger · linked public release",
+      "methodologyUrl": "https://battlegrounds.coefficient.org/ak/",
+      "sourceType": "public_aggregator",
+      "notes": "VoteHub CC BY 4.0; published 2026-09-18; Mary Peltola (D) / Dan Sullivan (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "votehub-us-202tulc2e2b734",
+      "raceId": "FL-27",
+      "pollsterId": "tulchin-research",
+      "pollster": "Tulchin Research",
+      "sponsor": "House Majority PAC",
+      "partisanSponsor": "D",
+      "startDate": "2026-09-08",
+      "endDate": "2026-09-13",
+      "population": "LV",
+      "sampleSize": 600,
+      "demPct": 46.0,
+      "repPct": 47.0,
+      "margin": -1.0,
+      "sourceUrl": "https://x.com/cjwarnke/status/2100648029678170342",
+      "sourceLabel": "VoteHub poll ledger · linked public release",
+      "methodologyUrl": "https://x.com/cjwarnke/status/2100648029678170342",
+      "sourceType": "public_aggregator",
+      "notes": "VoteHub CC BY 4.0; published 2026-09-18; Eliott Rodriguez (D) / María Elvira Salazar (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "votehub-us-202st.73c64f89",
+      "raceId": "FL-SEN",
+      "pollsterId": "st-pete-polls",
+      "pollster": "St. Pete Polls",
+      "sponsor": "Florida Politics",
+      "partisanSponsor": null,
+      "startDate": "2026-09-15",
+      "endDate": "2026-09-17",
+      "population": "LV",
+      "sampleSize": 913,
+      "demPct": 44.8,
+      "repPct": 45.2,
+      "margin": -0.4,
+      "sourceUrl": "https://floridapolitics.com/archives/820638-poll-byron-donalds-44-david-jolly-43-in-dead-heat-race-for-florida-governor/",
+      "sourceLabel": "VoteHub poll ledger · linked public release",
+      "methodologyUrl": "https://floridapolitics.com/archives/820638-poll-byron-donalds-44-david-jolly-43-in-dead-heat-race-for-florida-governor/",
+      "sourceType": "public_aggregator",
+      "notes": "VoteHub CC BY 4.0; published 2026-09-18; Angie Nixon (D) / Ashley Moody (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "votehub-us-202qua7f691cd6",
+      "raceId": "MT-SEN",
+      "pollsterId": "quantus-insights",
+      "pollster": "Quantus Insights",
+      "sponsor": null,
+      "partisanSponsor": null,
+      "startDate": "2026-09-14",
+      "endDate": "2026-09-15",
+      "population": "LV",
+      "sampleSize": 625,
+      "demPct": 23.0,
+      "repPct": 44.0,
+      "margin": -21.0,
+      "sourceUrl": "https://quantusinsights.org/f/latest-survey-alme-leads-as-montana%E2%80%99s-senate-opposition-splits",
+      "sourceLabel": "VoteHub poll ledger · linked public release",
+      "methodologyUrl": "https://quantusinsights.org/f/latest-survey-alme-leads-as-montana%E2%80%99s-senate-opposition-splits",
+      "sourceType": "public_aggregator",
+      "notes": "VoteHub CC BY 4.0; published 2026-09-18; Alani Bankhead (D) / Kurt Alme (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "votehub-us-202emeb0bb9def",
+      "raceId": "KS-SEN",
+      "pollsterId": "emerson-college",
+      "pollster": "Emerson College",
+      "sponsor": "Nexstar Media",
+      "partisanSponsor": null,
+      "startDate": "2026-09-15",
+      "endDate": "2026-09-16",
+      "population": "LV",
+      "sampleSize": 750,
+      "demPct": 45.0,
+      "repPct": 43.0,
+      "margin": 2.0,
+      "sourceUrl": "https://emersoncollegepolling.com/kansas-2026/",
+      "sourceLabel": "VoteHub poll ledger · linked public release",
+      "methodologyUrl": "https://emersoncollegepolling.com/kansas-2026/",
+      "sourceType": "public_aggregator",
+      "notes": "VoteHub CC BY 4.0; published 2026-09-18; Adam Hamilton (D) / Roger Marshall (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "votehub-us-202ins8cf36d79",
+      "raceId": "MI-SEN",
+      "pollsterId": "insideradvantage",
+      "pollster": "InsiderAdvantage",
+      "sponsor": null,
+      "partisanSponsor": null,
+      "startDate": "2026-09-16",
+      "endDate": "2026-09-17",
+      "population": "LV",
+      "sampleSize": 1200,
+      "demPct": 47.0,
+      "repPct": 45.0,
+      "margin": 2.0,
+      "sourceUrl": "https://insideradvantage.com/mi-top-line-tabs",
+      "sourceLabel": "VoteHub poll ledger · linked public release",
+      "methodologyUrl": "https://insideradvantage.com/mi-top-line-tabs",
+      "sourceType": "public_aggregator",
+      "notes": "VoteHub CC BY 4.0; published 2026-09-18; Abdul El-Sayed (D) / Mike Rogers (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "votehub-us-202insf80352ad",
+      "raceId": "NC-SEN",
+      "pollsterId": "insideradvantage",
+      "pollster": "InsiderAdvantage",
+      "sponsor": null,
+      "partisanSponsor": null,
+      "startDate": "2026-09-16",
+      "endDate": "2026-09-17",
+      "population": "LV",
+      "sampleSize": 1200,
+      "demPct": 48.4,
+      "repPct": 42.5,
+      "margin": 5.9,
+      "sourceUrl": "https://insideradvantage.com/nc-top-line-tabs",
+      "sourceLabel": "VoteHub poll ledger · linked public release",
+      "methodologyUrl": "https://insideradvantage.com/nc-top-line-tabs",
+      "sourceType": "public_aggregator",
+      "notes": "VoteHub CC BY 4.0; published 2026-09-18; Roy Cooper (D) / Michael Whatley (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "votehub-us-202insfe93ffed",
+      "raceId": "NH-SEN",
+      "pollsterId": "insideradvantage",
+      "pollster": "InsiderAdvantage",
+      "sponsor": null,
+      "partisanSponsor": null,
+      "startDate": "2026-09-16",
+      "endDate": "2026-09-17",
+      "population": "LV",
+      "sampleSize": 1200,
+      "demPct": 48.0,
+      "repPct": 40.0,
+      "margin": 8.0,
+      "sourceUrl": "https://insideradvantage.com/insideradvantage-national-u-s-senate-surveys-n-c-cooper-48-whatley-43-mi-elsayed-47-rogers-45-nh-pappas-48-sununu-40/",
+      "sourceLabel": "VoteHub poll ledger · linked public release",
+      "methodologyUrl": "https://insideradvantage.com/insideradvantage-national-u-s-senate-surveys-n-c-cooper-48-whatley-43-mi-elsayed-47-rogers-45-nh-pappas-48-sununu-40/",
+      "sourceType": "public_aggregator",
+      "notes": "VoteHub CC BY 4.0; published 2026-09-18; Chris Pappas (D) / John Sununu (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "pollingsource-pa-01-2026-09-14-public-opinion-strategies-r",
+      "raceId": "PA-01",
+      "pollsterId": "public-opinion-strategies-r",
+      "pollster": "Public Opinion Strategies (R)",
+      "sponsor": null,
+      "partisanSponsor": "R",
+      "startDate": "2026-09-14",
+      "endDate": "2026-09-14",
+      "population": "RV",
+      "sampleSize": 400,
+      "demPct": 40.0,
+      "repPct": 49.0,
+      "margin": -9.0,
+      "sourceUrl": "https://pollingsource.com/house/polls",
+      "sourceLabel": "PollingSource public House poll ledger",
+      "methodologyUrl": "https://pollingsource.com/methodology",
+      "sourceType": "public_aggregator",
+      "notes": "PollingSource table date; Bob Harvie (D) / Brian Fitzpatrick (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "pollingsource-ga-11-2026-09-11-miller-consulting-services",
+      "raceId": "GA-11",
+      "pollsterId": "miller-consulting-services",
+      "pollster": "Miller Consulting Services",
+      "sponsor": null,
+      "partisanSponsor": null,
+      "startDate": "2026-09-11",
+      "endDate": "2026-09-11",
+      "population": "LV",
+      "sampleSize": 402,
+      "demPct": 42.0,
+      "repPct": 40.0,
+      "margin": 2.0,
+      "sourceUrl": "https://pollingsource.com/house/polls",
+      "sourceLabel": "PollingSource public House poll ledger",
+      "methodologyUrl": "https://pollingsource.com/methodology",
+      "sourceType": "public_aggregator",
+      "notes": "PollingSource table date; Chris Harden (D) / John Cowan (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "pollingsource-nc-09-2026-09-03-lake-research-partners-d",
+      "raceId": "NC-09",
+      "pollsterId": "lake-research-partners-d",
+      "pollster": "Lake Research Partners (D)",
+      "sponsor": null,
+      "partisanSponsor": "D",
+      "startDate": "2026-09-03",
+      "endDate": "2026-09-03",
+      "population": "LV",
+      "sampleSize": 400,
+      "demPct": 42.0,
+      "repPct": 46.0,
+      "margin": -4.0,
+      "sourceUrl": "https://pollingsource.com/house/polls",
+      "sourceLabel": "PollingSource public House poll ledger",
+      "methodologyUrl": "https://pollingsource.com/methodology",
+      "sourceType": "public_aggregator",
+      "notes": "PollingSource table date; Richard Ojeda (D) / Richard Hudson (R)",
+      "modelEligible": true
     }
   ],
   "houseRaces": [
@@ -15308,7 +15582,7 @@
       "repVotes2024": 100730,
       "incumbentName": "Everton Blair",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent lost initial nomination for the full term; later elected to complete David Scott 's unexpired term. [ 191 ]",
+      "incumbentStatus": "Blair lost the initial nomination for the full term; later elected to complete David Scott 's unexpired term. [ 191 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
       "openSeat": false,
@@ -17283,14 +17557,14 @@
       "openSeat": false,
       "candidates": {
         "D": "Jake Auchincloss",
-        "R": "Tom Stalcup"
+        "R": "Thomas Stalcup"
       },
       "candidateOptions": {
         "D": [
           "Jake Auchincloss"
         ],
         "R": [
-          "Tom Stalcup"
+          "Thomas Stalcup"
         ]
       }
     },
@@ -19451,14 +19725,14 @@
       "openSeat": false,
       "candidates": {
         "D": "Yvette Clarke",
-        "R": "Joel Anabilah-Azumah"
+        "R": "Joel Azumah"
       },
       "candidateOptions": {
         "D": [
           "Yvette Clarke"
         ],
         "R": [
-          "Joel Anabilah-Azumah"
+          "Joel Azumah"
         ]
       }
     },
