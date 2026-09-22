@@ -2,7 +2,7 @@
   "meta": {
     "cycle": 2026,
     "electionDate": "2026-11-03",
-    "updatedAt": "2026-09-21",
+    "updatedAt": "2026-09-22",
     "experimental": true,
     "houseBaselineNationalMargin": -2.782,
     "senatePollCoverage": {
@@ -369,12 +369,6 @@
         "license": "CC BY 4.0; normalized to SPECTRA race and party fields"
       },
       {
-        "name": "Decision Labs polling API",
-        "purpose": "Daily bulk check of public 2026 House and Senate polls with source links",
-        "url": "https://www.decisionlabs.ai/docs/api",
-        "license": "CC BY 4.0; attribute \"Decision Labs (decisionlabs.ai)\"; upstream source licenses apply"
-      },
-      {
         "name": "2026 House candidate tracker",
         "purpose": "District candidates, incumbent status, and primary status compiled from cited state election records",
         "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
@@ -385,10 +379,16 @@
         "purpose": "Current district-level House polling with candidate matchups",
         "url": "https://pollingsource.com/house/polls",
         "license": "Public poll facts attributed to the source ledger"
+      },
+      {
+        "name": "Decision Labs polling API",
+        "purpose": "Daily bulk check of public 2026 House and Senate polls with source links",
+        "url": "https://www.decisionlabs.ai/docs/api",
+        "license": "CC BY 4.0; attribute \"Decision Labs (decisionlabs.ai)\"; upstream source licenses apply"
       }
     ],
     "pollRefresh": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-09-22",
       "provider": "VoteHub",
       "added": 0,
       "needsReview": [
@@ -405,21 +405,21 @@
       ]
     },
     "houseCandidateCoverage": {
-      "checkedAt": "2026-09-21",
+      "checkedAt": "2026-09-22",
       "districts": 435,
       "finalizedDemocratic": 412,
       "finalizedRepublican": 411,
       "openSeats": 77
     },
     "housePollCoverage": {
-      "checkedAt": "2026-09-21",
-      "provider": "PollingSource and VoteHub",
+      "checkedAt": "2026-09-22",
+      "provider": "PollingSource, VoteHub, and Decision Labs",
       "polls": 71,
       "districts": 48
     },
     "decisionLabsPollRefresh": {
-      "checkedAt": "2026-09-21",
-      "generatedAt": "2026-09-21T05:07:44.404Z",
+      "checkedAt": "2026-09-22",
+      "generatedAt": "2026-09-22T05:08:04.917Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
