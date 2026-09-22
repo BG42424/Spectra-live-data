@@ -369,6 +369,12 @@
         "license": "CC BY 4.0; normalized to SPECTRA race and party fields"
       },
       {
+        "name": "Decision Labs polling API",
+        "purpose": "Daily bulk check of public 2026 House and Senate polls with source links",
+        "url": "https://www.decisionlabs.ai/docs/api",
+        "license": "CC BY 4.0; attribute \"Decision Labs (decisionlabs.ai)\"; upstream source licenses apply"
+      },
+      {
         "name": "2026 House candidate tracker",
         "purpose": "District candidates, incumbent status, and primary status compiled from cited state election records",
         "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
@@ -379,12 +385,6 @@
         "purpose": "Current district-level House polling with candidate matchups",
         "url": "https://pollingsource.com/house/polls",
         "license": "Public poll facts attributed to the source ledger"
-      },
-      {
-        "name": "Decision Labs polling API",
-        "purpose": "Daily bulk check of public 2026 House and Senate polls with source links",
-        "url": "https://www.decisionlabs.ai/docs/api",
-        "license": "CC BY 4.0; attribute \"Decision Labs (decisionlabs.ai)\"; upstream source licenses apply"
       }
     ],
     "pollRefresh": {
@@ -413,8 +413,8 @@
     },
     "housePollCoverage": {
       "checkedAt": "2026-09-22",
-      "provider": "PollingSource, VoteHub, and Decision Labs",
-      "polls": 71,
+      "provider": "PollingSource and VoteHub",
+      "polls": 72,
       "districts": 48
     },
     "decisionLabsPollRefresh": {
@@ -807,6 +807,22 @@
     {
       "id": "dccc",
       "name": "DCCC",
+      "historicalPolls": 0,
+      "historicalSourceName": null,
+      "historicalError": null,
+      "transparencyScore": 0.8,
+      "meanRevertedBias": null,
+      "bias": null,
+      "houseEffect": null,
+      "predictivePlusMinus": null,
+      "racesCalledCorrectly": null,
+      "manualGrade": null,
+      "manualGradeNotes": null,
+      "modelRoomExcluded": false
+    },
+    {
+      "id": "dccc-targeting-team-d",
+      "name": "DCCC Targeting Team (D)",
       "historicalPolls": 0,
       "historicalSourceName": null,
       "historicalError": null,
@@ -11770,6 +11786,27 @@
       "methodologyUrl": "https://pollingsource.com/methodology",
       "sourceType": "public_aggregator",
       "notes": "PollingSource table date; Richard Ojeda (D) / Richard Hudson (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "pollingsource-va-01-2026-09-17-dccc-targeting-team-d",
+      "raceId": "VA-01",
+      "pollsterId": "dccc-targeting-team-d",
+      "pollster": "DCCC Targeting Team (D)",
+      "sponsor": null,
+      "partisanSponsor": null,
+      "startDate": "2026-09-17",
+      "endDate": "2026-09-17",
+      "population": "LV",
+      "sampleSize": 519,
+      "demPct": 46.0,
+      "repPct": 47.0,
+      "margin": -1.0,
+      "sourceUrl": "https://pollingsource.com/house/polls",
+      "sourceLabel": "PollingSource public House poll ledger",
+      "methodologyUrl": "https://pollingsource.com/methodology",
+      "sourceType": "public_aggregator",
+      "notes": "PollingSource table date; Shannon Taylor (D) / Rob Wittman (R)",
       "modelEligible": true
     }
   ],
