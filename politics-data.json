@@ -369,6 +369,12 @@
         "license": "CC BY 4.0; normalized to SPECTRA race and party fields"
       },
       {
+        "name": "Decision Labs polling API",
+        "purpose": "Daily bulk check of public 2026 House and Senate polls with source links",
+        "url": "https://www.decisionlabs.ai/docs/api",
+        "license": "CC BY 4.0; attribute \"Decision Labs (decisionlabs.ai)\"; upstream source licenses apply"
+      },
+      {
         "name": "2026 House candidate tracker",
         "purpose": "District candidates, incumbent status, and primary status compiled from cited state election records",
         "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
@@ -379,12 +385,6 @@
         "purpose": "Current district-level House polling with candidate matchups",
         "url": "https://pollingsource.com/house/polls",
         "license": "Public poll facts attributed to the source ledger"
-      },
-      {
-        "name": "Decision Labs polling API",
-        "purpose": "Daily bulk check of public 2026 House and Senate polls with source links",
-        "url": "https://www.decisionlabs.ai/docs/api",
-        "license": "CC BY 4.0; attribute \"Decision Labs (decisionlabs.ai)\"; upstream source licenses apply"
       }
     ],
     "pollRefresh": {
@@ -413,9 +413,9 @@
     },
     "housePollCoverage": {
       "checkedAt": "2026-09-24",
-      "provider": "PollingSource, VoteHub, and Decision Labs",
-      "polls": 72,
-      "districts": 48
+      "provider": "PollingSource and VoteHub",
+      "polls": 73,
+      "districts": 49
     },
     "decisionLabsPollRefresh": {
       "checkedAt": "2026-09-24",
@@ -1616,6 +1616,22 @@
       "houseEffect": -4.939,
       "predictivePlusMinus": 1.433,
       "racesCalledCorrectly": 0.696,
+      "manualGrade": null,
+      "manualGradeNotes": null,
+      "modelRoomExcluded": false
+    },
+    {
+      "id": "mclaughlin-and-associates-r",
+      "name": "McLaughlin and Associates (R)",
+      "historicalPolls": 0,
+      "historicalSourceName": null,
+      "historicalError": null,
+      "transparencyScore": 0.8,
+      "meanRevertedBias": null,
+      "bias": null,
+      "houseEffect": null,
+      "predictivePlusMinus": null,
+      "racesCalledCorrectly": null,
       "manualGrade": null,
       "manualGradeNotes": null,
       "modelRoomExcluded": false
@@ -11923,6 +11939,27 @@
       "methodologyUrl": "https://www.suffolk.edu/academics/research-at-suffolk/political-research-center/polls/other-states#collapse-September-22-2026-Michigan-Governor-and-US-Senate-Statewide-and-Bellwether",
       "sourceType": "public_aggregator",
       "notes": "VoteHub CC BY 4.0; published 2026-09-22; Abdul El-Sayed (D) / Mike Rogers (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "pollingsource-co-08-2026-09-17-mclaughlin-and-associates-r",
+      "raceId": "CO-08",
+      "pollsterId": "mclaughlin-and-associates-r",
+      "pollster": "McLaughlin and Associates (R)",
+      "sponsor": null,
+      "partisanSponsor": null,
+      "startDate": "2026-09-17",
+      "endDate": "2026-09-17",
+      "population": "LV",
+      "sampleSize": 400,
+      "demPct": 46.0,
+      "repPct": 48.0,
+      "margin": -2.0,
+      "sourceUrl": "https://pollingsource.com/house/polls",
+      "sourceLabel": "PollingSource public House poll ledger",
+      "methodologyUrl": "https://pollingsource.com/methodology",
+      "sourceType": "public_aggregator",
+      "notes": "PollingSource table date; Manny Rutinel (D) / Gabe Evans (R)",
       "modelEligible": true
     }
   ],
