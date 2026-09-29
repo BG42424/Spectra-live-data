@@ -367,16 +367,22 @@
         "license": "Facts cross-checked against public releases; no automated scraping in the app"
       },
       {
-        "name": "2026 House candidate tracker",
-        "purpose": "District candidates, incumbent status, and primary status compiled from cited state election records",
-        "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-        "license": "Candidate names and ballot status are public facts; source page is CC BY-SA 4.0"
-      },
-      {
         "name": "VoteHub polling API",
         "purpose": "Current generic-ballot, Senate and House polls with public release links",
         "url": "https://votehub.com/polls/api/",
         "license": "CC BY 4.0; normalized to SPECTRA race and party fields"
+      },
+      {
+        "name": "Decision Labs polling API",
+        "purpose": "Daily bulk check of public 2026 House and Senate polls with source links",
+        "url": "https://www.decisionlabs.ai/docs/api",
+        "license": "CC BY 4.0; attribute \"Decision Labs (decisionlabs.ai)\"; upstream source licenses apply"
+      },
+      {
+        "name": "2026 House candidate tracker",
+        "purpose": "District candidates, incumbent status, and primary status compiled from cited state election records",
+        "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+        "license": "Candidate names and ballot status are public facts; source page is CC BY-SA 4.0"
       },
       {
         "name": "PollingSource public House polls",
@@ -389,12 +395,6 @@
         "purpose": "Current Senate polling with candidate matchups",
         "url": "https://pollingsource.com/senate/polls",
         "license": "Public poll facts attributed to the source ledger"
-      },
-      {
-        "name": "Decision Labs polling API",
-        "purpose": "Daily bulk check of public 2026 House and Senate polls with source links",
-        "url": "https://www.decisionlabs.ai/docs/api",
-        "license": "CC BY 4.0; attribute \"Decision Labs (decisionlabs.ai)\"; upstream source licenses apply"
       }
     ],
     "senatePollRefresh": {
@@ -438,7 +438,7 @@
     },
     "housePollCoverage": {
       "checkedAt": "2026-09-29",
-      "provider": "PollingSource, VoteHub, and Decision Labs",
+      "provider": "PollingSource and VoteHub",
       "polls": 84,
       "districts": 55
     },
