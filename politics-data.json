@@ -373,6 +373,12 @@
         "license": "CC BY 4.0; normalized to SPECTRA race and party fields"
       },
       {
+        "name": "Decision Labs polling API",
+        "purpose": "Daily bulk check of public 2026 House and Senate polls with source links",
+        "url": "https://www.decisionlabs.ai/docs/api",
+        "license": "CC BY 4.0; attribute \"Decision Labs (decisionlabs.ai)\"; upstream source licenses apply"
+      },
+      {
         "name": "2026 House candidate tracker",
         "purpose": "District candidates, incumbent status, and primary status compiled from cited state election records",
         "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
@@ -389,19 +395,13 @@
         "purpose": "Current Senate polling with candidate matchups",
         "url": "https://pollingsource.com/senate/polls",
         "license": "Public poll facts attributed to the source ledger"
-      },
-      {
-        "name": "Decision Labs polling API",
-        "purpose": "Daily bulk check of public 2026 House and Senate polls with source links",
-        "url": "https://www.decisionlabs.ai/docs/api",
-        "license": "CC BY 4.0; attribute \"Decision Labs (decisionlabs.ai)\"; upstream source licenses apply"
       }
     ],
     "senatePollRefresh": {
       "checkedAt": "2026-10-01",
       "provider": "PollingSource",
-      "reviewed": 161,
-      "added": 6,
+      "reviewed": 162,
+      "added": 0,
       "skippedCandidateMismatch": 55
     },
     "pollRefresh": {
@@ -438,8 +438,8 @@
     },
     "housePollCoverage": {
       "checkedAt": "2026-10-01",
-      "provider": "PollingSource, VoteHub, and Decision Labs",
-      "polls": 87,
+      "provider": "PollingSource and VoteHub",
+      "polls": 88,
       "districts": 55
     },
     "decisionLabsPollRefresh": {
@@ -13981,6 +13981,27 @@
       "methodologyUrl": "https://pollingsource.com/methodology",
       "sourceType": "public_aggregator",
       "notes": "PollingSource table date; Roy Cooper (D) / Michael Whatley (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "pollingsource-ny-17-2026-09-29-emerson",
+      "raceId": "NY-17",
+      "pollsterId": "emerson",
+      "pollster": "Emerson",
+      "sponsor": null,
+      "partisanSponsor": null,
+      "startDate": "2026-09-29",
+      "endDate": "2026-09-29",
+      "population": "LV",
+      "sampleSize": 400,
+      "demPct": 48.0,
+      "repPct": 46.0,
+      "margin": 2.0,
+      "sourceUrl": "https://pollingsource.com/house/polls",
+      "sourceLabel": "PollingSource public House poll ledger",
+      "methodologyUrl": "https://pollingsource.com/methodology",
+      "sourceType": "public_aggregator",
+      "notes": "PollingSource table date; Conley (D) / Lawler (R)",
       "modelEligible": true
     }
   ],
