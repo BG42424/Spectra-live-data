@@ -4,7 +4,7 @@
     "status": "Primary QB comparison \u00b7 separate from the NFL forecast",
     "fromSeason": 1999,
     "throughSeason": 2026,
-    "throughWeek": 3,
+    "throughWeek": 4,
     "inSeason": true,
     "baselineElo": 1500.0,
     "eloPerStandardDeviation": 100.0,
@@ -54,7 +54,7 @@
       "2023": -0.001,
       "2024": 0.04,
       "2025": 0.027,
-      "2026": 0.065
+      "2026": 0.067
     },
     "gameEpaStandardDeviationBySeason": {
       "1999": 0.311,
@@ -84,7 +84,7 @@
       "2023": 0.324,
       "2024": 0.32,
       "2025": 0.327,
-      "2026": 0.32
+      "2026": 0.317
     },
     "regressionTargetEpaEloBySeason": {
       "2000": 1488.4,
@@ -152,7 +152,7 @@
       "2023": 392,
       "2024": 368,
       "2025": 399,
-      "2026": 75
+      "2026": 77
     }
   },
   "quarterbacks": [
@@ -163,15 +163,15 @@
       "depthRank": 1,
       "isStarter": true,
       "projection": "Projected starter",
-      "epaElo": 1562.6,
+      "epaElo": 1562.9,
       "starts": 56,
       "recentAdjustedEpaPerDropback": 0.274,
       "lastStart": "2026-09-27",
       "lastAppearance": "2026-09-27",
       "status": "Established",
-      "teamBaselineEpaElo": 1560.5,
-      "preseasonTeamEpaElo": 1561.9,
-      "forecastEloChange": 2.3,
+      "teamBaselineEpaElo": 1560.6,
+      "preseasonTeamEpaElo": 1562.1,
+      "forecastEloChange": 2.4,
       "initialization": {
         "type": "draft",
         "draftSeason": 2022,
@@ -307,14 +307,14 @@
       "depthRank": 1,
       "isStarter": true,
       "projection": "Projected starter",
-      "epaElo": 1557.9,
+      "epaElo": 1558.0,
       "starts": 163,
       "recentAdjustedEpaPerDropback": 0.158,
       "lastStart": "2026-09-27",
       "lastAppearance": "2026-09-27",
       "status": "Established",
-      "teamBaselineEpaElo": 1557.1,
-      "preseasonTeamEpaElo": 1557.6,
+      "teamBaselineEpaElo": 1557.2,
+      "preseasonTeamEpaElo": 1557.7,
       "forecastEloChange": 0.9,
       "initialization": {
         "type": "draft",
@@ -634,9 +634,9 @@
       "depthRank": 1,
       "isStarter": true,
       "projection": "Projected starter",
-      "epaElo": 1555.4,
+      "epaElo": 1555.5,
       "starts": 142,
-      "recentAdjustedEpaPerDropback": 0.191,
+      "recentAdjustedEpaPerDropback": 0.19,
       "lastStart": "2026-09-27",
       "lastAppearance": "2026-09-27",
       "status": "Established",
@@ -766,15 +766,15 @@
       "depthRank": 1,
       "isStarter": true,
       "projection": "Projected starter",
-      "epaElo": 1555.0,
+      "epaElo": 1555.1,
       "starts": 148,
-      "recentAdjustedEpaPerDropback": 0.216,
+      "recentAdjustedEpaPerDropback": 0.215,
       "lastStart": "2026-09-27",
       "lastAppearance": "2026-09-27",
       "status": "Established",
       "teamBaselineEpaElo": 1533.8,
-      "preseasonTeamEpaElo": 1547.9,
-      "forecastEloChange": 23.3,
+      "preseasonTeamEpaElo": 1548.0,
+      "forecastEloChange": 23.4,
       "initialization": {
         "type": "draft",
         "draftSeason": 2016,
@@ -919,14 +919,14 @@
       "depthRank": 1,
       "isStarter": true,
       "projection": "Projected starter",
-      "epaElo": 1551.7,
+      "epaElo": 1551.6,
       "starts": 255,
-      "recentAdjustedEpaPerDropback": 0.18,
+      "recentAdjustedEpaPerDropback": 0.179,
       "lastStart": "2026-09-27",
       "lastAppearance": "2026-09-27",
       "status": "Established",
-      "teamBaselineEpaElo": 1545.0,
-      "preseasonTeamEpaElo": 1549.5,
+      "teamBaselineEpaElo": 1544.9,
+      "preseasonTeamEpaElo": 1549.4,
       "forecastEloChange": 7.4,
       "initialization": {
         "type": "draft",
@@ -1095,7 +1095,7 @@
       "projection": "Projected starter",
       "epaElo": 1538.4,
       "starts": 118,
-      "recentAdjustedEpaPerDropback": -0.04,
+      "recentAdjustedEpaPerDropback": -0.041,
       "lastStart": "2026-09-27",
       "lastAppearance": "2026-09-27",
       "status": "Established",
@@ -1377,14 +1377,14 @@
       "depthRank": 1,
       "isStarter": true,
       "projection": "Projected starter",
-      "epaElo": 1533.2,
+      "epaElo": 1533.0,
       "starts": 83,
-      "recentAdjustedEpaPerDropback": 0.243,
+      "recentAdjustedEpaPerDropback": 0.241,
       "lastStart": "2026-09-27",
       "lastAppearance": "2026-09-27",
       "status": "Established",
-      "teamBaselineEpaElo": 1523.6,
-      "preseasonTeamEpaElo": 1530.0,
+      "teamBaselineEpaElo": 1523.5,
+      "preseasonTeamEpaElo": 1529.9,
       "forecastEloChange": 10.5,
       "initialization": {
         "type": "draft",
@@ -1475,7 +1475,7 @@
       "projection": "Projected starter",
       "epaElo": 1531.9,
       "starts": 150,
-      "recentAdjustedEpaPerDropback": 0.062,
+      "recentAdjustedEpaPerDropback": 0.061,
       "lastStart": "2026-09-27",
       "lastAppearance": "2026-09-27",
       "status": "Established",
@@ -1938,114 +1938,21 @@
       ]
     },
     {
-      "playerId": "00-0036442",
-      "name": "Joe Burrow",
-      "team": "CIN",
-      "depthRank": 1,
-      "isStarter": true,
-      "projection": "Projected starter",
-      "epaElo": 1524.8,
-      "starts": 87,
-      "recentAdjustedEpaPerDropback": 0.104,
-      "lastStart": "2026-09-27",
-      "lastAppearance": "2026-09-27",
-      "status": "Established",
-      "teamBaselineEpaElo": 1517.2,
-      "preseasonTeamEpaElo": 1522.3,
-      "forecastEloChange": 8.3,
-      "initialization": {
-        "type": "draft",
-        "draftSeason": 2020,
-        "draftPick": 1,
-        "initializationSeason": 2020,
-        "historicalDraftValue": 112.9,
-        "historicalLeagueQbAverage": 159.2,
-        "initialEpaElo": 1453.7
-      },
-      "offseasonRegressions": [
-        {
-          "season": 2021,
-          "targetEpaElo": 1489.4,
-          "priorSeasonStarts": 10,
-          "openingStarter": true,
-          "reason": "10+ prior-season starts",
-          "beforeEpaElo": 1497.5,
-          "afterEpaElo": 1495.5
-        },
-        {
-          "season": 2022,
-          "targetEpaElo": 1497.0,
-          "priorSeasonStarts": 20,
-          "openingStarter": true,
-          "reason": "10+ prior-season starts",
-          "beforeEpaElo": 1518.4,
-          "afterEpaElo": 1513.1
-        },
-        {
-          "season": 2023,
-          "targetEpaElo": 1489.7,
-          "priorSeasonStarts": 19,
-          "openingStarter": true,
-          "reason": "10+ prior-season starts",
-          "beforeEpaElo": 1543.2,
-          "afterEpaElo": 1529.8
-        },
-        {
-          "season": 2024,
-          "targetEpaElo": 1487.6,
-          "priorSeasonStarts": 10,
-          "openingStarter": true,
-          "reason": "10+ prior-season starts",
-          "beforeEpaElo": 1525.1,
-          "afterEpaElo": 1515.8
-        },
-        {
-          "season": 2025,
-          "targetEpaElo": 1493.7,
-          "priorSeasonStarts": 17,
-          "openingStarter": true,
-          "reason": "10+ prior-season starts",
-          "beforeEpaElo": 1533.8,
-          "afterEpaElo": 1523.8
-        },
-        {
-          "season": 2026,
-          "targetEpaElo": 1491.9,
-          "priorSeasonStarts": 8,
-          "openingStarter": true,
-          "reason": "projected opening starter",
-          "beforeEpaElo": 1535.2,
-          "afterEpaElo": 1524.4
-        }
-      ],
-      "healthyBenchWeeks": 0,
-      "healthyBenchAdjustments": [],
-      "injuryWeeksExcluded": 1,
-      "benchInjuryExclusions": [
-        {
-          "season": 2021,
-          "week": 18,
-          "team": "CIN",
-          "reason": "Questionable"
-        }
-      ]
-    },
-    {
       "playerId": "00-0036264",
       "name": "Jordan Love",
       "team": "GB",
       "depthRank": 1,
       "isStarter": true,
       "projection": "Projected starter",
-      "epaElo": 1524.3,
+      "epaElo": 1524.2,
       "starts": 55,
       "recentAdjustedEpaPerDropback": 0.155,
       "lastStart": "2026-09-24",
       "lastAppearance": "2026-09-24",
       "status": "Established",
-      "teamBaselineEpaElo": 1545.4,
-      "preseasonTeamEpaElo": 1531.4,
-      "forecastEloChange": -23.1,
+      "teamBaselineEpaElo": 1545.3,
+      "preseasonTeamEpaElo": 1531.2,
+      "forecastEloChange": -23.2,
       "initialization": {
         "type": "draft",
         "draftSeason": 2020,
@@ -2530,15 +2437,15 @@
       "depthRank": 1,
       "isStarter": true,
       "projection": "Projected starter",
-      "epaElo": 1523.7,
+      "epaElo": 1523.8,
       "starts": 38,
       "recentAdjustedEpaPerDropback": 0.121,
       "lastStart": "2026-09-20",
       "lastAppearance": "2026-09-20",
       "status": "Established",
       "teamBaselineEpaElo": 1506.7,
-      "preseasonTeamEpaElo": 1518.0,
-      "forecastEloChange": 18.7,
+      "preseasonTeamEpaElo": 1518.1,
+      "forecastEloChange": 18.8,
       "initialization": {
         "type": "draft",
         "draftSeason": 2024,
@@ -2581,21 +2488,114 @@
       ]
     },
     {
+      "playerId": "00-0036442",
+      "name": "Joe Burrow",
+      "team": "CIN",
+      "depthRank": 1,
+      "isStarter": true,
+      "projection": "Projected starter",
+      "epaElo": 1523.7,
+      "starts": 87,
+      "recentAdjustedEpaPerDropback": 0.1,
+      "lastStart": "2026-09-27",
+      "lastAppearance": "2026-09-27",
+      "status": "Established",
+      "teamBaselineEpaElo": 1516.7,
+      "preseasonTeamEpaElo": 1521.3,
+      "forecastEloChange": 7.7,
+      "initialization": {
+        "type": "draft",
+        "draftSeason": 2020,
+        "draftPick": 1,
+        "initializationSeason": 2020,
+        "historicalDraftValue": 112.9,
+        "historicalLeagueQbAverage": 159.2,
+        "initialEpaElo": 1453.7
+      },
+      "offseasonRegressions": [
+        {
+          "season": 2021,
+          "targetEpaElo": 1489.4,
+          "priorSeasonStarts": 10,
+          "openingStarter": true,
+          "reason": "10+ prior-season starts",
+          "beforeEpaElo": 1497.5,
+          "afterEpaElo": 1495.5
+        },
+        {
+          "season": 2022,
+          "targetEpaElo": 1497.0,
+          "priorSeasonStarts": 20,
+          "openingStarter": true,
+          "reason": "10+ prior-season starts",
+          "beforeEpaElo": 1518.4,
+          "afterEpaElo": 1513.1
+        },
+        {
+          "season": 2023,
+          "targetEpaElo": 1489.7,
+          "priorSeasonStarts": 19,
+          "openingStarter": true,
+          "reason": "10+ prior-season starts",
+          "beforeEpaElo": 1543.2,
+          "afterEpaElo": 1529.8
+        },
+        {
+          "season": 2024,
+          "targetEpaElo": 1487.6,
+          "priorSeasonStarts": 10,
+          "openingStarter": true,
+          "reason": "10+ prior-season starts",
+          "beforeEpaElo": 1525.1,
+          "afterEpaElo": 1515.8
+        },
+        {
+          "season": 2025,
+          "targetEpaElo": 1493.7,
+          "priorSeasonStarts": 17,
+          "openingStarter": true,
+          "reason": "10+ prior-season starts",
+          "beforeEpaElo": 1533.8,
+          "afterEpaElo": 1523.8
+        },
+        {
+          "season": 2026,
+          "targetEpaElo": 1491.9,
+          "priorSeasonStarts": 8,
+          "openingStarter": true,
+          "reason": "projected opening starter",
+          "beforeEpaElo": 1535.2,
+          "afterEpaElo": 1524.4
+        }
+      ],
+      "healthyBenchWeeks": 0,
+      "healthyBenchAdjustments": [],
+      "injuryWeeksExcluded": 1,
+      "benchInjuryExclusions": [
+        {
+          "season": 2021,
+          "week": 18,
+          "team": "CIN",
+          "reason": "Questionable"
+        }
+      ]
+    },
+    {
       "playerId": "00-0034869",
       "name": "Sam Darnold",
       "team": "SEA",
       "depthRank": 1,
       "isStarter": true,
       "projection": "Projected starter",
-      "epaElo": 1516.0,
+      "epaElo": 1515.9,
       "starts": 96,
-      "recentAdjustedEpaPerDropback": 0.081,
+      "recentAdjustedEpaPerDropback": 0.08,
       "lastStart": "2026-09-27",
       "lastAppearance": "2026-09-27",
       "status": "Established",
       "teamBaselineEpaElo": 1528.6,
       "preseasonTeamEpaElo": 1520.2,
-      "forecastEloChange": -13.9,
+      "forecastEloChange": -14.0,
       "initialization": {
         "type": "draft",
         "draftSeason": 2018,
@@ -3049,14 +3049,14 @@
       "depthRank": 1,
       "isStarter": true,
       "projection": "Projected starter",
-      "epaElo": 1504.9,
+      "epaElo": 1504.7,
       "starts": 39,
       "recentAdjustedEpaPerDropback": 0.064,
       "lastStart": "2026-09-27",
       "lastAppearance": "2026-09-27",
       "status": "Established",
-      "teamBaselineEpaElo": 1501.7,
-      "preseasonTeamEpaElo": 1503.8,
+      "teamBaselineEpaElo": 1501.6,
+      "preseasonTeamEpaElo": 1503.7,
       "forecastEloChange": 3.5,
       "initialization": {
         "type": "draft",
@@ -3099,15 +3099,15 @@
       "depthRank": 3,
       "isStarter": false,
       "projection": "QB3",
-      "epaElo": 1499.8,
+      "epaElo": 1499.9,
       "starts": 14,
       "recentAdjustedEpaPerDropback": 0.021,
       "lastStart": "2026-09-21",
       "lastAppearance": "2026-09-21",
       "status": "Established",
-      "teamBaselineEpaElo": 1470.7,
+      "teamBaselineEpaElo": 1470.6,
       "preseasonTeamEpaElo": 1490.1,
-      "forecastEloChange": 31.9,
+      "forecastEloChange": 32.2,
       "initialization": {
         "type": "draft",
         "draftSeason": 2025,
@@ -3223,14 +3223,14 @@
       "depthRank": 1,
       "isStarter": true,
       "projection": "Projected starter",
-      "epaElo": 1496.6,
+      "epaElo": 1496.5,
       "starts": 23,
-      "recentAdjustedEpaPerDropback": -0.036,
+      "recentAdjustedEpaPerDropback": -0.037,
       "lastStart": "2026-09-20",
       "lastAppearance": "2026-09-20",
       "status": "Established",
-      "teamBaselineEpaElo": 1501.8,
-      "preseasonTeamEpaElo": 1498.3,
+      "teamBaselineEpaElo": 1501.7,
+      "preseasonTeamEpaElo": 1498.2,
       "forecastEloChange": -5.8,
       "initialization": {
         "type": "draft",
@@ -3322,14 +3322,14 @@
       "depthRank": 1,
       "isStarter": true,
       "projection": "Projected starter",
-      "epaElo": 1495.1,
+      "epaElo": 1495.2,
       "starts": 44,
-      "recentAdjustedEpaPerDropback": 0.011,
+      "recentAdjustedEpaPerDropback": 0.012,
       "lastStart": "2026-09-27",
       "lastAppearance": "2026-09-27",
       "status": "Established",
       "teamBaselineEpaElo": 1472.9,
-      "preseasonTeamEpaElo": 1487.7,
+      "preseasonTeamEpaElo": 1487.8,
       "forecastEloChange": 24.5,
       "initialization": {
         "type": "draft",
@@ -3394,9 +3394,9 @@
       "lastStart": "2025-12-15",
       "lastAppearance": "2025-12-15",
       "status": "Established",
-      "teamBaselineEpaElo": 1473.1,
-      "preseasonTeamEpaElo": 1487.0,
-      "forecastEloChange": 22.9,
+      "teamBaselineEpaElo": 1472.6,
+      "preseasonTeamEpaElo": 1486.8,
+      "forecastEloChange": 23.4,
       "initialization": {
         "type": "draft",
         "draftSeason": 2020,
@@ -3705,15 +3705,15 @@
       "depthRank": 1,
       "isStarter": true,
       "projection": "Projected starter",
-      "epaElo": 1493.6,
+      "epaElo": 1493.7,
       "starts": 13,
       "recentAdjustedEpaPerDropback": 0.002,
       "lastStart": "2026-09-24",
       "lastAppearance": "2026-09-24",
       "status": "Established",
-      "teamBaselineEpaElo": 1473.1,
-      "preseasonTeamEpaElo": 1486.8,
-      "forecastEloChange": 22.6,
+      "teamBaselineEpaElo": 1472.6,
+      "preseasonTeamEpaElo": 1486.7,
+      "forecastEloChange": 23.1,
       "initialization": {
         "type": "draft",
         "draftSeason": 2024,
@@ -4032,15 +4032,15 @@
       "depthRank": 1,
       "isStarter": true,
       "projection": "Projected starter",
-      "epaElo": 1493.4,
+      "epaElo": 1493.2,
       "starts": 87,
       "recentAdjustedEpaPerDropback": -0.025,
       "lastStart": "2026-09-27",
       "lastAppearance": "2026-09-27",
       "status": "Established",
-      "teamBaselineEpaElo": 1492.5,
-      "preseasonTeamEpaElo": 1493.1,
-      "forecastEloChange": 1.0,
+      "teamBaselineEpaElo": 1492.3,
+      "preseasonTeamEpaElo": 1492.9,
+      "forecastEloChange": 0.9,
       "initialization": {
         "type": "draft",
         "draftSeason": 2019,
@@ -4375,7 +4375,7 @@
       "projection": "Projected starter",
       "epaElo": 1492.4,
       "starts": 102,
-      "recentAdjustedEpaPerDropback": -0.119,
+      "recentAdjustedEpaPerDropback": -0.12,
       "lastStart": "2026-09-27",
       "lastAppearance": "2026-09-27",
       "status": "Established",
@@ -5164,7 +5164,7 @@
       "lastStart": "2026-09-27",
       "lastAppearance": "2026-09-27",
       "status": "Established",
-      "teamBaselineEpaElo": 1501.8,
+      "teamBaselineEpaElo": 1501.7,
       "preseasonTeamEpaElo": 1493.7,
       "forecastEloChange": -13.3,
       "initialization": {
@@ -6117,9 +6117,9 @@
       "lastStart": "2026-01-17",
       "lastAppearance": "2026-01-17",
       "status": "Established",
-      "teamBaselineEpaElo": 1560.5,
-      "preseasonTeamEpaElo": 1513.2,
-      "forecastEloChange": -78.0,
+      "teamBaselineEpaElo": 1560.6,
+      "preseasonTeamEpaElo": 1513.3,
+      "forecastEloChange": -78.2,
       "initialization": {
         "type": "draft",
         "draftSeason": 2021,
@@ -6748,15 +6748,15 @@
       "depthRank": 1,
       "isStarter": true,
       "projection": "Projected starter",
-      "epaElo": 1489.4,
+      "epaElo": 1489.3,
       "starts": 174,
-      "recentAdjustedEpaPerDropback": 0.016,
+      "recentAdjustedEpaPerDropback": 0.015,
       "lastStart": "2026-09-27",
       "lastAppearance": "2026-09-27",
       "status": "Established",
-      "teamBaselineEpaElo": 1462.0,
-      "preseasonTeamEpaElo": 1480.3,
-      "forecastEloChange": 30.2,
+      "teamBaselineEpaElo": 1461.9,
+      "preseasonTeamEpaElo": 1480.2,
+      "forecastEloChange": 30.1,
       "initialization": {
         "type": "draft",
         "draftSeason": 2012,
@@ -7454,15 +7454,15 @@
       "depthRank": 1,
       "isStarter": true,
       "projection": "Projected starter",
-      "epaElo": 1489.3,
+      "epaElo": 1489.1,
       "starts": 95,
       "recentAdjustedEpaPerDropback": -0.062,
       "lastStart": "2026-09-28",
       "lastAppearance": "2026-09-28",
       "status": "Established",
-      "teamBaselineEpaElo": 1504.2,
-      "preseasonTeamEpaElo": 1494.3,
-      "forecastEloChange": -16.3,
+      "teamBaselineEpaElo": 1504.0,
+      "preseasonTeamEpaElo": 1494.1,
+      "forecastEloChange": -16.4,
       "initialization": {
         "type": "draft",
         "draftSeason": 2020,
@@ -7787,15 +7787,15 @@
       "depthRank": 1,
       "isStarter": true,
       "projection": "Projected starter",
-      "epaElo": 1488.8,
+      "epaElo": 1487.8,
       "starts": 35,
-      "recentAdjustedEpaPerDropback": -0.026,
+      "recentAdjustedEpaPerDropback": -0.029,
       "lastStart": "2026-09-27",
       "lastAppearance": "2026-09-27",
       "status": "Established",
-      "teamBaselineEpaElo": 1498.5,
-      "preseasonTeamEpaElo": 1492.0,
-      "forecastEloChange": -10.8,
+      "teamBaselineEpaElo": 1498.0,
+      "preseasonTeamEpaElo": 1491.2,
+      "forecastEloChange": -11.2,
       "initialization": {
         "type": "draft",
         "draftSeason": 2024,
@@ -7924,21 +7924,234 @@
       "benchInjuryExclusions": []
     },
     {
+      "playerId": "00-0033537",
+      "name": "Deshaun Watson",
+      "team": "CLE",
+      "depthRank": 1,
+      "isStarter": true,
+      "projection": "Projected starter",
+      "epaElo": 1486.1,
+      "starts": 79,
+      "recentAdjustedEpaPerDropback": -0.13,
+      "lastStart": "2026-10-01",
+      "lastAppearance": "2026-10-01",
+      "status": "Established",
+      "teamBaselineEpaElo": 1430.6,
+      "preseasonTeamEpaElo": 1467.6,
+      "forecastEloChange": 61.0,
+      "initialization": {
+        "type": "draft",
+        "draftSeason": 2017,
+        "draftPick": 12,
+        "initializationSeason": 2017,
+        "historicalDraftValue": 107.9,
+        "historicalLeagueQbAverage": 160.7,
+        "initialEpaElo": 1447.2
+      },
+      "offseasonRegressions": [
+        {
+          "season": 2019,
+          "targetEpaElo": 1497.4,
+          "priorSeasonStarts": 17,
+          "openingStarter": true,
+          "reason": "10+ prior-season starts",
+          "beforeEpaElo": 1506.0,
+          "afterEpaElo": 1503.8
+        },
+        {
+          "season": 2020,
+          "targetEpaElo": 1499.8,
+          "priorSeasonStarts": 17,
+          "openingStarter": true,
+          "reason": "10+ prior-season starts",
+          "beforeEpaElo": 1529.8,
+          "afterEpaElo": 1522.3
+        },
+        {
+          "season": 2021,
+          "targetEpaElo": 1489.4,
+          "priorSeasonStarts": 16,
+          "openingStarter": false,
+          "reason": "10+ prior-season starts",
+          "beforeEpaElo": 1533.7,
+          "afterEpaElo": 1522.6
+        },
+        {
+          "season": 2023,
+          "targetEpaElo": 1489.7,
+          "priorSeasonStarts": 6,
+          "openingStarter": true,
+          "reason": "projected opening starter",
+          "beforeEpaElo": 1491.9,
+          "afterEpaElo": 1491.4
+        },
+        {
+          "season": 2024,
+          "targetEpaElo": 1487.6,
+          "priorSeasonStarts": 6,
+          "openingStarter": true,
+          "reason": "projected opening starter",
+          "beforeEpaElo": 1484.2,
+          "afterEpaElo": 1485.0
+        },
+        {
+          "season": 2026,
+          "targetEpaElo": 1491.9,
+          "priorSeasonStarts": 0,
+          "openingStarter": true,
+          "reason": "projected opening starter",
+          "beforeEpaElo": 1450.2,
+          "afterEpaElo": 1460.7
+        }
+      ],
+      "healthyBenchWeeks": 0,
+      "healthyBenchAdjustments": [],
+      "injuryWeeksExcluded": 21,
+      "benchInjuryExclusions": [
+        {
+          "season": 2019,
+          "week": 17,
+          "team": "HOU",
+          "reason": "Questionable"
+        },
+        {
+          "season": 2021,
+          "week": 1,
+          "team": "HOU",
+          "reason": "Out"
+        },
+        {
+          "season": 2021,
+          "week": 2,
+          "team": "HOU",
+          "reason": "Out"
+        },
+        {
+          "season": 2021,
+          "week": 3,
+          "team": "HOU",
+          "reason": "Out"
+        },
+        {
+          "season": 2021,
+          "week": 4,
+          "team": "HOU",
+          "reason": "Out"
+        },
+        {
+          "season": 2021,
+          "week": 5,
+          "team": "HOU",
+          "reason": "Out"
+        },
+        {
+          "season": 2021,
+          "week": 6,
+          "team": "HOU",
+          "reason": "Out"
+        },
+        {
+          "season": 2021,
+          "week": 7,
+          "team": "HOU",
+          "reason": "Out"
+        },
+        {
+          "season": 2021,
+          "week": 8,
+          "team": "HOU",
+          "reason": "Out"
+        },
+        {
+          "season": 2021,
+          "week": 9,
+          "team": "HOU",
+          "reason": "Out"
+        },
+        {
+          "season": 2021,
+          "week": 11,
+          "team": "HOU",
+          "reason": "Out"
+        },
+        {
+          "season": 2021,
+          "week": 12,
+          "team": "HOU",
+          "reason": "Out"
+        },
+        {
+          "season": 2021,
+          "week": 13,
+          "team": "HOU",
+          "reason": "Out"
+        },
+        {
+          "season": 2021,
+          "week": 14,
+          "team": "HOU",
+          "reason": "Out"
+        },
+        {
+          "season": 2021,
+          "week": 15,
+          "team": "HOU",
+          "reason": "Out"
+        },
+        {
+          "season": 2021,
+          "week": 16,
+          "team": "HOU",
+          "reason": "Out"
+        },
+        {
+          "season": 2021,
+          "week": 17,
+          "team": "HOU",
+          "reason": "Out"
+        },
+        {
+          "season": 2021,
+          "week": 18,
+          "team": "HOU",
+          "reason": "Out"
+        },
+        {
+          "season": 2023,
+          "week": 4,
+          "team": "CLE",
+          "reason": "Questionable"
+        },
+        {
+          "season": 2023,
+          "week": 6,
+          "team": "CLE",
+          "reason": "Out"
+        },
+        {
+          "season": 2023,
+          "week": 8,
+          "team": "CLE",
+          "reason": "Out"
+        }
+      ]
+    },
+    {
       "playerId": "00-0039163",
       "name": "C.J. Stroud",
       "team": "HOU",
       "depthRank": 1,
       "isStarter": true,
       "projection": "Projected starter",
-      "epaElo": 1486.0,
+      "epaElo": 1485.8,
       "starts": 54,
       "recentAdjustedEpaPerDropback": -0.081,
       "lastStart": "2026-09-27",
       "lastAppearance": "2026-09-27",
       "status": "Established",
-      "teamBaselineEpaElo": 1486.4,
-      "preseasonTeamEpaElo": 1486.2,
-      "forecastEloChange": -0.4,
+      "teamBaselineEpaElo": 1486.3,
+      "preseasonTeamEpaElo": 1486.0,
+      "forecastEloChange": -0.5,
       "initialization": {
         "type": "draft",
         "draftSeason": 2023,
@@ -8014,171 +8227,21 @@
       ]
     },
     {
-      "playerId": "00-0035228",
-      "name": "Kyler Murray",
-      "team": "MIN",
-      "depthRank": 1,
-      "isStarter": true,
-      "projection": "Projected starter",
-      "epaElo": 1484.3,
-      "starts": 89,
-      "recentAdjustedEpaPerDropback": -0.05,
-      "lastStart": "2026-09-27",
-      "lastAppearance": "2026-09-27",
-      "status": "Established",
-      "teamBaselineEpaElo": 1453.0,
-      "preseasonTeamEpaElo": 1473.9,
-      "forecastEloChange": 34.5,
-      "initialization": {
-        "type": "draft",
-        "draftSeason": 2019,
-        "draftPick": 1,
-        "initializationSeason": 2019,
-        "historicalDraftValue": 112.9,
-        "historicalLeagueQbAverage": 164.5,
-        "initialEpaElo": 1448.4
-      },
-      "offseasonRegressions": [
-        {
-          "season": 2020,
-          "targetEpaElo": 1499.8,
-          "priorSeasonStarts": 16,
-          "openingStarter": true,
-          "reason": "10+ prior-season starts",
-          "beforeEpaElo": 1492.3,
-          "afterEpaElo": 1494.2
-        },
-        {
-          "season": 2021,
-          "targetEpaElo": 1489.4,
-          "priorSeasonStarts": 15,
-          "openingStarter": true,
-          "reason": "10+ prior-season starts",
-          "beforeEpaElo": 1498.3,
-          "afterEpaElo": 1496.1
-        },
-        {
-          "season": 2022,
-          "targetEpaElo": 1497.0,
-          "priorSeasonStarts": 15,
-          "openingStarter": true,
-          "reason": "10+ prior-season starts",
-          "beforeEpaElo": 1494.9,
-          "afterEpaElo": 1495.4
-        },
-        {
-          "season": 2023,
-          "targetEpaElo": 1489.7,
-          "priorSeasonStarts": 11,
-          "openingStarter": false,
-          "reason": "10+ prior-season starts",
-          "beforeEpaElo": 1490.8,
-          "afterEpaElo": 1490.5
-        },
-        {
-          "season": 2024,
-          "targetEpaElo": 1487.6,
-          "priorSeasonStarts": 8,
-          "openingStarter": true,
-          "reason": "projected opening starter",
-          "beforeEpaElo": 1496.6,
-          "afterEpaElo": 1494.3
-        },
-        {
-          "season": 2025,
-          "targetEpaElo": 1493.7,
-          "priorSeasonStarts": 17,
-          "openingStarter": true,
-          "reason": "10+ prior-season starts",
-          "beforeEpaElo": 1522.4,
-          "afterEpaElo": 1515.2
-        },
-        {
-          "season": 2026,
-          "targetEpaElo": 1491.9,
-          "priorSeasonStarts": 5,
-          "openingStarter": true,
-          "reason": "projected opening starter",
-          "beforeEpaElo": 1507.5,
-          "afterEpaElo": 1503.6
-        }
-      ],
-      "healthyBenchWeeks": 0,
-      "healthyBenchAdjustments": [],
-      "injuryWeeksExcluded": 9,
-      "benchInjuryExclusions": [
-        {
-          "season": 2021,
-          "week": 9,
-          "team": "ARI",
-          "reason": "Questionable"
-        },
-        {
-          "season": 2021,
-          "week": 10,
-          "team": "ARI",
-          "reason": "Questionable"
-        },
-        {
-          "season": 2021,
-          "week": 11,
-          "team": "ARI",
-          "reason": "Questionable"
-        },
-        {
-          "season": 2022,
-          "week": 10,
-          "team": "ARI",
-          "reason": "Questionable"
-        },
-        {
-          "season": 2022,
-          "week": 11,
-          "team": "ARI",
-          "reason": "Questionable"
-        },
-        {
-          "season": 2025,
-          "week": 6,
-          "team": "ARI",
-          "reason": "Questionable"
-        },
-        {
-          "season": 2025,
-          "week": 7,
-          "team": "ARI",
-          "reason": "Questionable"
-        },
-        {
-          "season": 2025,
-          "week": 9,
-          "team": "ARI",
-          "reason": "Questionable"
-        },
-        {
-          "season": 2026,
-          "week": 2,
-          "team": "MIN",
-          "reason": "Out"
-        }
-      ]
-    },
-    {
       "playerId": "00-0033119",
       "name": "Jacoby Brissett",
       "team": "ARI",
       "depthRank": 1,
       "isStarter": true,
       "projection": "Projected starter",
-      "epaElo": 1484.3,
+      "epaElo": 1484.2,
       "starts": 68,
       "recentAdjustedEpaPerDropback": -0.022,
       "lastStart": "2026-09-27",
       "lastAppearance": "2026-09-27",
       "status": "Established",
       "teamBaselineEpaElo": 1493.7,
-      "preseasonTeamEpaElo": 1487.5,
-      "forecastEloChange": -10.3,
+      "preseasonTeamEpaElo": 1487.4,
+      "forecastEloChange": -10.4,
       "initialization": {
         "type": "draft",
         "draftSeason": 2016,
@@ -9728,21 +9791,171 @@
       ]
     },
     {
+      "playerId": "00-0035228",
+      "name": "Kyler Murray",
+      "team": "MIN",
+      "depthRank": 1,
+      "isStarter": true,
+      "projection": "Projected starter",
+      "epaElo": 1484.1,
+      "starts": 89,
+      "recentAdjustedEpaPerDropback": -0.05,
+      "lastStart": "2026-09-27",
+      "lastAppearance": "2026-09-27",
+      "status": "Established",
+      "teamBaselineEpaElo": 1452.9,
+      "preseasonTeamEpaElo": 1473.7,
+      "forecastEloChange": 34.4,
+      "initialization": {
+        "type": "draft",
+        "draftSeason": 2019,
+        "draftPick": 1,
+        "initializationSeason": 2019,
+        "historicalDraftValue": 112.9,
+        "historicalLeagueQbAverage": 164.5,
+        "initialEpaElo": 1448.4
+      },
+      "offseasonRegressions": [
+        {
+          "season": 2020,
+          "targetEpaElo": 1499.8,
+          "priorSeasonStarts": 16,
+          "openingStarter": true,
+          "reason": "10+ prior-season starts",
+          "beforeEpaElo": 1492.3,
+          "afterEpaElo": 1494.2
+        },
+        {
+          "season": 2021,
+          "targetEpaElo": 1489.4,
+          "priorSeasonStarts": 15,
+          "openingStarter": true,
+          "reason": "10+ prior-season starts",
+          "beforeEpaElo": 1498.3,
+          "afterEpaElo": 1496.1
+        },
+        {
+          "season": 2022,
+          "targetEpaElo": 1497.0,
+          "priorSeasonStarts": 15,
+          "openingStarter": true,
+          "reason": "10+ prior-season starts",
+          "beforeEpaElo": 1494.9,
+          "afterEpaElo": 1495.4
+        },
+        {
+          "season": 2023,
+          "targetEpaElo": 1489.7,
+          "priorSeasonStarts": 11,
+          "openingStarter": false,
+          "reason": "10+ prior-season starts",
+          "beforeEpaElo": 1490.8,
+          "afterEpaElo": 1490.5
+        },
+        {
+          "season": 2024,
+          "targetEpaElo": 1487.6,
+          "priorSeasonStarts": 8,
+          "openingStarter": true,
+          "reason": "projected opening starter",
+          "beforeEpaElo": 1496.6,
+          "afterEpaElo": 1494.3
+        },
+        {
+          "season": 2025,
+          "targetEpaElo": 1493.7,
+          "priorSeasonStarts": 17,
+          "openingStarter": true,
+          "reason": "10+ prior-season starts",
+          "beforeEpaElo": 1522.4,
+          "afterEpaElo": 1515.2
+        },
+        {
+          "season": 2026,
+          "targetEpaElo": 1491.9,
+          "priorSeasonStarts": 5,
+          "openingStarter": true,
+          "reason": "projected opening starter",
+          "beforeEpaElo": 1507.5,
+          "afterEpaElo": 1503.6
+        }
+      ],
+      "healthyBenchWeeks": 0,
+      "healthyBenchAdjustments": [],
+      "injuryWeeksExcluded": 9,
+      "benchInjuryExclusions": [
+        {
+          "season": 2021,
+          "week": 9,
+          "team": "ARI",
+          "reason": "Questionable"
+        },
+        {
+          "season": 2021,
+          "week": 10,
+          "team": "ARI",
+          "reason": "Questionable"
+        },
+        {
+          "season": 2021,
+          "week": 11,
+          "team": "ARI",
+          "reason": "Questionable"
+        },
+        {
+          "season": 2022,
+          "week": 10,
+          "team": "ARI",
+          "reason": "Questionable"
+        },
+        {
+          "season": 2022,
+          "week": 11,
+          "team": "ARI",
+          "reason": "Questionable"
+        },
+        {
+          "season": 2025,
+          "week": 6,
+          "team": "ARI",
+          "reason": "Questionable"
+        },
+        {
+          "season": 2025,
+          "week": 7,
+          "team": "ARI",
+          "reason": "Questionable"
+        },
+        {
+          "season": 2025,
+          "week": 9,
+          "team": "ARI",
+          "reason": "Questionable"
+        },
+        {
+          "season": 2026,
+          "week": 2,
+          "team": "MIN",
+          "reason": "Out"
+        }
+      ]
+    },
+    {
       "playerId": "00-0040743",
       "name": "Tyler Shough",
       "team": "NO",
       "depthRank": 1,
       "isStarter": true,
       "projection": "Projected starter",
-      "epaElo": 1480.1,
+      "epaElo": 1480.0,
       "starts": 12,
-      "recentAdjustedEpaPerDropback": -0.057,
+      "recentAdjustedEpaPerDropback": -0.058,
       "lastStart": "2026-09-27",
       "lastAppearance": "2026-09-27",
       "status": "Established",
-      "teamBaselineEpaElo": 1483.6,
-      "preseasonTeamEpaElo": 1481.3,
-      "forecastEloChange": -3.8,
+      "teamBaselineEpaElo": 1483.5,
+      "preseasonTeamEpaElo": 1481.2,
+      "forecastEloChange": -3.9,
       "initialization": {
         "type": "draft",
         "draftSeason": 2025,
@@ -9910,9 +10123,9 @@
       "lastStart": "2026-01-04",
       "lastAppearance": "2026-01-04",
       "status": "Established",
-      "teamBaselineEpaElo": 1449.2,
-      "preseasonTeamEpaElo": 1468.0,
-      "forecastEloChange": 31.0,
+      "teamBaselineEpaElo": 1449.0,
+      "preseasonTeamEpaElo": 1467.9,
+      "forecastEloChange": 31.2,
       "initialization": {
         "type": "draft",
         "draftSeason": 2017,
@@ -11249,219 +11462,6 @@
       ]
     },
     {
-      "playerId": "00-0033537",
-      "name": "Deshaun Watson",
-      "team": "CLE",
-      "depthRank": 1,
-      "isStarter": true,
-      "projection": "Projected starter",
-      "epaElo": 1476.7,
-      "starts": 78,
-      "recentAdjustedEpaPerDropback": -0.226,
-      "lastStart": "2026-09-27",
-      "lastAppearance": "2026-09-27",
-      "status": "Established",
-      "teamBaselineEpaElo": 1423.3,
-      "preseasonTeamEpaElo": 1458.9,
-      "forecastEloChange": 58.8,
-      "initialization": {
-        "type": "draft",
-        "draftSeason": 2017,
-        "draftPick": 12,
-        "initializationSeason": 2017,
-        "historicalDraftValue": 107.9,
-        "historicalLeagueQbAverage": 160.7,
-        "initialEpaElo": 1447.2
-      },
-      "offseasonRegressions": [
-        {
-          "season": 2019,
-          "targetEpaElo": 1497.4,
-          "priorSeasonStarts": 17,
-          "openingStarter": true,
-          "reason": "10+ prior-season starts",
-          "beforeEpaElo": 1506.0,
-          "afterEpaElo": 1503.8
-        },
-        {
-          "season": 2020,
-          "targetEpaElo": 1499.8,
-          "priorSeasonStarts": 17,
-          "openingStarter": true,
-          "reason": "10+ prior-season starts",
-          "beforeEpaElo": 1529.8,
-          "afterEpaElo": 1522.3
-        },
-        {
-          "season": 2021,
-          "targetEpaElo": 1489.4,
-          "priorSeasonStarts": 16,
-          "openingStarter": false,
-          "reason": "10+ prior-season starts",
-          "beforeEpaElo": 1533.7,
-          "afterEpaElo": 1522.6
-        },
-        {
-          "season": 2023,
-          "targetEpaElo": 1489.7,
-          "priorSeasonStarts": 6,
-          "openingStarter": true,
-          "reason": "projected opening starter",
-          "beforeEpaElo": 1491.9,
-          "afterEpaElo": 1491.4
-        },
-        {
-          "season": 2024,
-          "targetEpaElo": 1487.6,
-          "priorSeasonStarts": 6,
-          "openingStarter": true,
-          "reason": "projected opening starter",
-          "beforeEpaElo": 1484.2,
-          "afterEpaElo": 1485.0
-        },
-        {
-          "season": 2026,
-          "targetEpaElo": 1491.9,
-          "priorSeasonStarts": 0,
-          "openingStarter": true,
-          "reason": "projected opening starter",
-          "beforeEpaElo": 1450.2,
-          "afterEpaElo": 1460.7
-        }
-      ],
-      "healthyBenchWeeks": 0,
-      "healthyBenchAdjustments": [],
-      "injuryWeeksExcluded": 21,
-      "benchInjuryExclusions": [
-        {
-          "season": 2019,
-          "week": 17,
-          "team": "HOU",
-          "reason": "Questionable"
-        },
-        {
-          "season": 2021,
-          "week": 1,
-          "team": "HOU",
-          "reason": "Out"
-        },
-        {
-          "season": 2021,
-          "week": 2,
-          "team": "HOU",
-          "reason": "Out"
-        },
-        {
-          "season": 2021,
-          "week": 3,
-          "team": "HOU",
-          "reason": "Out"
-        },
-        {
-          "season": 2021,
-          "week": 4,
-          "team": "HOU",
-          "reason": "Out"
-        },
-        {
-          "season": 2021,
-          "week": 5,
-          "team": "HOU",
-          "reason": "Out"
-        },
-        {
-          "season": 2021,
-          "week": 6,
-          "team": "HOU",
-          "reason": "Out"
-        },
-        {
-          "season": 2021,
-          "week": 7,
-          "team": "HOU",
-          "reason": "Out"
-        },
-        {
-          "season": 2021,
-          "week": 8,
-          "team": "HOU",
-          "reason": "Out"
-        },
-        {
-          "season": 2021,
-          "week": 9,
-          "team": "HOU",
-          "reason": "Out"
-        },
-        {
-          "season": 2021,
-          "week": 11,
-          "team": "HOU",
-          "reason": "Out"
-        },
-        {
-          "season": 2021,
-          "week": 12,
-          "team": "HOU",
-          "reason": "Out"
-        },
-        {
-          "season": 2021,
-          "week": 13,
-          "team": "HOU",
-          "reason": "Out"
-        },
-        {
-          "season": 2021,
-          "week": 14,
-          "team": "HOU",
-          "reason": "Out"
-        },
-        {
-          "season": 2021,
-          "week": 15,
-          "team": "HOU",
-          "reason": "Out"
-        },
-        {
-          "season": 2021,
-          "week": 16,
-          "team": "HOU",
-          "reason": "Out"
-        },
-        {
-          "season": 2021,
-          "week": 17,
-          "team": "HOU",
-          "reason": "Out"
-        },
-        {
-          "season": 2021,
-          "week": 18,
-          "team": "HOU",
-          "reason": "Out"
-        },
-        {
-          "season": 2023,
-          "week": 4,
-          "team": "CLE",
-          "reason": "Questionable"
-        },
-        {
-          "season": 2023,
-          "week": 6,
-          "team": "CLE",
-          "reason": "Out"
-        },
-        {
-          "season": 2023,
-          "week": 8,
-          "team": "CLE",
-          "reason": "Out"
-        }
-      ]
-    },
-    {
       "playerId": "00-0032950",
       "name": "Carson Wentz",
       "team": "MIN",
@@ -11474,9 +11474,9 @@
       "lastStart": "2026-09-20",
       "lastAppearance": "2026-09-20",
       "status": "Established",
-      "teamBaselineEpaElo": 1453.0,
-      "preseasonTeamEpaElo": 1468.4,
-      "forecastEloChange": 25.4,
+      "teamBaselineEpaElo": 1452.9,
+      "preseasonTeamEpaElo": 1468.3,
+      "forecastEloChange": 25.5,
       "initialization": {
         "type": "draft",
         "draftSeason": 2016,
@@ -12132,21 +12132,204 @@
       ]
     },
     {
+      "playerId": "00-0023459",
+      "name": "Aaron Rodgers",
+      "team": "PIT",
+      "depthRank": 1,
+      "isStarter": true,
+      "projection": "Projected starter",
+      "epaElo": 1475.8,
+      "starts": 282,
+      "recentAdjustedEpaPerDropback": -0.072,
+      "lastStart": "2026-10-01",
+      "lastAppearance": "2026-10-01",
+      "status": "Established",
+      "teamBaselineEpaElo": 1485.1,
+      "preseasonTeamEpaElo": 1478.9,
+      "forecastEloChange": -10.2,
+      "initialization": {
+        "type": "draft",
+        "draftSeason": 2005,
+        "draftPick": 24,
+        "initializationSeason": 2005,
+        "historicalDraftValue": 102.5,
+        "historicalLeagueQbAverage": 106.6,
+        "initialEpaElo": 1495.9
+      },
+      "offseasonRegressions": [
+        {
+          "season": 2009,
+          "targetEpaElo": 1492.3,
+          "priorSeasonStarts": 16,
+          "openingStarter": true,
+          "reason": "10+ prior-season starts",
+          "beforeEpaElo": 1521.6,
+          "afterEpaElo": 1514.3
+        },
+        {
+          "season": 2010,
+          "targetEpaElo": 1485.7,
+          "priorSeasonStarts": 17,
+          "openingStarter": true,
+          "reason": "10+ prior-season starts",
+          "beforeEpaElo": 1560.9,
+          "afterEpaElo": 1542.1
+        },
+        {
+          "season": 2011,
+          "targetEpaElo": 1490.3,
+          "priorSeasonStarts": 19,
+          "openingStarter": true,
+          "reason": "10+ prior-season starts",
+          "beforeEpaElo": 1577.9,
+          "afterEpaElo": 1556.0
+        },
+        {
+          "season": 2012,
+          "targetEpaElo": 1488.0,
+          "priorSeasonStarts": 16,
+          "openingStarter": true,
+          "reason": "10+ prior-season starts",
+          "beforeEpaElo": 1580.3,
+          "afterEpaElo": 1557.3
+        },
+        {
+          "season": 2013,
+          "targetEpaElo": 1496.7,
+          "priorSeasonStarts": 18,
+          "openingStarter": true,
+          "reason": "10+ prior-season starts",
+          "beforeEpaElo": 1550.1,
+          "afterEpaElo": 1536.7
+        },
+        {
+          "season": 2014,
+          "targetEpaElo": 1497.3,
+          "priorSeasonStarts": 10,
+          "openingStarter": true,
+          "reason": "10+ prior-season starts",
+          "beforeEpaElo": 1570.3,
+          "afterEpaElo": 1552.0
+        }
+      ],
+      "healthyBenchWeeks": 1,
+      "healthyBenchAdjustments": [
+        {
+          "date": "2012-01-01",
+          "season": 2011,
+          "week": 17,
+          "stage": "Week 17 \u00b7 Healthy backup",
+          "type": "bench",
+          "gameId": "2011_17_DET_GB-backup-00-0023459",
+          "team": "GB",
+          "opponent": "DET",
+          "qbElo": 1593.3,
+          "beforeEpaElo": 1599.4,
+          "anchorEpaElo": 1599.4,
+          "targetEpaElo": 1448.5,
+          "listedDepthRank": 1,
+          "rosterStatus": "ACT",
+          "healthyBenchWeeksInSpell": 1,
+          "startsSinceAnchor": 0,
+          "decayFraction": 0.04,
+          "benchDecayAppliedElo": 6.0,
+          "benchDecayBudgetElo": 75.4,
+          "maxDecayFraction": 0.5,
+          "source": "weekly depth chart"
+        }
+      ],
+      "injuryWeeksExcluded": 12,
+      "benchInjuryExclusions": [
+        {
+          "season": 2010,
+          "week": 15,
+          "team": "GB",
+          "reason": "Doubtful"
+        },
+        {
+          "season": 2013,
+          "week": 10,
+          "team": "GB",
+          "reason": "Out"
+        },
+        {
+          "season": 2013,
+          "week": 11,
+          "team": "GB",
+          "reason": "Out"
+        },
+        {
+          "season": 2013,
+          "week": 12,
+          "team": "GB",
+          "reason": "Out"
+        },
+        {
+          "season": 2013,
+          "week": 13,
+          "team": "GB",
+          "reason": "Out"
+        },
+        {
+          "season": 2013,
+          "week": 14,
+          "team": "GB",
+          "reason": "Out"
+        },
+        {
+          "season": 2013,
+          "week": 15,
+          "team": "GB",
+          "reason": "Out"
+        },
+        {
+          "season": 2013,
+          "week": 16,
+          "team": "GB",
+          "reason": "Out"
+        },
+        {
+          "season": 2023,
+          "week": 16,
+          "team": "NYJ",
+          "reason": "Out"
+        },
+        {
+          "season": 2023,
+          "week": 17,
+          "team": "NYJ",
+          "reason": "Out"
+        },
+        {
+          "season": 2023,
+          "week": 18,
+          "team": "NYJ",
+          "reason": "Out"
+        },
+        {
+          "season": 2025,
+          "week": 12,
+          "team": "PIT",
+          "reason": "Questionable"
+        }
+      ]
+    },
+    {
       "playerId": "00-0034855",
       "name": "Baker Mayfield",
       "team": "TB",
       "depthRank": 1,
       "isStarter": true,
       "projection": "Projected starter",
-      "epaElo": 1475.4,
+      "epaElo": 1475.2,
       "starts": 128,
       "recentAdjustedEpaPerDropback": -0.183,
       "lastStart": "2026-09-27",
       "lastAppearance": "2026-09-27",
       "status": "Established",
-      "teamBaselineEpaElo": 1497.0,
-      "preseasonTeamEpaElo": 1482.6,
-      "forecastEloChange": -23.8,
+      "teamBaselineEpaElo": 1496.9,
+      "preseasonTeamEpaElo": 1482.5,
+      "forecastEloChange": -23.9,
       "initialization": {
         "type": "draft",
         "draftSeason": 2018,
@@ -12359,15 +12542,15 @@
       "depthRank": 1,
       "isStarter": true,
       "projection": "Projected starter",
-      "epaElo": 1475.1,
+      "epaElo": 1474.8,
       "starts": 101,
       "recentAdjustedEpaPerDropback": -0.131,
       "lastStart": "2026-09-27",
       "lastAppearance": "2026-09-27",
       "status": "Established",
-      "teamBaselineEpaElo": 1478.5,
-      "preseasonTeamEpaElo": 1476.2,
-      "forecastEloChange": -3.8,
+      "teamBaselineEpaElo": 1478.4,
+      "preseasonTeamEpaElo": 1476.0,
+      "forecastEloChange": -4.0,
       "initialization": {
         "type": "draft",
         "draftSeason": 2020,
@@ -12470,204 +12653,21 @@
       ]
     },
     {
-      "playerId": "00-0023459",
-      "name": "Aaron Rodgers",
-      "team": "PIT",
-      "depthRank": 1,
-      "isStarter": true,
-      "projection": "Projected starter",
-      "epaElo": 1473.0,
-      "starts": 281,
-      "recentAdjustedEpaPerDropback": -0.101,
-      "lastStart": "2026-09-27",
-      "lastAppearance": "2026-09-27",
-      "status": "Established",
-      "teamBaselineEpaElo": 1484.3,
-      "preseasonTeamEpaElo": 1476.7,
-      "forecastEloChange": -12.4,
-      "initialization": {
-        "type": "draft",
-        "draftSeason": 2005,
-        "draftPick": 24,
-        "initializationSeason": 2005,
-        "historicalDraftValue": 102.5,
-        "historicalLeagueQbAverage": 106.6,
-        "initialEpaElo": 1495.9
-      },
-      "offseasonRegressions": [
-        {
-          "season": 2009,
-          "targetEpaElo": 1492.3,
-          "priorSeasonStarts": 16,
-          "openingStarter": true,
-          "reason": "10+ prior-season starts",
-          "beforeEpaElo": 1521.6,
-          "afterEpaElo": 1514.3
-        },
-        {
-          "season": 2010,
-          "targetEpaElo": 1485.7,
-          "priorSeasonStarts": 17,
-          "openingStarter": true,
-          "reason": "10+ prior-season starts",
-          "beforeEpaElo": 1560.9,
-          "afterEpaElo": 1542.1
-        },
-        {
-          "season": 2011,
-          "targetEpaElo": 1490.3,
-          "priorSeasonStarts": 19,
-          "openingStarter": true,
-          "reason": "10+ prior-season starts",
-          "beforeEpaElo": 1577.9,
-          "afterEpaElo": 1556.0
-        },
-        {
-          "season": 2012,
-          "targetEpaElo": 1488.0,
-          "priorSeasonStarts": 16,
-          "openingStarter": true,
-          "reason": "10+ prior-season starts",
-          "beforeEpaElo": 1580.3,
-          "afterEpaElo": 1557.3
-        },
-        {
-          "season": 2013,
-          "targetEpaElo": 1496.7,
-          "priorSeasonStarts": 18,
-          "openingStarter": true,
-          "reason": "10+ prior-season starts",
-          "beforeEpaElo": 1550.1,
-          "afterEpaElo": 1536.7
-        },
-        {
-          "season": 2014,
-          "targetEpaElo": 1497.3,
-          "priorSeasonStarts": 10,
-          "openingStarter": true,
-          "reason": "10+ prior-season starts",
-          "beforeEpaElo": 1570.3,
-          "afterEpaElo": 1552.0
-        }
-      ],
-      "healthyBenchWeeks": 1,
-      "healthyBenchAdjustments": [
-        {
-          "date": "2012-01-01",
-          "season": 2011,
-          "week": 17,
-          "stage": "Week 17 \u00b7 Healthy backup",
-          "type": "bench",
-          "gameId": "2011_17_DET_GB-backup-00-0023459",
-          "team": "GB",
-          "opponent": "DET",
-          "qbElo": 1593.3,
-          "beforeEpaElo": 1599.4,
-          "anchorEpaElo": 1599.4,
-          "targetEpaElo": 1448.5,
-          "listedDepthRank": 1,
-          "rosterStatus": "ACT",
-          "healthyBenchWeeksInSpell": 1,
-          "startsSinceAnchor": 0,
-          "decayFraction": 0.04,
-          "benchDecayAppliedElo": 6.0,
-          "benchDecayBudgetElo": 75.4,
-          "maxDecayFraction": 0.5,
-          "source": "weekly depth chart"
-        }
-      ],
-      "injuryWeeksExcluded": 12,
-      "benchInjuryExclusions": [
-        {
-          "season": 2010,
-          "week": 15,
-          "team": "GB",
-          "reason": "Doubtful"
-        },
-        {
-          "season": 2013,
-          "week": 10,
-          "team": "GB",
-          "reason": "Out"
-        },
-        {
-          "season": 2013,
-          "week": 11,
-          "team": "GB",
-          "reason": "Out"
-        },
-        {
-          "season": 2013,
-          "week": 12,
-          "team": "GB",
-          "reason": "Out"
-        },
-        {
-          "season": 2013,
-          "week": 13,
-          "team": "GB",
-          "reason": "Out"
-        },
-        {
-          "season": 2013,
-          "week": 14,
-          "team": "GB",
-          "reason": "Out"
-        },
-        {
-          "season": 2013,
-          "week": 15,
-          "team": "GB",
-          "reason": "Out"
-        },
-        {
-          "season": 2013,
-          "week": 16,
-          "team": "GB",
-          "reason": "Out"
-        },
-        {
-          "season": 2023,
-          "week": 16,
-          "team": "NYJ",
-          "reason": "Out"
-        },
-        {
-          "season": 2023,
-          "week": 17,
-          "team": "NYJ",
-          "reason": "Out"
-        },
-        {
-          "season": 2023,
-          "week": 18,
-          "team": "NYJ",
-          "reason": "Out"
-        },
-        {
-          "season": 2025,
-          "week": 12,
-          "team": "PIT",
-          "reason": "Questionable"
-        }
-      ]
-    },
-    {
       "playerId": "00-0035704",
       "name": "Drew Lock",
       "team": "SEA",
       "depthRank": 2,
       "isStarter": false,
       "projection": "QB2",
-      "epaElo": 1469.4,
+      "epaElo": 1469.5,
       "starts": 26,
       "recentAdjustedEpaPerDropback": -0.129,
       "lastStart": "2026-09-20",
       "lastAppearance": "2026-09-20",
       "status": "Established",
       "teamBaselineEpaElo": 1528.6,
-      "preseasonTeamEpaElo": 1489.1,
-      "forecastEloChange": -65.2,
+      "preseasonTeamEpaElo": 1489.2,
+      "forecastEloChange": -65.1,
       "initialization": {
         "type": "draft",
         "draftSeason": 2019,
@@ -13744,15 +13744,15 @@
       "depthRank": 2,
       "isStarter": false,
       "projection": "QB2",
-      "epaElo": 1463.2,
+      "epaElo": 1462.3,
       "starts": 21,
       "recentAdjustedEpaPerDropback": 0.029,
       "lastStart": "2026-09-20",
       "lastAppearance": "2026-09-20",
       "status": "Established",
-      "teamBaselineEpaElo": 1484.3,
-      "preseasonTeamEpaElo": 1470.3,
-      "forecastEloChange": -23.1,
+      "teamBaselineEpaElo": 1485.1,
+      "preseasonTeamEpaElo": 1469.9,
+      "forecastEloChange": -25.1,
       "initialization": {
         "type": "draft",
         "draftSeason": 2018,
@@ -13763,7 +13763,7 @@
         "initialEpaElo": 1429.8
       },
       "offseasonRegressions": [],
-      "healthyBenchWeeks": 97,
+      "healthyBenchWeeks": 98,
       "healthyBenchAdjustments": [
         {
           "date": "2018-09-09",
@@ -14983,6 +14983,29 @@
           "benchDecayBudgetElo": 21.0,
           "maxDecayFraction": 0.5,
           "source": "dated depth-chart snapshot"
+        },
+        {
+          "date": "2026-10-01",
+          "season": 2026,
+          "week": 4,
+          "stage": "Week 4 \u00b7 Healthy backup",
+          "type": "bench",
+          "gameId": "2026_04_PIT_CLE-backup-00-0034771",
+          "team": "PIT",
+          "opponent": "CLE",
+          "qbElo": 1462.3,
+          "beforeEpaElo": 1463.2,
+          "anchorEpaElo": 1477.5,
+          "targetEpaElo": 1435.5,
+          "listedDepthRank": 2,
+          "rosterStatus": "ACT",
+          "healthyBenchWeeksInSpell": 16,
+          "startsSinceAnchor": 1,
+          "decayFraction": 0.4792,
+          "benchDecayAppliedElo": 20.2,
+          "benchDecayBudgetElo": 21.0,
+          "maxDecayFraction": 0.5,
+          "source": "dated depth-chart snapshot"
         }
       ],
       "injuryWeeksExcluded": 1,
@@ -15008,9 +15031,9 @@
       "lastStart": "2026-01-04",
       "lastAppearance": "2026-01-04",
       "status": "Established",
-      "teamBaselineEpaElo": 1462.0,
+      "teamBaselineEpaElo": 1461.9,
       "preseasonTeamEpaElo": 1461.9,
-      "forecastEloChange": -0.1,
+      "forecastEloChange": -0.0,
       "initialization": {
         "type": "draft",
         "draftSeason": 2023,
@@ -15287,15 +15310,15 @@
       "depthRank": 1,
       "isStarter": true,
       "projection": "Projected starter",
-      "epaElo": 1457.2,
+      "epaElo": 1456.9,
       "starts": 20,
       "recentAdjustedEpaPerDropback": -0.133,
       "lastStart": "2026-09-27",
       "lastAppearance": "2026-09-27",
       "status": "Established",
-      "teamBaselineEpaElo": 1449.2,
-      "preseasonTeamEpaElo": 1454.5,
-      "forecastEloChange": 8.8,
+      "teamBaselineEpaElo": 1449.0,
+      "preseasonTeamEpaElo": 1454.3,
+      "forecastEloChange": 8.6,
       "initialization": {
         "type": "draft",
         "draftSeason": 2025,
@@ -15334,9 +15357,9 @@
       "lastStart": "2025-12-07",
       "lastAppearance": "2025-12-07",
       "status": "Established",
-      "teamBaselineEpaElo": 1545.4,
-      "preseasonTeamEpaElo": 1485.4,
-      "forecastEloChange": -99.0,
+      "teamBaselineEpaElo": 1545.3,
+      "preseasonTeamEpaElo": 1485.3,
+      "forecastEloChange": -98.9,
       "initialization": {
         "type": "draft",
         "draftSeason": 2011,
@@ -17285,9 +17308,9 @@
       "lastStart": "2026-01-04",
       "lastAppearance": "2026-01-04",
       "status": "Established",
-      "teamBaselineEpaElo": 1470.7,
-      "preseasonTeamEpaElo": 1459.2,
-      "forecastEloChange": -19.1,
+      "teamBaselineEpaElo": 1470.6,
+      "preseasonTeamEpaElo": 1459.1,
+      "forecastEloChange": -18.9,
       "initialization": {
         "type": "draft",
         "draftSeason": 2024,
@@ -17439,9 +17462,9 @@
       "lastStart": "2025-10-05",
       "lastAppearance": "2025-10-05",
       "status": "Established",
-      "teamBaselineEpaElo": 1492.5,
-      "preseasonTeamEpaElo": 1465.9,
-      "forecastEloChange": -43.8,
+      "teamBaselineEpaElo": 1492.3,
+      "preseasonTeamEpaElo": 1465.8,
+      "forecastEloChange": -43.7,
       "initialization": {
         "type": "draft",
         "draftSeason": 2023,
@@ -18375,9 +18398,9 @@
       "lastStart": "2025-12-28",
       "lastAppearance": "2025-12-28",
       "status": "Established",
-      "teamBaselineEpaElo": 1517.2,
-      "preseasonTeamEpaElo": 1471.6,
-      "forecastEloChange": -75.2,
+      "teamBaselineEpaElo": 1516.7,
+      "preseasonTeamEpaElo": 1471.5,
+      "forecastEloChange": -74.6,
       "initialization": {
         "type": "draft",
         "draftSeason": 2008,
@@ -19623,9 +19646,9 @@
       "lastStart": "2026-01-04",
       "lastAppearance": "2026-01-04",
       "status": "Established",
-      "teamBaselineEpaElo": 1557.1,
+      "teamBaselineEpaElo": 1557.2,
       "preseasonTeamEpaElo": 1483.5,
-      "forecastEloChange": -121.5,
+      "forecastEloChange": -121.6,
       "initialization": {
         "type": "draft",
         "draftSeason": 2017,
@@ -20079,9 +20102,9 @@
       "lastStart": "2026-01-04",
       "lastAppearance": "2026-01-04",
       "status": "Established",
-      "teamBaselineEpaElo": 1486.4,
+      "teamBaselineEpaElo": 1486.3,
       "preseasonTeamEpaElo": 1458.6,
-      "forecastEloChange": -45.8,
+      "forecastEloChange": -45.7,
       "initialization": {
         "type": "draft",
         "draftSeason": 2021,
@@ -20822,7 +20845,7 @@
       "status": "Established",
       "teamBaselineEpaElo": 1493.7,
       "preseasonTeamEpaElo": 1460.9,
-      "forecastEloChange": -54.2,
+      "forecastEloChange": -54.1,
       "initialization": {
         "type": "draft",
         "draftSeason": 2019,
@@ -22040,15 +22063,15 @@
       "depthRank": 1,
       "isStarter": true,
       "projection": "Projected starter",
-      "epaElo": 1443.1,
+      "epaElo": 1442.8,
       "starts": 90,
       "recentAdjustedEpaPerDropback": -0.126,
       "lastStart": "2026-09-27",
       "lastAppearance": "2026-09-27",
       "status": "Established",
-      "teamBaselineEpaElo": 1470.7,
-      "preseasonTeamEpaElo": 1452.3,
-      "forecastEloChange": -30.4,
+      "teamBaselineEpaElo": 1470.6,
+      "preseasonTeamEpaElo": 1452.1,
+      "forecastEloChange": -30.6,
       "initialization": {
         "type": "draft",
         "draftSeason": 2015,
@@ -23837,9 +23860,9 @@
       "lastStart": "2026-01-04",
       "lastAppearance": "2026-01-04",
       "status": "Established",
-      "teamBaselineEpaElo": 1483.6,
+      "teamBaselineEpaElo": 1483.5,
       "preseasonTeamEpaElo": 1451.7,
-      "forecastEloChange": -52.6,
+      "forecastEloChange": -52.5,
       "initialization": {
         "type": "draft",
         "draftSeason": 2021,
@@ -24455,9 +24478,9 @@
       "lastStart": "2025-12-14",
       "lastAppearance": "2025-12-14",
       "status": "Established",
-      "teamBaselineEpaElo": 1483.6,
+      "teamBaselineEpaElo": 1483.5,
       "preseasonTeamEpaElo": 1451.1,
-      "forecastEloChange": -53.5,
+      "forecastEloChange": -53.4,
       "initialization": {
         "type": "draft",
         "draftSeason": 2024,
@@ -24563,9 +24586,9 @@
       "lastStart": "2026-09-28",
       "lastAppearance": "2026-09-28",
       "status": "Established",
-      "teamBaselineEpaElo": 1504.2,
-      "preseasonTeamEpaElo": 1456.1,
-      "forecastEloChange": -79.3,
+      "teamBaselineEpaElo": 1504.0,
+      "preseasonTeamEpaElo": 1456.0,
+      "forecastEloChange": -79.2,
       "initialization": {
         "type": "draft",
         "draftSeason": 2011,
@@ -25788,13 +25811,13 @@
       "projection": "QB2",
       "epaElo": 1428.8,
       "starts": 69,
-      "recentAdjustedEpaPerDropback": -0.184,
+      "recentAdjustedEpaPerDropback": -0.185,
       "lastStart": "2026-09-28",
       "lastAppearance": "2026-09-28",
       "status": "Established",
       "teamBaselineEpaElo": 1506.7,
       "preseasonTeamEpaElo": 1454.8,
-      "forecastEloChange": -85.6,
+      "forecastEloChange": -85.7,
       "initialization": {
         "type": "undrafted",
         "draftSeason": null,
@@ -26839,7 +26862,7 @@
       "lastAppearance": "2025-11-09",
       "status": "Established",
       "teamBaselineEpaElo": 1559.2,
-      "preseasonTeamEpaElo": 1470.1,
+      "preseasonTeamEpaElo": 1470.2,
       "forecastEloChange": -146.9,
       "initialization": {
         "type": "undrafted",
@@ -27387,15 +27410,15 @@
       "depthRank": 3,
       "isStarter": false,
       "projection": "QB3",
-      "epaElo": 1421.5,
+      "epaElo": 1420.6,
       "starts": 17,
-      "recentAdjustedEpaPerDropback": -0.219,
+      "recentAdjustedEpaPerDropback": -0.221,
       "lastStart": "2026-09-20",
       "lastAppearance": "2026-09-20",
       "status": "Established",
-      "teamBaselineEpaElo": 1473.1,
-      "preseasonTeamEpaElo": 1438.7,
-      "forecastEloChange": -56.8,
+      "teamBaselineEpaElo": 1472.6,
+      "preseasonTeamEpaElo": 1438.0,
+      "forecastEloChange": -57.2,
       "initialization": {
         "type": "undrafted",
         "draftSeason": null,
@@ -28103,8 +28126,8 @@
       "lastAppearance": "2024-12-15",
       "status": "Established",
       "teamBaselineEpaElo": 1533.8,
-      "preseasonTeamEpaElo": 1457.1,
-      "forecastEloChange": -126.4,
+      "preseasonTeamEpaElo": 1457.2,
+      "forecastEloChange": -126.5,
       "initialization": {
         "type": "draft",
         "draftSeason": 2022,
@@ -28437,15 +28460,15 @@
       "depthRank": 1,
       "isStarter": true,
       "projection": "Projected starter",
-      "epaElo": 1465.7,
+      "epaElo": 1465.6,
       "starts": 9,
       "recentAdjustedEpaPerDropback": 0.121,
       "lastStart": "2026-09-27",
       "lastAppearance": "2026-09-27",
       "status": "Provisional",
-      "teamBaselineEpaElo": 1499.0,
-      "preseasonTeamEpaElo": 1476.8,
-      "forecastEloChange": -36.6,
+      "teamBaselineEpaElo": 1498.9,
+      "preseasonTeamEpaElo": 1476.7,
+      "forecastEloChange": -36.7,
       "initialization": {
         "type": "draft",
         "draftSeason": 2022,
@@ -28994,7 +29017,7 @@
       "lastStart": null,
       "lastAppearance": null,
       "status": "Provisional",
-      "teamBaselineEpaElo": 1462.0,
+      "teamBaselineEpaElo": 1461.9,
       "preseasonTeamEpaElo": 1459.5,
       "forecastEloChange": -4.0,
       "initialization": {
@@ -29095,7 +29118,7 @@
       "lastStart": null,
       "lastAppearance": null,
       "status": "Provisional",
-      "teamBaselineEpaElo": 1545.0,
+      "teamBaselineEpaElo": 1544.9,
       "preseasonTeamEpaElo": 1484.0,
       "forecastEloChange": -100.6,
       "initialization": {
@@ -29198,7 +29221,7 @@
       "status": "Provisional",
       "teamBaselineEpaElo": 1493.7,
       "preseasonTeamEpaElo": 1452.9,
-      "forecastEloChange": -67.4,
+      "forecastEloChange": -67.3,
       "initialization": {
         "type": "draft",
         "draftSeason": 2026,
@@ -29227,9 +29250,9 @@
       "lastStart": null,
       "lastAppearance": null,
       "status": "Provisional",
-      "teamBaselineEpaElo": 1484.3,
-      "preseasonTeamEpaElo": 1446.4,
-      "forecastEloChange": -62.5,
+      "teamBaselineEpaElo": 1485.1,
+      "preseasonTeamEpaElo": 1446.7,
+      "forecastEloChange": -63.4,
       "initialization": {
         "type": "draft",
         "draftSeason": 2026,
@@ -29240,7 +29263,7 @@
         "initialEpaElo": 1427.5
       },
       "offseasonRegressions": [],
-      "healthyBenchWeeks": 3,
+      "healthyBenchWeeks": 4,
       "healthyBenchAdjustments": [],
       "injuryWeeksExcluded": 0,
       "benchInjuryExclusions": []
@@ -29258,9 +29281,9 @@
       "lastStart": "2026-01-25",
       "lastAppearance": "2026-01-25",
       "status": "Provisional",
-      "teamBaselineEpaElo": 1501.7,
+      "teamBaselineEpaElo": 1501.6,
       "preseasonTeamEpaElo": 1447.8,
-      "forecastEloChange": -88.8,
+      "forecastEloChange": -88.7,
       "initialization": {
         "type": "draft",
         "draftSeason": 2019,
@@ -29683,7 +29706,7 @@
       "status": "Provisional",
       "teamBaselineEpaElo": 1528.6,
       "preseasonTeamEpaElo": 1452.1,
-      "forecastEloChange": -126.2,
+      "forecastEloChange": -126.3,
       "initialization": {
         "type": "draft",
         "draftSeason": 2025,
@@ -29712,9 +29735,9 @@
       "lastStart": "2025-12-21",
       "lastAppearance": "2025-12-21",
       "status": "Provisional",
-      "teamBaselineEpaElo": 1423.3,
-      "preseasonTeamEpaElo": 1416.1,
-      "forecastEloChange": -11.8,
+      "teamBaselineEpaElo": 1430.6,
+      "preseasonTeamEpaElo": 1418.5,
+      "forecastEloChange": -19.9,
       "initialization": {
         "type": "draft",
         "draftSeason": 2025,
@@ -29787,9 +29810,9 @@
       "lastStart": "2026-01-04",
       "lastAppearance": "2026-01-04",
       "status": "Provisional",
-      "teamBaselineEpaElo": 1478.5,
-      "preseasonTeamEpaElo": 1433.4,
-      "forecastEloChange": -74.5,
+      "teamBaselineEpaElo": 1478.4,
+      "preseasonTeamEpaElo": 1433.3,
+      "forecastEloChange": -74.3,
       "initialization": {
         "type": "draft",
         "draftSeason": 2021,
@@ -30493,13 +30516,13 @@
       "depthRank": 2,
       "isStarter": false,
       "projection": "QB2",
-      "epaElo": 1406.3,
+      "epaElo": 1406.2,
       "starts": 0,
-      "recentAdjustedEpaPerDropback": -0.035,
+      "recentAdjustedEpaPerDropback": -0.036,
       "lastStart": "2026-09-10",
       "lastAppearance": "2026-09-10",
       "status": "Provisional",
-      "teamBaselineEpaElo": 1545.0,
+      "teamBaselineEpaElo": 1544.9,
       "preseasonTeamEpaElo": 1452.5,
       "forecastEloChange": -152.6,
       "initialization": {
@@ -30537,9 +30560,9 @@
       "lastStart": "2026-01-04",
       "lastAppearance": "2026-01-04",
       "status": "Provisional",
-      "teamBaselineEpaElo": 1504.2,
+      "teamBaselineEpaElo": 1504.0,
       "preseasonTeamEpaElo": 1436.9,
-      "forecastEloChange": -111.0,
+      "forecastEloChange": -110.8,
       "initialization": {
         "type": "draft",
         "draftSeason": 2023,
@@ -30587,9 +30610,9 @@
       "lastStart": "2026-09-27",
       "lastAppearance": "2026-09-27",
       "status": "Provisional",
-      "teamBaselineEpaElo": 1498.5,
-      "preseasonTeamEpaElo": 1430.6,
-      "forecastEloChange": -112.1,
+      "teamBaselineEpaElo": 1498.0,
+      "preseasonTeamEpaElo": 1430.4,
+      "forecastEloChange": -111.6,
       "initialization": {
         "type": "undrafted",
         "draftSeason": null,
@@ -30625,9 +30648,9 @@
       "lastStart": "2026-01-04",
       "lastAppearance": "2026-01-04",
       "status": "Provisional",
-      "teamBaselineEpaElo": 1492.5,
-      "preseasonTeamEpaElo": 1428.5,
-      "forecastEloChange": -105.6,
+      "teamBaselineEpaElo": 1492.3,
+      "preseasonTeamEpaElo": 1428.4,
+      "forecastEloChange": -105.5,
       "initialization": {
         "type": "draft",
         "draftSeason": 2025,
@@ -30650,15 +30673,15 @@
       "depthRank": 3,
       "isStarter": false,
       "projection": "QB3",
-      "epaElo": 1394.0,
+      "epaElo": 1393.9,
       "starts": 4,
-      "recentAdjustedEpaPerDropback": -0.162,
+      "recentAdjustedEpaPerDropback": -0.163,
       "lastStart": "2026-09-20",
       "lastAppearance": "2026-09-20",
       "status": "Provisional",
       "teamBaselineEpaElo": 1506.7,
       "preseasonTeamEpaElo": 1431.5,
-      "forecastEloChange": -124.0,
+      "forecastEloChange": -124.1,
       "initialization": {
         "type": "undrafted",
         "draftSeason": null,
@@ -30700,9 +30723,9 @@
       "lastStart": "2026-09-27",
       "lastAppearance": "2026-09-27",
       "status": "Provisional",
-      "teamBaselineEpaElo": 1423.3,
-      "preseasonTeamEpaElo": 1401.4,
-      "forecastEloChange": -36.0,
+      "teamBaselineEpaElo": 1430.6,
+      "preseasonTeamEpaElo": 1403.9,
+      "forecastEloChange": -44.1,
       "initialization": {
         "type": "draft",
         "draftSeason": 2025,
@@ -30713,7 +30736,7 @@
         "initialEpaElo": 1390.3
       },
       "offseasonRegressions": [],
-      "healthyBenchWeeks": 10,
+      "healthyBenchWeeks": 11,
       "healthyBenchAdjustments": [],
       "injuryWeeksExcluded": 1,
       "benchInjuryExclusions": [
@@ -30738,7 +30761,7 @@
       "lastStart": "2026-01-04",
       "lastAppearance": "2026-01-04",
       "status": "Provisional",
-      "teamBaselineEpaElo": 1523.6,
+      "teamBaselineEpaElo": 1523.5,
       "preseasonTeamEpaElo": 1431.6,
       "forecastEloChange": -151.7,
       "initialization": {
@@ -30769,9 +30792,9 @@
       "lastStart": null,
       "lastAppearance": null,
       "status": "Provisional",
-      "teamBaselineEpaElo": 1504.2,
+      "teamBaselineEpaElo": 1504.0,
       "preseasonTeamEpaElo": 1422.2,
-      "forecastEloChange": -135.2,
+      "forecastEloChange": -135.1,
       "initialization": {
         "type": "draft",
         "draftSeason": 2026,
@@ -30800,9 +30823,9 @@
       "lastStart": null,
       "lastAppearance": null,
       "status": "Provisional",
-      "teamBaselineEpaElo": 1423.3,
-      "preseasonTeamEpaElo": 1394.0,
-      "forecastEloChange": -48.2,
+      "teamBaselineEpaElo": 1430.6,
+      "preseasonTeamEpaElo": 1396.5,
+      "forecastEloChange": -56.3,
       "initialization": {
         "type": "draft",
         "draftSeason": 2026,
@@ -30813,7 +30836,7 @@
         "initialEpaElo": 1379.4
       },
       "offseasonRegressions": [],
-      "healthyBenchWeeks": 3,
+      "healthyBenchWeeks": 4,
       "healthyBenchAdjustments": [],
       "injuryWeeksExcluded": 0,
       "benchInjuryExclusions": []
@@ -30833,7 +30856,7 @@
       "status": "Provisional",
       "teamBaselineEpaElo": 1533.9,
       "preseasonTeamEpaElo": 1427.3,
-      "forecastEloChange": -175.8,
+      "forecastEloChange": -175.9,
       "initialization": {
         "type": "draft",
         "draftSeason": 2022,
@@ -30893,9 +30916,9 @@
       "lastStart": null,
       "lastAppearance": null,
       "status": "Provisional",
-      "teamBaselineEpaElo": 1499.0,
+      "teamBaselineEpaElo": 1498.9,
       "preseasonTeamEpaElo": 1415.3,
-      "forecastEloChange": -138.1,
+      "forecastEloChange": -138.0,
       "initialization": {
         "type": "draft",
         "draftSeason": 2025,
@@ -30924,9 +30947,9 @@
       "lastStart": null,
       "lastAppearance": null,
       "status": "Provisional",
-      "teamBaselineEpaElo": 1484.3,
-      "preseasonTeamEpaElo": 1409.2,
-      "forecastEloChange": -123.9,
+      "teamBaselineEpaElo": 1485.1,
+      "preseasonTeamEpaElo": 1409.5,
+      "forecastEloChange": -124.8,
       "initialization": {
         "type": "draft",
         "draftSeason": 2025,
@@ -30937,7 +30960,7 @@
         "initialEpaElo": 1371.7
       },
       "offseasonRegressions": [],
-      "healthyBenchWeeks": 11,
+      "healthyBenchWeeks": 12,
       "healthyBenchAdjustments": [],
       "injuryWeeksExcluded": 0,
       "benchInjuryExclusions": []
@@ -30955,9 +30978,9 @@
       "lastStart": null,
       "lastAppearance": null,
       "status": "Provisional",
-      "teamBaselineEpaElo": 1486.4,
-      "preseasonTeamEpaElo": 1406.3,
-      "forecastEloChange": -132.2,
+      "teamBaselineEpaElo": 1486.3,
+      "preseasonTeamEpaElo": 1406.2,
+      "forecastEloChange": -132.0,
       "initialization": {
         "type": "draft",
         "draftSeason": 2025,
@@ -30986,7 +31009,7 @@
       "lastStart": null,
       "lastAppearance": null,
       "status": "Provisional",
-      "teamBaselineEpaElo": 1501.8,
+      "teamBaselineEpaElo": 1501.7,
       "preseasonTeamEpaElo": 1407.8,
       "forecastEloChange": -155.0,
       "initialization": {
@@ -31017,9 +31040,9 @@
       "lastStart": "2026-01-04",
       "lastAppearance": "2026-01-04",
       "status": "Provisional",
-      "teamBaselineEpaElo": 1499.0,
+      "teamBaselineEpaElo": 1498.9,
       "preseasonTeamEpaElo": 1405.3,
-      "forecastEloChange": -154.7,
+      "forecastEloChange": -154.6,
       "initialization": {
         "type": "undrafted",
         "draftSeason": null,
@@ -31048,9 +31071,9 @@
       "lastStart": null,
       "lastAppearance": null,
       "status": "Provisional",
-      "teamBaselineEpaElo": 1498.5,
-      "preseasonTeamEpaElo": 1403.4,
-      "forecastEloChange": -156.9,
+      "teamBaselineEpaElo": 1498.0,
+      "preseasonTeamEpaElo": 1403.3,
+      "forecastEloChange": -156.4,
       "initialization": {
         "type": "draft",
         "draftSeason": 2026,
@@ -31079,9 +31102,9 @@
       "lastStart": null,
       "lastAppearance": null,
       "status": "Provisional",
-      "teamBaselineEpaElo": 1560.5,
-      "preseasonTeamEpaElo": 1421.9,
-      "forecastEloChange": -228.6,
+      "teamBaselineEpaElo": 1560.6,
+      "preseasonTeamEpaElo": 1422.0,
+      "forecastEloChange": -228.8,
       "initialization": {
         "type": "draft",
         "draftSeason": 2025,
@@ -31106,13 +31129,13 @@
       "projection": "QB2",
       "epaElo": 1349.6,
       "starts": 0,
-      "recentAdjustedEpaPerDropback": -0.175,
+      "recentAdjustedEpaPerDropback": -0.176,
       "lastStart": "2026-09-27",
       "lastAppearance": "2026-09-27",
       "status": "Provisional",
-      "teamBaselineEpaElo": 1497.0,
+      "teamBaselineEpaElo": 1496.9,
       "preseasonTeamEpaElo": 1398.7,
-      "forecastEloChange": -162.2,
+      "forecastEloChange": -162.1,
       "initialization": {
         "type": "undrafted",
         "draftSeason": null,
@@ -31205,7 +31228,7 @@
       "status": "Provisional",
       "teamBaselineEpaElo": 1472.9,
       "preseasonTeamEpaElo": 1390.0,
-      "forecastEloChange": -136.7,
+      "forecastEloChange": -136.8,
       "initialization": {
         "type": "undrafted",
         "draftSeason": null,
@@ -31234,8 +31257,8 @@
       "lastStart": null,
       "lastAppearance": null,
       "status": "Provisional",
-      "teamBaselineEpaElo": 1545.0,
-      "preseasonTeamEpaElo": 1414.1,
+      "teamBaselineEpaElo": 1544.9,
+      "preseasonTeamEpaElo": 1414.0,
       "forecastEloChange": -216.0,
       "initialization": {
         "type": "undrafted",
@@ -31265,9 +31288,9 @@
       "lastStart": "2023-01-08",
       "lastAppearance": "2023-01-08",
       "status": "Provisional",
-      "teamBaselineEpaElo": 1501.7,
-      "preseasonTeamEpaElo": 1399.4,
-      "forecastEloChange": -168.8,
+      "teamBaselineEpaElo": 1501.6,
+      "preseasonTeamEpaElo": 1399.3,
+      "forecastEloChange": -168.7,
       "initialization": {
         "type": "draft",
         "draftSeason": 2021,
@@ -31303,9 +31326,9 @@
       "lastStart": null,
       "lastAppearance": null,
       "status": "Provisional",
-      "teamBaselineEpaElo": 1478.5,
+      "teamBaselineEpaElo": 1478.4,
       "preseasonTeamEpaElo": 1387.6,
-      "forecastEloChange": -150.0,
+      "forecastEloChange": -149.8,
       "initialization": {
         "type": "undrafted",
         "draftSeason": null,
@@ -31328,15 +31351,15 @@
       "depthRank": 4,
       "isStarter": false,
       "projection": "QB4",
-      "epaElo": 1341.5,
+      "epaElo": 1341.4,
       "starts": 0,
-      "recentAdjustedEpaPerDropback": -0.884,
+      "recentAdjustedEpaPerDropback": -0.885,
       "lastStart": "2026-09-20",
       "lastAppearance": "2026-09-20",
       "status": "Provisional",
-      "teamBaselineEpaElo": 1473.1,
-      "preseasonTeamEpaElo": 1385.4,
-      "forecastEloChange": -144.7,
+      "teamBaselineEpaElo": 1472.6,
+      "preseasonTeamEpaElo": 1385.1,
+      "forecastEloChange": -144.4,
       "initialization": {
         "type": "undrafted",
         "draftSeason": null,
@@ -31365,9 +31388,9 @@
       "lastStart": "2026-01-04",
       "lastAppearance": "2026-01-04",
       "status": "Provisional",
-      "teamBaselineEpaElo": 1453.0,
+      "teamBaselineEpaElo": 1452.9,
       "preseasonTeamEpaElo": 1371.3,
-      "forecastEloChange": -134.7,
+      "forecastEloChange": -134.6,
       "initialization": {
         "type": "undrafted",
         "draftSeason": null,
@@ -31388,7 +31411,7 @@
     "00-0033119": {
       "name": "Jacoby Brissett",
       "currentTeam": "ARI",
-      "currentEpaElo": 1484.3,
+      "currentEpaElo": 1484.2,
       "initialization": {
         "type": "draft",
         "draftSeason": 2016,
@@ -36014,8 +36037,8 @@
           "opponent": "LAC",
           "qbElo": 1486.2,
           "epaPerDropback": 0.237,
-          "expectedVsOpponent": 0.071,
-          "adjustedEpaPerDropback": 0.166,
+          "expectedVsOpponent": 0.072,
+          "adjustedEpaPerDropback": 0.165,
           "dropbacks": 38,
           "performanceElo": 1551.9,
           "updateRate": 0.1
@@ -36030,12 +36053,12 @@
           "gameId": "2026_02_SEA_ARI",
           "team": "ARI",
           "opponent": "SEA",
-          "qbElo": 1477.7,
+          "qbElo": 1477.6,
           "epaPerDropback": -0.269,
-          "expectedVsOpponent": 0.045,
-          "adjustedEpaPerDropback": -0.315,
+          "expectedVsOpponent": 0.047,
+          "adjustedEpaPerDropback": -0.316,
           "dropbacks": 30,
-          "performanceElo": 1401.7,
+          "performanceElo": 1400.4,
           "updateRate": 0.1
         },
         {
@@ -36048,12 +36071,12 @@
           "gameId": "2026_03_ARI_SF",
           "team": "ARI",
           "opponent": "SF",
-          "qbElo": 1484.3,
+          "qbElo": 1484.2,
           "epaPerDropback": 0.187,
-          "expectedVsOpponent": 0.047,
-          "adjustedEpaPerDropback": 0.139,
+          "expectedVsOpponent": 0.049,
+          "adjustedEpaPerDropback": 0.138,
           "dropbacks": 54,
-          "performanceElo": 1543.6,
+          "performanceElo": 1543.5,
           "updateRate": 0.1
         }
       ]
@@ -39519,7 +39542,7 @@
     "00-0039917": {
       "name": "Michael Penix Jr.",
       "currentTeam": "ATL",
-      "currentEpaElo": 1493.6,
+      "currentEpaElo": 1493.7,
       "initialization": {
         "type": "draft",
         "draftSeason": 2024,
@@ -40368,12 +40391,12 @@
           "gameId": "2026_03_ATL_GB",
           "team": "ATL",
           "opponent": "GB",
-          "qbElo": 1493.6,
+          "qbElo": 1493.7,
           "epaPerDropback": 0.38,
-          "expectedVsOpponent": 0.065,
-          "adjustedEpaPerDropback": 0.315,
+          "expectedVsOpponent": 0.067,
+          "adjustedEpaPerDropback": 0.314,
           "dropbacks": 25,
-          "performanceElo": 1598.4,
+          "performanceElo": 1598.9,
           "updateRate": 0.0833
         }
       ]
@@ -42368,7 +42391,7 @@
     "00-0033662": {
       "name": "Cooper Rush",
       "currentTeam": "ATL",
-      "currentEpaElo": 1421.5,
+      "currentEpaElo": 1420.6,
       "initialization": {
         "type": "undrafted",
         "draftSeason": null,
@@ -44383,12 +44406,12 @@
           "gameId": "2026_01_ATL_PIT",
           "team": "ATL",
           "opponent": "PIT",
-          "qbElo": 1432.5,
+          "qbElo": 1431.8,
           "epaPerDropback": -0.606,
-          "expectedVsOpponent": 0.1,
-          "adjustedEpaPerDropback": -0.707,
+          "expectedVsOpponent": 0.121,
+          "adjustedEpaPerDropback": -0.727,
           "dropbacks": 26,
-          "performanceElo": 1279.3,
+          "performanceElo": 1270.9,
           "updateRate": 0.0867
         },
         {
@@ -44401,12 +44424,12 @@
           "gameId": "2026_02_CAR_ATL",
           "team": "ATL",
           "opponent": "CAR",
-          "qbElo": 1421.5,
+          "qbElo": 1420.6,
           "epaPerDropback": -0.677,
-          "expectedVsOpponent": 0.128,
-          "adjustedEpaPerDropback": -0.805,
+          "expectedVsOpponent": 0.129,
+          "adjustedEpaPerDropback": -0.806,
           "dropbacks": 18,
-          "performanceElo": 1248.6,
+          "performanceElo": 1245.9,
           "updateRate": 0.06
         }
       ]
@@ -44414,7 +44437,7 @@
     "00-0041194": {
       "name": "Jack Strand",
       "currentTeam": "ATL",
-      "currentEpaElo": 1341.5,
+      "currentEpaElo": 1341.4,
       "initialization": {
         "type": "undrafted",
         "draftSeason": null,
@@ -44439,12 +44462,12 @@
           "gameId": "2026_02_CAR_ATL",
           "team": "ATL",
           "opponent": "CAR",
-          "qbElo": 1341.5,
+          "qbElo": 1341.4,
           "epaPerDropback": -0.756,
-          "expectedVsOpponent": 0.128,
-          "adjustedEpaPerDropback": -0.884,
+          "expectedVsOpponent": 0.129,
+          "adjustedEpaPerDropback": -0.885,
           "dropbacks": 17,
-          "performanceElo": 1223.9,
+          "performanceElo": 1221.0,
           "updateRate": 0.0567
         }
       ]
@@ -47082,10 +47105,10 @@
           "opponent": "IND",
           "qbElo": 1535.0,
           "epaPerDropback": 0.383,
-          "expectedVsOpponent": 0.084,
-          "adjustedEpaPerDropback": 0.3,
+          "expectedVsOpponent": 0.085,
+          "adjustedEpaPerDropback": 0.298,
           "dropbacks": 27,
-          "performanceElo": 1593.6,
+          "performanceElo": 1594.0,
           "updateRate": 0.09
         },
         {
@@ -47100,10 +47123,10 @@
           "opponent": "NO",
           "qbElo": 1531.4,
           "epaPerDropback": 0.098,
-          "expectedVsOpponent": 0.101,
-          "adjustedEpaPerDropback": -0.003,
+          "expectedVsOpponent": 0.102,
+          "adjustedEpaPerDropback": -0.005,
           "dropbacks": 34,
-          "performanceElo": 1499.0,
+          "performanceElo": 1498.6,
           "updateRate": 0.1
         },
         {
@@ -47118,10 +47141,10 @@
           "opponent": "DAL",
           "qbElo": 1538.4,
           "epaPerDropback": 0.596,
-          "expectedVsOpponent": 0.158,
-          "adjustedEpaPerDropback": 0.438,
+          "expectedVsOpponent": 0.16,
+          "adjustedEpaPerDropback": 0.437,
           "dropbacks": 20,
-          "performanceElo": 1636.8,
+          "performanceElo": 1637.6,
           "updateRate": 0.0667
         }
       ]
@@ -49113,7 +49136,7 @@
     "00-0034857": {
       "name": "Josh Allen",
       "currentTeam": "BUF",
-      "currentEpaElo": 1555.4,
+      "currentEpaElo": 1555.5,
       "initialization": {
         "type": "draft",
         "draftSeason": 2018,
@@ -51877,10 +51900,10 @@
           "opponent": "HOU",
           "qbElo": 1559.8,
           "epaPerDropback": 0.469,
-          "expectedVsOpponent": 0.02,
-          "adjustedEpaPerDropback": 0.449,
+          "expectedVsOpponent": 0.021,
+          "adjustedEpaPerDropback": 0.447,
           "dropbacks": 31,
-          "performanceElo": 1640.2,
+          "performanceElo": 1641.0,
           "updateRate": 0.1
         },
         {
@@ -51893,12 +51916,12 @@
           "gameId": "2026_02_DET_BUF",
           "team": "BUF",
           "opponent": "DET",
-          "qbElo": 1565.7,
+          "qbElo": 1565.8,
           "epaPerDropback": 0.456,
-          "expectedVsOpponent": 0.075,
-          "adjustedEpaPerDropback": 0.381,
+          "expectedVsOpponent": 0.077,
+          "adjustedEpaPerDropback": 0.379,
           "dropbacks": 33,
-          "performanceElo": 1618.9,
+          "performanceElo": 1619.6,
           "updateRate": 0.1
         },
         {
@@ -51911,12 +51934,12 @@
           "gameId": "2026_03_LAC_BUF",
           "team": "BUF",
           "opponent": "LAC",
-          "qbElo": 1555.4,
+          "qbElo": 1555.5,
           "epaPerDropback": -0.014,
-          "expectedVsOpponent": 0.104,
-          "adjustedEpaPerDropback": -0.118,
+          "expectedVsOpponent": 0.105,
+          "adjustedEpaPerDropback": -0.119,
           "dropbacks": 30,
-          "performanceElo": 1463.2,
+          "performanceElo": 1462.4,
           "updateRate": 0.1
         }
       ]
@@ -53439,7 +53462,7 @@
     "00-0039150": {
       "name": "Bryce Young",
       "currentTeam": "CAR",
-      "currentEpaElo": 1495.1,
+      "currentEpaElo": 1495.2,
       "initialization": {
         "type": "draft",
         "draftSeason": 2023,
@@ -54392,10 +54415,10 @@
           "opponent": "CHI",
           "qbElo": 1492.1,
           "epaPerDropback": 0.398,
-          "expectedVsOpponent": -0.012,
-          "adjustedEpaPerDropback": 0.41,
+          "expectedVsOpponent": -0.011,
+          "adjustedEpaPerDropback": 0.409,
           "dropbacks": 39,
-          "performanceElo": 1628.1,
+          "performanceElo": 1628.7,
           "updateRate": 0.1
         },
         {
@@ -54408,12 +54431,12 @@
           "gameId": "2026_02_CAR_ATL",
           "team": "CAR",
           "opponent": "ATL",
-          "qbElo": 1501.0,
+          "qbElo": 1501.1,
           "epaPerDropback": 0.291,
-          "expectedVsOpponent": 0.029,
-          "adjustedEpaPerDropback": 0.262,
+          "expectedVsOpponent": 0.031,
+          "adjustedEpaPerDropback": 0.261,
           "dropbacks": 38,
-          "performanceElo": 1581.8,
+          "performanceElo": 1582.1,
           "updateRate": 0.1
         },
         {
@@ -54426,12 +54449,12 @@
           "gameId": "2026_03_CAR_CLE",
           "team": "CAR",
           "opponent": "CLE",
-          "qbElo": 1495.1,
+          "qbElo": 1495.2,
           "epaPerDropback": -0.116,
-          "expectedVsOpponent": 0.071,
-          "adjustedEpaPerDropback": -0.187,
+          "expectedVsOpponent": 0.069,
+          "adjustedEpaPerDropback": -0.185,
           "dropbacks": 51,
-          "performanceElo": 1441.7,
+          "performanceElo": 1441.6,
           "updateRate": 0.1
         }
       ]
@@ -56115,10 +56138,10 @@
           "opponent": "CHI",
           "qbElo": 1442.5,
           "epaPerDropback": -0.381,
-          "expectedVsOpponent": -0.012,
-          "adjustedEpaPerDropback": -0.369,
+          "expectedVsOpponent": -0.011,
+          "adjustedEpaPerDropback": -0.371,
           "dropbacks": 1,
-          "performanceElo": 1384.8,
+          "performanceElo": 1383.2,
           "updateRate": 0.0033
         }
       ]
@@ -56145,7 +56168,7 @@
     "00-0039918": {
       "name": "Caleb Williams",
       "currentTeam": "CHI",
-      "currentEpaElo": 1523.7,
+      "currentEpaElo": 1523.8,
       "initialization": {
         "type": "draft",
         "draftSeason": 2024,
@@ -56874,12 +56897,12 @@
           "gameId": "2026_01_CHI_CAR",
           "team": "CHI",
           "opponent": "CAR",
-          "qbElo": 1527.3,
+          "qbElo": 1527.5,
           "epaPerDropback": 0.599,
-          "expectedVsOpponent": -0.037,
-          "adjustedEpaPerDropback": 0.636,
+          "expectedVsOpponent": -0.036,
+          "adjustedEpaPerDropback": 0.635,
           "dropbacks": 31,
-          "performanceElo": 1698.6,
+          "performanceElo": 1700.0,
           "updateRate": 0.1
         },
         {
@@ -56892,12 +56915,12 @@
           "gameId": "2026_02_MIN_CHI",
           "team": "CHI",
           "opponent": "MIN",
-          "qbElo": 1523.7,
+          "qbElo": 1523.8,
           "epaPerDropback": -0.036,
-          "expectedVsOpponent": -0.004,
-          "adjustedEpaPerDropback": -0.032,
+          "expectedVsOpponent": -0.002,
+          "adjustedEpaPerDropback": -0.034,
           "dropbacks": 29,
-          "performanceElo": 1489.9,
+          "performanceElo": 1489.4,
           "updateRate": 0.0967
         }
       ]
@@ -60303,8 +60326,8 @@
           "opponent": "PHI",
           "qbElo": 1428.8,
           "epaPerDropback": 0.213,
-          "expectedVsOpponent": 0.065,
-          "adjustedEpaPerDropback": 0.148,
+          "expectedVsOpponent": 0.067,
+          "adjustedEpaPerDropback": 0.147,
           "dropbacks": 34,
           "performanceElo": 1546.2,
           "updateRate": 0.1
@@ -60314,7 +60337,7 @@
     "00-0038416": {
       "name": "Tyson Bagent",
       "currentTeam": "CHI",
-      "currentEpaElo": 1394.0,
+      "currentEpaElo": 1393.9,
       "initialization": {
         "type": "undrafted",
         "draftSeason": null,
@@ -60514,12 +60537,12 @@
           "gameId": "2026_02_MIN_CHI",
           "team": "CHI",
           "opponent": "MIN",
-          "qbElo": 1394.0,
+          "qbElo": 1393.9,
           "epaPerDropback": -0.284,
-          "expectedVsOpponent": -0.004,
-          "adjustedEpaPerDropback": -0.281,
+          "expectedVsOpponent": -0.002,
+          "adjustedEpaPerDropback": -0.282,
           "dropbacks": 10,
-          "performanceElo": 1412.3,
+          "performanceElo": 1411.1,
           "updateRate": 0.0333
         }
       ]
@@ -60527,7 +60550,7 @@
     "00-0036442": {
       "name": "Joe Burrow",
       "currentTeam": "CIN",
-      "currentEpaElo": 1524.8,
+      "currentEpaElo": 1523.7,
       "initialization": {
         "type": "draft",
         "draftSeason": 2020,
@@ -62216,12 +62239,12 @@
           "gameId": "2026_01_TB_CIN",
           "team": "CIN",
           "opponent": "TB",
-          "qbElo": 1518.3,
+          "qbElo": 1518.2,
           "epaPerDropback": -0.073,
-          "expectedVsOpponent": 0.043,
-          "adjustedEpaPerDropback": -0.116,
+          "expectedVsOpponent": 0.044,
+          "adjustedEpaPerDropback": -0.117,
           "dropbacks": 36,
-          "performanceElo": 1463.9,
+          "performanceElo": 1463.1,
           "updateRate": 0.1
         },
         {
@@ -62234,12 +62257,12 @@
           "gameId": "2026_02_CIN_HOU",
           "team": "CIN",
           "opponent": "HOU",
-          "qbElo": 1513.6,
+          "qbElo": 1513.5,
           "epaPerDropback": -0.015,
-          "expectedVsOpponent": 0.076,
-          "adjustedEpaPerDropback": -0.091,
+          "expectedVsOpponent": 0.078,
+          "adjustedEpaPerDropback": -0.093,
           "dropbacks": 36,
-          "performanceElo": 1471.5,
+          "performanceElo": 1470.8,
           "updateRate": 0.1
         },
         {
@@ -62252,12 +62275,12 @@
           "gameId": "2026_03_CIN_PIT",
           "team": "CIN",
           "opponent": "PIT",
-          "qbElo": 1524.8,
+          "qbElo": 1523.7,
           "epaPerDropback": 0.386,
-          "expectedVsOpponent": -0.016,
-          "adjustedEpaPerDropback": 0.402,
+          "expectedVsOpponent": 0.019,
+          "adjustedEpaPerDropback": 0.366,
           "dropbacks": 38,
-          "performanceElo": 1625.5,
+          "performanceElo": 1615.4,
           "updateRate": 0.1
         }
       ]
@@ -68718,7 +68741,7 @@
     "00-0033537": {
       "name": "Deshaun Watson",
       "currentTeam": "CLE",
-      "currentEpaElo": 1476.7,
+      "currentEpaElo": 1486.1,
       "initialization": {
         "type": "draft",
         "draftSeason": 2017,
@@ -70383,12 +70406,12 @@
           "gameId": "2026_01_CLE_JAX",
           "team": "CLE",
           "opponent": "JAX",
-          "qbElo": 1457.7,
+          "qbElo": 1457.6,
           "epaPerDropback": -0.206,
-          "expectedVsOpponent": 0.025,
-          "adjustedEpaPerDropback": -0.231,
+          "expectedVsOpponent": 0.027,
+          "adjustedEpaPerDropback": -0.233,
           "dropbacks": 27,
-          "performanceElo": 1427.8,
+          "performanceElo": 1426.7,
           "updateRate": 0.09
         },
         {
@@ -70401,12 +70424,12 @@
           "gameId": "2026_02_CLE_TB",
           "team": "CLE",
           "opponent": "TB",
-          "qbElo": 1472.3,
+          "qbElo": 1472.2,
           "epaPerDropback": 0.324,
-          "expectedVsOpponent": -0.007,
-          "adjustedEpaPerDropback": 0.331,
+          "expectedVsOpponent": -0.005,
+          "adjustedEpaPerDropback": 0.329,
           "dropbacks": 32,
-          "performanceElo": 1603.3,
+          "performanceElo": 1603.8,
           "updateRate": 0.1
         },
         {
@@ -70421,10 +70444,28 @@
           "opponent": "CAR",
           "qbElo": 1476.7,
           "epaPerDropback": 0.079,
-          "expectedVsOpponent": 0.024,
-          "adjustedEpaPerDropback": 0.055,
+          "expectedVsOpponent": 0.026,
+          "adjustedEpaPerDropback": 0.054,
           "dropbacks": 32,
-          "performanceElo": 1517.2,
+          "performanceElo": 1516.9,
+          "updateRate": 0.1
+        },
+        {
+          "date": "2026-10-01",
+          "season": 2026,
+          "week": 4,
+          "stage": "Week 4",
+          "type": "game",
+          "appearance": "start",
+          "gameId": "2026_04_PIT_CLE",
+          "team": "CLE",
+          "opponent": "PIT",
+          "qbElo": 1486.1,
+          "epaPerDropback": 0.262,
+          "expectedVsOpponent": 0.038,
+          "adjustedEpaPerDropback": 0.224,
+          "dropbacks": 35,
+          "performanceElo": 1570.7,
           "updateRate": 0.1
         }
       ]
@@ -70610,10 +70651,10 @@
           "opponent": "CAR",
           "qbElo": 1390.5,
           "epaPerDropback": -0.404,
-          "expectedVsOpponent": 0.024,
-          "adjustedEpaPerDropback": -0.429,
+          "expectedVsOpponent": 0.026,
+          "adjustedEpaPerDropback": -0.43,
           "dropbacks": 1,
-          "performanceElo": 1366.1,
+          "performanceElo": 1364.4,
           "updateRate": 0.0033
         }
       ]
@@ -70853,7 +70894,7 @@
     "00-0033077": {
       "name": "Dak Prescott",
       "currentTeam": "DAL",
-      "currentEpaElo": 1555.0,
+      "currentEpaElo": 1555.1,
       "initialization": {
         "type": "draft",
         "draftSeason": 2016,
@@ -73743,10 +73784,10 @@
           "opponent": "NYG",
           "qbElo": 1543.8,
           "epaPerDropback": 0.305,
-          "expectedVsOpponent": 0.094,
-          "adjustedEpaPerDropback": 0.212,
+          "expectedVsOpponent": 0.095,
+          "adjustedEpaPerDropback": 0.21,
           "dropbacks": 34,
-          "performanceElo": 1566.1,
+          "performanceElo": 1566.2,
           "updateRate": 0.1
         },
         {
@@ -73759,12 +73800,12 @@
           "gameId": "2026_02_WAS_DAL",
           "team": "DAL",
           "opponent": "WSH",
-          "qbElo": 1551.6,
+          "qbElo": 1551.7,
           "epaPerDropback": 0.458,
-          "expectedVsOpponent": 0.067,
-          "adjustedEpaPerDropback": 0.391,
+          "expectedVsOpponent": 0.068,
+          "adjustedEpaPerDropback": 0.389,
           "dropbacks": 33,
-          "performanceElo": 1622.0,
+          "performanceElo": 1622.6,
           "updateRate": 0.1
         },
         {
@@ -73777,12 +73818,12 @@
           "gameId": "2026_03_BAL_DAL",
           "team": "DAL",
           "opponent": "BAL",
-          "qbElo": 1555.0,
+          "qbElo": 1555.1,
           "epaPerDropback": 0.325,
-          "expectedVsOpponent": 0.053,
-          "adjustedEpaPerDropback": 0.272,
+          "expectedVsOpponent": 0.054,
+          "adjustedEpaPerDropback": 0.271,
           "dropbacks": 41,
-          "performanceElo": 1585.0,
+          "performanceElo": 1585.3,
           "updateRate": 0.1
         }
       ]
@@ -74776,7 +74817,7 @@
     "00-0039732": {
       "name": "Bo Nix",
       "currentTeam": "DEN",
-      "currentEpaElo": 1504.9,
+      "currentEpaElo": 1504.7,
       "initialization": {
         "type": "draft",
         "draftSeason": 2024,
@@ -75498,12 +75539,12 @@
           "gameId": "2026_01_DEN_KC",
           "team": "DEN",
           "opponent": "KC",
-          "qbElo": 1496.8,
+          "qbElo": 1496.7,
           "epaPerDropback": -0.449,
-          "expectedVsOpponent": 0.055,
-          "adjustedEpaPerDropback": -0.505,
+          "expectedVsOpponent": 0.057,
+          "adjustedEpaPerDropback": -0.506,
           "dropbacks": 32,
-          "performanceElo": 1342.3,
+          "performanceElo": 1340.5,
           "updateRate": 0.1
         },
         {
@@ -75516,12 +75557,12 @@
           "gameId": "2026_02_JAX_DEN",
           "team": "DEN",
           "opponent": "JAX",
-          "qbElo": 1506.5,
+          "qbElo": 1506.4,
           "epaPerDropback": 0.272,
-          "expectedVsOpponent": -0.028,
-          "adjustedEpaPerDropback": 0.3,
+          "expectedVsOpponent": -0.027,
+          "adjustedEpaPerDropback": 0.299,
           "dropbacks": 31,
-          "performanceElo": 1593.7,
+          "performanceElo": 1594.1,
           "updateRate": 0.1
         },
         {
@@ -75534,12 +75575,12 @@
           "gameId": "2026_03_LA_DEN",
           "team": "DEN",
           "opponent": "LAR",
-          "qbElo": 1504.9,
+          "qbElo": 1504.7,
           "epaPerDropback": -0.031,
-          "expectedVsOpponent": 0.001,
-          "adjustedEpaPerDropback": -0.031,
+          "expectedVsOpponent": 0.002,
+          "adjustedEpaPerDropback": -0.033,
           "dropbacks": 35,
-          "performanceElo": 1490.2,
+          "performanceElo": 1489.7,
           "updateRate": 0.1
         }
       ]
@@ -76683,7 +76724,7 @@
     "00-0033106": {
       "name": "Jared Goff",
       "currentTeam": "DET",
-      "currentEpaElo": 1557.9,
+      "currentEpaElo": 1558.0,
       "initialization": {
         "type": "draft",
         "draftSeason": 2016,
@@ -80207,12 +80248,12 @@
           "gameId": "2026_01_NO_DET",
           "team": "DET",
           "opponent": "NO",
-          "qbElo": 1543.8,
+          "qbElo": 1543.7,
           "epaPerDropback": 0.146,
-          "expectedVsOpponent": 0.094,
-          "adjustedEpaPerDropback": 0.053,
+          "expectedVsOpponent": 0.095,
+          "adjustedEpaPerDropback": 0.051,
           "dropbacks": 40,
-          "performanceElo": 1516.5,
+          "performanceElo": 1516.2,
           "updateRate": 0.1
         },
         {
@@ -80227,10 +80268,10 @@
           "opponent": "BUF",
           "qbElo": 1552.3,
           "epaPerDropback": 0.442,
-          "expectedVsOpponent": 0.029,
-          "adjustedEpaPerDropback": 0.413,
+          "expectedVsOpponent": 0.031,
+          "adjustedEpaPerDropback": 0.412,
           "dropbacks": 42,
-          "performanceElo": 1629.0,
+          "performanceElo": 1629.7,
           "updateRate": 0.1
         },
         {
@@ -80243,12 +80284,12 @@
           "gameId": "2026_03_NYJ_DET",
           "team": "DET",
           "opponent": "NYJ",
-          "qbElo": 1557.9,
+          "qbElo": 1558.0,
           "epaPerDropback": 0.357,
-          "expectedVsOpponent": 0.009,
-          "adjustedEpaPerDropback": 0.348,
+          "expectedVsOpponent": 0.011,
+          "adjustedEpaPerDropback": 0.346,
           "dropbacks": 34,
-          "performanceElo": 1608.6,
+          "performanceElo": 1609.1,
           "updateRate": 0.1
         }
       ]
@@ -81580,7 +81621,7 @@
     "00-0036264": {
       "name": "Jordan Love",
       "currentTeam": "GB",
-      "currentEpaElo": 1524.3,
+      "currentEpaElo": 1524.2,
       "initialization": {
         "type": "draft",
         "draftSeason": 2020,
@@ -83588,12 +83629,12 @@
           "gameId": "2026_01_GB_MIN",
           "team": "GB",
           "opponent": "MIN",
-          "qbElo": 1535.5,
+          "qbElo": 1535.4,
           "epaPerDropback": -0.059,
-          "expectedVsOpponent": -0.008,
-          "adjustedEpaPerDropback": -0.051,
+          "expectedVsOpponent": -0.007,
+          "adjustedEpaPerDropback": -0.052,
           "dropbacks": 46,
-          "performanceElo": 1484.1,
+          "performanceElo": 1483.6,
           "updateRate": 0.1
         },
         {
@@ -83606,12 +83647,12 @@
           "gameId": "2026_02_GB_NYJ",
           "team": "GB",
           "opponent": "NYJ",
-          "qbElo": 1526.8,
+          "qbElo": 1526.6,
           "epaPerDropback": -0.099,
-          "expectedVsOpponent": 0.066,
-          "adjustedEpaPerDropback": -0.165,
+          "expectedVsOpponent": 0.067,
+          "adjustedEpaPerDropback": -0.166,
           "dropbacks": 32,
-          "performanceElo": 1448.5,
+          "performanceElo": 1447.6,
           "updateRate": 0.1
         },
         {
@@ -83624,12 +83665,12 @@
           "gameId": "2026_03_ATL_GB",
           "team": "GB",
           "opponent": "ATL",
-          "qbElo": 1524.3,
+          "qbElo": 1524.2,
           "epaPerDropback": 0.066,
-          "expectedVsOpponent": 0.058,
-          "adjustedEpaPerDropback": 0.008,
+          "expectedVsOpponent": 0.059,
+          "adjustedEpaPerDropback": 0.007,
           "dropbacks": 54,
-          "performanceElo": 1502.6,
+          "performanceElo": 1502.2,
           "updateRate": 0.1
         }
       ]
@@ -88050,7 +88091,7 @@
     "00-0039163": {
       "name": "C.J. Stroud",
       "currentTeam": "HOU",
-      "currentEpaElo": 1486.0,
+      "currentEpaElo": 1485.8,
       "initialization": {
         "type": "draft",
         "draftSeason": 2023,
@@ -89115,12 +89156,12 @@
           "gameId": "2026_01_BUF_HOU",
           "team": "HOU",
           "opponent": "BUF",
-          "qbElo": 1497.7,
+          "qbElo": 1497.6,
           "epaPerDropback": 0.036,
-          "expectedVsOpponent": 0.091,
-          "adjustedEpaPerDropback": -0.054,
+          "expectedVsOpponent": 0.092,
+          "adjustedEpaPerDropback": -0.055,
           "dropbacks": 41,
-          "performanceElo": 1483.1,
+          "performanceElo": 1482.5,
           "updateRate": 0.1
         },
         {
@@ -89133,12 +89174,12 @@
           "gameId": "2026_02_CIN_HOU",
           "team": "HOU",
           "opponent": "CIN",
-          "qbElo": 1492.7,
+          "qbElo": 1492.5,
           "epaPerDropback": -0.108,
-          "expectedVsOpponent": 0.06,
-          "adjustedEpaPerDropback": -0.168,
+          "expectedVsOpponent": 0.061,
+          "adjustedEpaPerDropback": -0.169,
           "dropbacks": 59,
-          "performanceElo": 1447.6,
+          "performanceElo": 1446.7,
           "updateRate": 0.1
         },
         {
@@ -89151,12 +89192,12 @@
           "gameId": "2026_03_HOU_IND",
           "team": "HOU",
           "opponent": "IND",
-          "qbElo": 1486.0,
+          "qbElo": 1485.8,
           "epaPerDropback": -0.103,
-          "expectedVsOpponent": 0.133,
-          "adjustedEpaPerDropback": -0.236,
+          "expectedVsOpponent": 0.134,
+          "adjustedEpaPerDropback": -0.238,
           "dropbacks": 30,
-          "performanceElo": 1426.2,
+          "performanceElo": 1425.1,
           "updateRate": 0.1
         }
       ]
@@ -91425,7 +91466,7 @@
     "00-0035710": {
       "name": "Daniel Jones",
       "currentTeam": "IND",
-      "currentEpaElo": 1493.4,
+      "currentEpaElo": 1493.2,
       "initialization": {
         "type": "draft",
         "draftSeason": 2019,
@@ -93579,12 +93620,12 @@
           "gameId": "2026_01_BAL_IND",
           "team": "IND",
           "opponent": "BAL",
-          "qbElo": 1495.1,
+          "qbElo": 1494.9,
           "epaPerDropback": -0.291,
-          "expectedVsOpponent": 0.134,
-          "adjustedEpaPerDropback": -0.425,
+          "expectedVsOpponent": 0.135,
+          "adjustedEpaPerDropback": -0.427,
           "dropbacks": 33,
-          "performanceElo": 1367.2,
+          "performanceElo": 1365.6,
           "updateRate": 0.1
         },
         {
@@ -93597,12 +93638,12 @@
           "gameId": "2026_02_IND_KC",
           "team": "IND",
           "opponent": "KC",
-          "qbElo": 1502.1,
+          "qbElo": 1502.0,
           "epaPerDropback": 0.19,
-          "expectedVsOpponent": -0.02,
-          "adjustedEpaPerDropback": 0.21,
+          "expectedVsOpponent": -0.019,
+          "adjustedEpaPerDropback": 0.209,
           "dropbacks": 31,
-          "performanceElo": 1565.7,
+          "performanceElo": 1565.8,
           "updateRate": 0.1
         },
         {
@@ -93615,12 +93656,12 @@
           "gameId": "2026_03_HOU_IND",
           "team": "IND",
           "opponent": "HOU",
-          "qbElo": 1493.4,
+          "qbElo": 1493.2,
           "epaPerDropback": -0.172,
-          "expectedVsOpponent": 0.101,
-          "adjustedEpaPerDropback": -0.273,
+          "expectedVsOpponent": 0.102,
+          "adjustedEpaPerDropback": -0.274,
           "dropbacks": 40,
-          "performanceElo": 1414.8,
+          "performanceElo": 1413.6,
           "updateRate": 0.1
         }
       ]
@@ -94538,7 +94579,7 @@
     "00-0036971": {
       "name": "Trevor Lawrence",
       "currentTeam": "JAX",
-      "currentEpaElo": 1533.2,
+      "currentEpaElo": 1533.0,
       "initialization": {
         "type": "draft",
         "draftSeason": 2021,
@@ -96143,12 +96184,12 @@
           "gameId": "2026_01_CLE_JAX",
           "team": "JAX",
           "opponent": "CLE",
-          "qbElo": 1536.4,
+          "qbElo": 1536.3,
           "epaPerDropback": 0.793,
-          "expectedVsOpponent": -0.023,
-          "adjustedEpaPerDropback": 0.815,
+          "expectedVsOpponent": -0.011,
+          "adjustedEpaPerDropback": 0.804,
           "dropbacks": 24,
-          "performanceElo": 1754.6,
+          "performanceElo": 1753.3,
           "updateRate": 0.08
         },
         {
@@ -96161,12 +96202,12 @@
           "gameId": "2026_02_JAX_DEN",
           "team": "JAX",
           "opponent": "DEN",
-          "qbElo": 1527.5,
+          "qbElo": 1527.3,
           "epaPerDropback": -0.133,
-          "expectedVsOpponent": 0.035,
-          "adjustedEpaPerDropback": -0.167,
+          "expectedVsOpponent": 0.036,
+          "adjustedEpaPerDropback": -0.169,
           "dropbacks": 31,
-          "performanceElo": 1447.7,
+          "performanceElo": 1446.8,
           "updateRate": 0.1
         },
         {
@@ -96179,12 +96220,12 @@
           "gameId": "2026_03_NE_JAX",
           "team": "JAX",
           "opponent": "NE",
-          "qbElo": 1533.2,
+          "qbElo": 1533.0,
           "epaPerDropback": 0.252,
-          "expectedVsOpponent": -0.017,
-          "adjustedEpaPerDropback": 0.269,
+          "expectedVsOpponent": -0.015,
+          "adjustedEpaPerDropback": 0.267,
           "dropbacks": 30,
-          "performanceElo": 1583.9,
+          "performanceElo": 1584.2,
           "updateRate": 0.1
         }
       ]
@@ -99838,12 +99879,12 @@
           "gameId": "2026_01_DEN_KC",
           "team": "KC",
           "opponent": "DEN",
-          "qbElo": 1520.0,
+          "qbElo": 1519.9,
           "epaPerDropback": -0.079,
-          "expectedVsOpponent": 0.028,
-          "adjustedEpaPerDropback": -0.108,
+          "expectedVsOpponent": 0.029,
+          "adjustedEpaPerDropback": -0.109,
           "dropbacks": 29,
-          "performanceElo": 1466.4,
+          "performanceElo": 1465.7,
           "updateRate": 0.0967
         },
         {
@@ -99856,12 +99897,12 @@
           "gameId": "2026_02_IND_KC",
           "team": "KC",
           "opponent": "IND",
-          "qbElo": 1524.1,
+          "qbElo": 1524.0,
           "epaPerDropback": 0.274,
-          "expectedVsOpponent": 0.079,
-          "adjustedEpaPerDropback": 0.195,
+          "expectedVsOpponent": 0.08,
+          "adjustedEpaPerDropback": 0.194,
           "dropbacks": 49,
-          "performanceElo": 1561.0,
+          "performanceElo": 1561.1,
           "updateRate": 0.1
         },
         {
@@ -99876,10 +99917,10 @@
           "opponent": "MIA",
           "qbElo": 1531.9,
           "epaPerDropback": 0.538,
-          "expectedVsOpponent": 0.146,
-          "adjustedEpaPerDropback": 0.393,
+          "expectedVsOpponent": 0.147,
+          "adjustedEpaPerDropback": 0.391,
           "dropbacks": 24,
-          "performanceElo": 1622.7,
+          "performanceElo": 1623.3,
           "updateRate": 0.08
         }
       ]
@@ -101705,7 +101746,7 @@
     "00-0036355": {
       "name": "Justin Herbert",
       "currentTeam": "LAC",
-      "currentEpaElo": 1475.1,
+      "currentEpaElo": 1474.8,
       "initialization": {
         "type": "draft",
         "draftSeason": 2020,
@@ -103693,12 +103734,12 @@
           "gameId": "2026_01_ARI_LAC",
           "team": "LAC",
           "opponent": "ARI",
-          "qbElo": 1481.7,
+          "qbElo": 1481.5,
           "epaPerDropback": -0.187,
-          "expectedVsOpponent": 0.205,
-          "adjustedEpaPerDropback": -0.392,
+          "expectedVsOpponent": 0.206,
+          "adjustedEpaPerDropback": -0.393,
           "dropbacks": 30,
-          "performanceElo": 1377.7,
+          "performanceElo": 1376.1,
           "updateRate": 0.1
         },
         {
@@ -103711,12 +103752,12 @@
           "gameId": "2026_02_LV_LAC",
           "team": "LAC",
           "opponent": "OAK",
-          "qbElo": 1482.5,
+          "qbElo": 1482.3,
           "epaPerDropback": -0.019,
-          "expectedVsOpponent": 0.014,
-          "adjustedEpaPerDropback": -0.033,
+          "expectedVsOpponent": 0.015,
+          "adjustedEpaPerDropback": -0.034,
           "dropbacks": 30,
-          "performanceElo": 1489.8,
+          "performanceElo": 1489.3,
           "updateRate": 0.1
         },
         {
@@ -103729,12 +103770,12 @@
           "gameId": "2026_03_LAC_BUF",
           "team": "LAC",
           "opponent": "BUF",
-          "qbElo": 1475.1,
+          "qbElo": 1474.8,
           "epaPerDropback": -0.177,
-          "expectedVsOpponent": 0.117,
-          "adjustedEpaPerDropback": -0.294,
+          "expectedVsOpponent": 0.118,
+          "adjustedEpaPerDropback": -0.295,
           "dropbacks": 36,
-          "performanceElo": 1408.3,
+          "performanceElo": 1407.0,
           "updateRate": 0.1
         }
       ]
@@ -105363,7 +105404,7 @@
     "00-0026498": {
       "name": "Matthew Stafford",
       "currentTeam": "LAR",
-      "currentEpaElo": 1551.7,
+      "currentEpaElo": 1551.6,
       "initialization": {
         "type": "draft",
         "draftSeason": 2009,
@@ -110172,12 +110213,12 @@
           "gameId": "2026_01_SF_LA",
           "team": "LAR",
           "opponent": "SF",
-          "qbElo": 1547.2,
+          "qbElo": 1547.1,
           "epaPerDropback": -0.224,
-          "expectedVsOpponent": 0.098,
-          "adjustedEpaPerDropback": -0.322,
+          "expectedVsOpponent": 0.099,
+          "adjustedEpaPerDropback": -0.324,
           "dropbacks": 25,
-          "performanceElo": 1399.3,
+          "performanceElo": 1398.0,
           "updateRate": 0.0833
         },
         {
@@ -110192,10 +110233,10 @@
           "opponent": "NYG",
           "qbElo": 1558.7,
           "epaPerDropback": 0.582,
-          "expectedVsOpponent": 0.062,
-          "adjustedEpaPerDropback": 0.52,
+          "expectedVsOpponent": 0.064,
+          "adjustedEpaPerDropback": 0.518,
           "dropbacks": 32,
-          "performanceElo": 1662.4,
+          "performanceElo": 1663.4,
           "updateRate": 0.1
         },
         {
@@ -110208,12 +110249,12 @@
           "gameId": "2026_03_LA_DEN",
           "team": "LAR",
           "opponent": "DEN",
-          "qbElo": 1551.7,
+          "qbElo": 1551.6,
           "epaPerDropback": -0.012,
-          "expectedVsOpponent": 0.025,
-          "adjustedEpaPerDropback": -0.037,
+          "expectedVsOpponent": 0.027,
+          "adjustedEpaPerDropback": -0.038,
           "dropbacks": 59,
-          "performanceElo": 1488.5,
+          "performanceElo": 1487.9,
           "updateRate": 0.1
         }
       ]
@@ -110221,7 +110262,7 @@
     "00-0039107": {
       "name": "Stetson Bennett IV",
       "currentTeam": "LAR",
-      "currentEpaElo": 1406.3,
+      "currentEpaElo": 1406.2,
       "initialization": {
         "type": "draft",
         "draftSeason": 2023,
@@ -110253,12 +110294,12 @@
           "gameId": "2026_01_SF_LA",
           "team": "LAR",
           "opponent": "SF",
-          "qbElo": 1406.3,
+          "qbElo": 1406.2,
           "epaPerDropback": 0.063,
-          "expectedVsOpponent": 0.098,
-          "adjustedEpaPerDropback": -0.035,
+          "expectedVsOpponent": 0.099,
+          "adjustedEpaPerDropback": -0.036,
           "dropbacks": 3,
-          "performanceElo": 1489.1,
+          "performanceElo": 1488.6,
           "updateRate": 0.01
         }
       ]
@@ -110444,7 +110485,7 @@
     "00-0038128": {
       "name": "Malik Willis",
       "currentTeam": "MIA",
-      "currentEpaElo": 1465.7,
+      "currentEpaElo": 1465.6,
       "initialization": {
         "type": "draft",
         "draftSeason": 2022,
@@ -111801,12 +111842,12 @@
           "gameId": "2026_01_MIA_LV",
           "team": "MIA",
           "opponent": "OAK",
-          "qbElo": 1459.9,
+          "qbElo": 1459.8,
           "epaPerDropback": -0.172,
-          "expectedVsOpponent": 0.032,
-          "adjustedEpaPerDropback": -0.204,
+          "expectedVsOpponent": 0.033,
+          "adjustedEpaPerDropback": -0.205,
           "dropbacks": 32,
-          "performanceElo": 1436.4,
+          "performanceElo": 1435.4,
           "updateRate": 0.1
         },
         {
@@ -111819,12 +111860,12 @@
           "gameId": "2026_02_MIA_SF",
           "team": "MIA",
           "opponent": "SF",
-          "qbElo": 1466.4,
+          "qbElo": 1466.3,
           "epaPerDropback": 0.165,
-          "expectedVsOpponent": 0.062,
-          "adjustedEpaPerDropback": 0.102,
+          "expectedVsOpponent": 0.064,
+          "adjustedEpaPerDropback": 0.101,
           "dropbacks": 27,
-          "performanceElo": 1532.0,
+          "performanceElo": 1531.9,
           "updateRate": 0.09
         },
         {
@@ -111837,12 +111878,12 @@
           "gameId": "2026_03_KC_MIA",
           "team": "MIA",
           "opponent": "KC",
-          "qbElo": 1465.7,
+          "qbElo": 1465.6,
           "epaPerDropback": -0.112,
-          "expectedVsOpponent": 0.017,
-          "adjustedEpaPerDropback": -0.129,
+          "expectedVsOpponent": 0.018,
+          "adjustedEpaPerDropback": -0.131,
           "dropbacks": 36,
-          "performanceElo": 1459.6,
+          "performanceElo": 1458.8,
           "updateRate": 0.1
         }
       ]
@@ -111979,7 +112020,7 @@
     "00-0035228": {
       "name": "Kyler Murray",
       "currentTeam": "MIN",
-      "currentEpaElo": 1484.3,
+      "currentEpaElo": 1484.1,
       "initialization": {
         "type": "draft",
         "draftSeason": 2019,
@@ -113812,12 +113853,12 @@
           "gameId": "2026_01_GB_MIN",
           "team": "MIN",
           "opponent": "GB",
-          "qbElo": 1498.4,
+          "qbElo": 1498.3,
           "epaPerDropback": -0.894,
-          "expectedVsOpponent": 0.099,
-          "adjustedEpaPerDropback": -0.993,
+          "expectedVsOpponent": 0.101,
+          "adjustedEpaPerDropback": -0.994,
           "dropbacks": 5,
-          "performanceElo": 1189.9,
+          "performanceElo": 1186.7,
           "updateRate": 0.0167
         },
         {
@@ -113830,12 +113871,12 @@
           "gameId": "2026_03_MIN_TB",
           "team": "MIN",
           "opponent": "TB",
-          "qbElo": 1484.3,
+          "qbElo": 1484.1,
           "epaPerDropback": -0.378,
-          "expectedVsOpponent": 0.077,
-          "adjustedEpaPerDropback": -0.455,
+          "expectedVsOpponent": 0.079,
+          "adjustedEpaPerDropback": -0.457,
           "dropbacks": 32,
-          "performanceElo": 1357.8,
+          "performanceElo": 1356.1,
           "updateRate": 0.1
         }
       ]
@@ -116964,8 +117005,8 @@
           "opponent": "GB",
           "qbElo": 1476.6,
           "epaPerDropback": 0.227,
-          "expectedVsOpponent": 0.099,
-          "adjustedEpaPerDropback": 0.128,
+          "expectedVsOpponent": 0.101,
+          "adjustedEpaPerDropback": 0.126,
           "dropbacks": 22,
           "performanceElo": 1539.8,
           "updateRate": 0.0733
@@ -116982,10 +117023,10 @@
           "opponent": "CHI",
           "qbElo": 1477.9,
           "epaPerDropback": 0.022,
-          "expectedVsOpponent": 0.043,
-          "adjustedEpaPerDropback": -0.021,
+          "expectedVsOpponent": 0.045,
+          "adjustedEpaPerDropback": -0.022,
           "dropbacks": 23,
-          "performanceElo": 1493.5,
+          "performanceElo": 1493.0,
           "updateRate": 0.0767
         },
         {
@@ -117144,7 +117185,7 @@
     "00-0039851": {
       "name": "Drake Maye",
       "currentTeam": "NE",
-      "currentEpaElo": 1488.8,
+      "currentEpaElo": 1487.8,
       "initialization": {
         "type": "draft",
         "draftSeason": 2024,
@@ -118015,12 +118056,12 @@
           "gameId": "2026_01_NE_SEA",
           "team": "NE",
           "opponent": "SEA",
-          "qbElo": 1509.1,
+          "qbElo": 1509.0,
           "epaPerDropback": -0.128,
-          "expectedVsOpponent": 0.033,
-          "adjustedEpaPerDropback": -0.162,
+          "expectedVsOpponent": 0.035,
+          "adjustedEpaPerDropback": -0.163,
           "dropbacks": 36,
-          "performanceElo": 1449.5,
+          "performanceElo": 1448.6,
           "updateRate": 0.1
         },
         {
@@ -118033,12 +118074,12 @@
           "gameId": "2026_02_PIT_NE",
           "team": "NE",
           "opponent": "PIT",
-          "qbElo": 1505.8,
+          "qbElo": 1505.0,
           "epaPerDropback": -0.051,
-          "expectedVsOpponent": 0.045,
-          "adjustedEpaPerDropback": -0.095,
+          "expectedVsOpponent": 0.072,
+          "adjustedEpaPerDropback": -0.122,
           "dropbacks": 25,
-          "performanceElo": 1470.2,
+          "performanceElo": 1461.5,
           "updateRate": 0.0833
         },
         {
@@ -118051,12 +118092,12 @@
           "gameId": "2026_03_NE_JAX",
           "team": "NE",
           "opponent": "JAX",
-          "qbElo": 1488.8,
+          "qbElo": 1487.8,
           "epaPerDropback": -0.506,
-          "expectedVsOpponent": 0.061,
-          "adjustedEpaPerDropback": -0.567,
+          "expectedVsOpponent": 0.063,
+          "adjustedEpaPerDropback": -0.569,
           "dropbacks": 28,
-          "performanceElo": 1322.8,
+          "performanceElo": 1320.7,
           "updateRate": 0.0933
         }
       ]
@@ -118296,10 +118337,10 @@
           "opponent": "JAX",
           "qbElo": 1396.6,
           "epaPerDropback": -0.107,
-          "expectedVsOpponent": 0.061,
-          "adjustedEpaPerDropback": -0.169,
+          "expectedVsOpponent": 0.063,
+          "adjustedEpaPerDropback": -0.17,
           "dropbacks": 5,
-          "performanceElo": 1447.3,
+          "performanceElo": 1446.4,
           "updateRate": 0.0167
         }
       ]
@@ -118326,7 +118367,7 @@
     "00-0040743": {
       "name": "Tyler Shough",
       "currentTeam": "NO",
-      "currentEpaElo": 1480.1,
+      "currentEpaElo": 1480.0,
       "initialization": {
         "type": "draft",
         "draftSeason": 2025,
@@ -118826,12 +118867,12 @@
           "gameId": "2026_01_NO_DET",
           "team": "NO",
           "opponent": "DET",
-          "qbElo": 1471.5,
+          "qbElo": 1471.4,
           "epaPerDropback": -0.017,
-          "expectedVsOpponent": 0.141,
-          "adjustedEpaPerDropback": -0.158,
+          "expectedVsOpponent": 0.143,
+          "adjustedEpaPerDropback": -0.159,
           "dropbacks": 61,
-          "performanceElo": 1450.7,
+          "performanceElo": 1449.8,
           "updateRate": 0.1
         },
         {
@@ -118844,12 +118885,12 @@
           "gameId": "2026_02_NO_BAL",
           "team": "NO",
           "opponent": "BAL",
-          "qbElo": 1481.7,
+          "qbElo": 1481.6,
           "epaPerDropback": 0.295,
-          "expectedVsOpponent": 0.061,
-          "adjustedEpaPerDropback": 0.235,
+          "expectedVsOpponent": 0.062,
+          "adjustedEpaPerDropback": 0.233,
           "dropbacks": 37,
-          "performanceElo": 1573.2,
+          "performanceElo": 1573.5,
           "updateRate": 0.1
         },
         {
@@ -118862,12 +118903,12 @@
           "gameId": "2026_03_LV_NO",
           "team": "NO",
           "opponent": "OAK",
-          "qbElo": 1480.1,
+          "qbElo": 1480.0,
           "epaPerDropback": -0.082,
-          "expectedVsOpponent": 0.026,
-          "adjustedEpaPerDropback": -0.109,
+          "expectedVsOpponent": 0.028,
+          "adjustedEpaPerDropback": -0.11,
           "dropbacks": 44,
-          "performanceElo": 1466.0,
+          "performanceElo": 1465.3,
           "updateRate": 0.1
         }
       ]
@@ -121138,7 +121179,7 @@
     "00-0031503": {
       "name": "Jameis Winston",
       "currentTeam": "NYG",
-      "currentEpaElo": 1443.1,
+      "currentEpaElo": 1442.8,
       "initialization": {
         "type": "draft",
         "draftSeason": 2015,
@@ -125408,12 +125449,12 @@
           "gameId": "2026_02_NYG_LA",
           "team": "NYG",
           "opponent": "LAR",
-          "qbElo": 1448.3,
+          "qbElo": 1448.1,
           "epaPerDropback": -0.569,
-          "expectedVsOpponent": 0.062,
-          "adjustedEpaPerDropback": -0.631,
+          "expectedVsOpponent": 0.064,
+          "adjustedEpaPerDropback": -0.632,
           "dropbacks": 29,
-          "performanceElo": 1303.0,
+          "performanceElo": 1300.8,
           "updateRate": 0.0967
         },
         {
@@ -125426,12 +125467,12 @@
           "gameId": "2026_03_TEN_NYG",
           "team": "NYG",
           "opponent": "TEN",
-          "qbElo": 1443.1,
+          "qbElo": 1442.8,
           "epaPerDropback": -0.245,
-          "expectedVsOpponent": 0.119,
-          "adjustedEpaPerDropback": -0.364,
+          "expectedVsOpponent": 0.121,
+          "adjustedEpaPerDropback": -0.365,
           "dropbacks": 25,
-          "performanceElo": 1386.4,
+          "performanceElo": 1384.9,
           "updateRate": 0.0833
         }
       ]
@@ -125846,7 +125887,7 @@
     "00-0040691": {
       "name": "Jaxson Dart",
       "currentTeam": "NYG",
-      "currentEpaElo": 1499.8,
+      "currentEpaElo": 1499.9,
       "initialization": {
         "type": "draft",
         "draftSeason": 2025,
@@ -126264,12 +126305,12 @@
           "gameId": "2026_01_DAL_NYG",
           "team": "NYG",
           "opponent": "DAL",
-          "qbElo": 1501.3,
+          "qbElo": 1501.4,
           "epaPerDropback": 0.707,
-          "expectedVsOpponent": 0.126,
-          "adjustedEpaPerDropback": 0.581,
+          "expectedVsOpponent": 0.127,
+          "adjustedEpaPerDropback": 0.58,
           "dropbacks": 31,
-          "performanceElo": 1681.5,
+          "performanceElo": 1682.7,
           "updateRate": 0.1
         },
         {
@@ -126282,12 +126323,12 @@
           "gameId": "2026_02_NYG_LA",
           "team": "NYG",
           "opponent": "LAR",
-          "qbElo": 1499.8,
+          "qbElo": 1499.9,
           "epaPerDropback": -0.223,
-          "expectedVsOpponent": 0.062,
-          "adjustedEpaPerDropback": -0.285,
+          "expectedVsOpponent": 0.064,
+          "adjustedEpaPerDropback": -0.287,
           "dropbacks": 5,
-          "performanceElo": 1410.9,
+          "performanceElo": 1409.6,
           "updateRate": 0.0167
         }
       ]
@@ -129723,10 +129764,10 @@
           "opponent": "TEN",
           "qbElo": 1484.1,
           "epaPerDropback": 0.406,
-          "expectedVsOpponent": 0.059,
-          "adjustedEpaPerDropback": 0.348,
+          "expectedVsOpponent": 0.06,
+          "adjustedEpaPerDropback": 0.346,
           "dropbacks": 24,
-          "performanceElo": 1608.5,
+          "performanceElo": 1609.1,
           "updateRate": 0.08
         },
         {
@@ -129741,10 +129782,10 @@
           "opponent": "GB",
           "qbElo": 1485.8,
           "epaPerDropback": 0.095,
-          "expectedVsOpponent": 0.091,
-          "adjustedEpaPerDropback": 0.004,
+          "expectedVsOpponent": 0.093,
+          "adjustedEpaPerDropback": 0.002,
           "dropbacks": 45,
-          "performanceElo": 1501.2,
+          "performanceElo": 1500.8,
           "updateRate": 0.1
         },
         {
@@ -129759,10 +129800,10 @@
           "opponent": "DET",
           "qbElo": 1492.4,
           "epaPerDropback": 0.259,
-          "expectedVsOpponent": 0.092,
-          "adjustedEpaPerDropback": 0.167,
+          "expectedVsOpponent": 0.093,
+          "adjustedEpaPerDropback": 0.166,
           "dropbacks": 42,
-          "performanceElo": 1552.2,
+          "performanceElo": 1552.3,
           "updateRate": 0.1
         }
       ]
@@ -129789,7 +129830,7 @@
     "00-0029604": {
       "name": "Kirk Cousins",
       "currentTeam": "OAK",
-      "currentEpaElo": 1489.4,
+      "currentEpaElo": 1489.3,
       "initialization": {
         "type": "draft",
         "draftSeason": 2012,
@@ -134407,12 +134448,12 @@
           "gameId": "2026_01_MIA_LV",
           "team": "OAK",
           "opponent": "MIA",
-          "qbElo": 1476.5,
+          "qbElo": 1476.4,
           "epaPerDropback": 0.013,
-          "expectedVsOpponent": 0.2,
-          "adjustedEpaPerDropback": -0.187,
+          "expectedVsOpponent": 0.202,
+          "adjustedEpaPerDropback": -0.189,
           "dropbacks": 30,
-          "performanceElo": 1441.6,
+          "performanceElo": 1440.6,
           "updateRate": 0.1
         },
         {
@@ -134425,12 +134466,12 @@
           "gameId": "2026_02_LV_LAC",
           "team": "OAK",
           "opponent": "LAC",
-          "qbElo": 1482.4,
+          "qbElo": 1482.3,
           "epaPerDropback": 0.193,
-          "expectedVsOpponent": 0.08,
-          "adjustedEpaPerDropback": 0.112,
+          "expectedVsOpponent": 0.082,
+          "adjustedEpaPerDropback": 0.111,
           "dropbacks": 31,
-          "performanceElo": 1535.0,
+          "performanceElo": 1534.9,
           "updateRate": 0.1
         },
         {
@@ -134443,10 +134484,10 @@
           "gameId": "2026_03_LV_NO",
           "team": "OAK",
           "opponent": "NO",
-          "qbElo": 1489.4,
+          "qbElo": 1489.3,
           "epaPerDropback": 0.249,
-          "expectedVsOpponent": 0.081,
-          "adjustedEpaPerDropback": 0.169,
+          "expectedVsOpponent": 0.082,
+          "adjustedEpaPerDropback": 0.167,
           "dropbacks": 36,
           "performanceElo": 1552.7,
           "updateRate": 0.1
@@ -135512,7 +135553,7 @@
     "00-0036389": {
       "name": "Jalen Hurts",
       "currentTeam": "PHI",
-      "currentEpaElo": 1489.3,
+      "currentEpaElo": 1489.1,
       "initialization": {
         "type": "draft",
         "draftSeason": 2020,
@@ -137874,10 +137915,10 @@
           "opponent": "WSH",
           "qbElo": 1499.3,
           "epaPerDropback": 0.045,
-          "expectedVsOpponent": 0.116,
-          "adjustedEpaPerDropback": -0.07,
+          "expectedVsOpponent": 0.117,
+          "adjustedEpaPerDropback": -0.072,
           "dropbacks": 28,
-          "performanceElo": 1478.1,
+          "performanceElo": 1477.5,
           "updateRate": 0.0933
         },
         {
@@ -137890,10 +137931,10 @@
           "gameId": "2026_02_PHI_TEN",
           "team": "PHI",
           "opponent": "TEN",
-          "qbElo": 1504.2,
+          "qbElo": 1504.1,
           "epaPerDropback": 0.219,
-          "expectedVsOpponent": 0.067,
-          "adjustedEpaPerDropback": 0.152,
+          "expectedVsOpponent": 0.068,
+          "adjustedEpaPerDropback": 0.151,
           "dropbacks": 40,
           "performanceElo": 1547.6,
           "updateRate": 0.1
@@ -137908,12 +137949,12 @@
           "gameId": "2026_03_PHI_CHI",
           "team": "PHI",
           "opponent": "CHI",
-          "qbElo": 1489.3,
+          "qbElo": 1489.1,
           "epaPerDropback": -0.406,
-          "expectedVsOpponent": 0.109,
-          "adjustedEpaPerDropback": -0.515,
+          "expectedVsOpponent": 0.11,
+          "adjustedEpaPerDropback": -0.516,
           "dropbacks": 27,
-          "performanceElo": 1339.3,
+          "performanceElo": 1337.4,
           "updateRate": 0.09
         }
       ]
@@ -143557,8 +143598,8 @@
           "opponent": "CHI",
           "qbElo": 1432.0,
           "epaPerDropback": -5.569,
-          "expectedVsOpponent": 0.109,
-          "adjustedEpaPerDropback": -5.678,
+          "expectedVsOpponent": 0.11,
+          "adjustedEpaPerDropback": -5.679,
           "dropbacks": 1,
           "performanceElo": 1100.0,
           "updateRate": 0.0033
@@ -143698,7 +143739,7 @@
     "00-0023459": {
       "name": "Aaron Rodgers",
       "currentTeam": "PIT",
-      "currentEpaElo": 1473.0,
+      "currentEpaElo": 1475.8,
       "initialization": {
         "type": "draft",
         "draftSeason": 2005,
@@ -149118,12 +149159,12 @@
           "gameId": "2026_01_ATL_PIT",
           "team": "PIT",
           "opponent": "ATL",
-          "qbElo": 1478.3,
+          "qbElo": 1478.2,
           "epaPerDropback": -0.187,
-          "expectedVsOpponent": 0.095,
-          "adjustedEpaPerDropback": -0.281,
+          "expectedVsOpponent": 0.096,
+          "adjustedEpaPerDropback": -0.282,
           "dropbacks": 42,
-          "performanceElo": 1412.2,
+          "performanceElo": 1411.0,
           "updateRate": 0.1
         },
         {
@@ -149136,12 +149177,12 @@
           "gameId": "2026_02_PIT_NE",
           "team": "PIT",
           "opponent": "NE",
-          "qbElo": 1461.9,
+          "qbElo": 1461.6,
           "epaPerDropback": -0.498,
-          "expectedVsOpponent": 0.097,
-          "adjustedEpaPerDropback": -0.595,
+          "expectedVsOpponent": 0.099,
+          "adjustedEpaPerDropback": -0.597,
           "dropbacks": 43,
-          "performanceElo": 1314.1,
+          "performanceElo": 1312.0,
           "updateRate": 0.1
         },
         {
@@ -149154,12 +149195,30 @@
           "gameId": "2026_03_CIN_PIT",
           "team": "PIT",
           "opponent": "CIN",
-          "qbElo": 1473.0,
+          "qbElo": 1472.7,
           "epaPerDropback": 0.237,
-          "expectedVsOpponent": 0.004,
-          "adjustedEpaPerDropback": 0.233,
+          "expectedVsOpponent": 0.005,
+          "adjustedEpaPerDropback": 0.231,
           "dropbacks": 36,
-          "performanceElo": 1572.7,
+          "performanceElo": 1572.9,
+          "updateRate": 0.1
+        },
+        {
+          "date": "2026-10-01",
+          "season": 2026,
+          "week": 4,
+          "stage": "Week 4",
+          "type": "game",
+          "appearance": "start",
+          "gameId": "2026_04_PIT_CLE",
+          "team": "PIT",
+          "opponent": "CLE",
+          "qbElo": 1475.8,
+          "epaPerDropback": 0.054,
+          "expectedVsOpponent": 0.041,
+          "adjustedEpaPerDropback": 0.013,
+          "dropbacks": 45,
+          "performanceElo": 1503.9,
           "updateRate": 0.1
         }
       ]
@@ -149167,7 +149226,7 @@
     "00-0034771": {
       "name": "Mason Rudolph",
       "currentTeam": "PIT",
-      "currentEpaElo": 1463.2,
+      "currentEpaElo": 1462.3,
       "initialization": {
         "type": "draft",
         "draftSeason": 2018,
@@ -150394,6 +150453,29 @@
           "startsSinceAnchor": 1,
           "decayFraction": 0.4575,
           "benchDecayAppliedElo": 19.2,
+          "benchDecayBudgetElo": 21.0,
+          "maxDecayFraction": 0.5,
+          "source": "dated depth-chart snapshot"
+        },
+        {
+          "date": "2026-10-01",
+          "season": 2026,
+          "week": 4,
+          "stage": "Week 4 \u00b7 Healthy backup",
+          "type": "bench",
+          "gameId": "2026_04_PIT_CLE-backup-00-0034771",
+          "team": "PIT",
+          "opponent": "CLE",
+          "qbElo": 1462.3,
+          "beforeEpaElo": 1463.2,
+          "anchorEpaElo": 1477.5,
+          "targetEpaElo": 1435.5,
+          "listedDepthRank": 2,
+          "rosterStatus": "ACT",
+          "healthyBenchWeeksInSpell": 16,
+          "startsSinceAnchor": 1,
+          "decayFraction": 0.4792,
+          "benchDecayAppliedElo": 20.2,
           "benchDecayBudgetElo": 21.0,
           "maxDecayFraction": 0.5,
           "source": "dated depth-chart snapshot"
@@ -152211,10 +152293,10 @@
           "opponent": "NE",
           "qbElo": 1464.2,
           "epaPerDropback": -0.418,
-          "expectedVsOpponent": 0.097,
-          "adjustedEpaPerDropback": -0.515,
+          "expectedVsOpponent": 0.099,
+          "adjustedEpaPerDropback": -0.517,
           "dropbacks": 1,
-          "performanceElo": 1339.1,
+          "performanceElo": 1337.2,
           "updateRate": 0.0033
         },
         {
@@ -152236,6 +152318,29 @@
           "startsSinceAnchor": 1,
           "decayFraction": 0.4575,
           "benchDecayAppliedElo": 19.2,
+          "benchDecayBudgetElo": 21.0,
+          "maxDecayFraction": 0.5,
+          "source": "dated depth-chart snapshot"
+        },
+        {
+          "date": "2026-10-01",
+          "season": 2026,
+          "week": 4,
+          "stage": "Week 4 \u00b7 Healthy backup",
+          "type": "bench",
+          "gameId": "2026_04_PIT_CLE-backup-00-0034771",
+          "team": "PIT",
+          "opponent": "CLE",
+          "qbElo": 1462.3,
+          "beforeEpaElo": 1463.2,
+          "anchorEpaElo": 1477.5,
+          "targetEpaElo": 1435.5,
+          "listedDepthRank": 2,
+          "rosterStatus": "ACT",
+          "healthyBenchWeeksInSpell": 16,
+          "startsSinceAnchor": 1,
+          "decayFraction": 0.4792,
+          "benchDecayAppliedElo": 20.2,
           "benchDecayBudgetElo": 21.0,
           "maxDecayFraction": 0.5,
           "source": "dated depth-chart snapshot"
@@ -152283,7 +152388,7 @@
     "00-0034869": {
       "name": "Sam Darnold",
       "currentTeam": "SEA",
-      "currentEpaElo": 1516.0,
+      "currentEpaElo": 1515.9,
       "initialization": {
         "type": "draft",
         "draftSeason": 2018,
@@ -154945,10 +155050,10 @@
           "opponent": "NE",
           "qbElo": 1518.5,
           "epaPerDropback": -0.692,
-          "expectedVsOpponent": -0.005,
-          "adjustedEpaPerDropback": -0.687,
+          "expectedVsOpponent": -0.003,
+          "adjustedEpaPerDropback": -0.689,
           "dropbacks": 3,
-          "performanceElo": 1285.3,
+          "performanceElo": 1283.0,
           "updateRate": 0.01
         },
         {
@@ -154961,12 +155066,12 @@
           "gameId": "2026_03_SEA_WAS",
           "team": "SEA",
           "opponent": "WSH",
-          "qbElo": 1516.0,
+          "qbElo": 1515.9,
           "epaPerDropback": 0.091,
-          "expectedVsOpponent": 0.112,
-          "adjustedEpaPerDropback": -0.022,
+          "expectedVsOpponent": 0.114,
+          "adjustedEpaPerDropback": -0.023,
           "dropbacks": 45,
-          "performanceElo": 1493.2,
+          "performanceElo": 1492.7,
           "updateRate": 0.1
         }
       ]
@@ -154974,7 +155079,7 @@
     "00-0035704": {
       "name": "Drew Lock",
       "currentTeam": "SEA",
-      "currentEpaElo": 1469.4,
+      "currentEpaElo": 1469.5,
       "initialization": {
         "type": "draft",
         "draftSeason": 2019,
@@ -157730,10 +157835,10 @@
           "opponent": "NE",
           "qbElo": 1451.6,
           "epaPerDropback": 0.28,
-          "expectedVsOpponent": -0.005,
-          "adjustedEpaPerDropback": 0.285,
+          "expectedVsOpponent": -0.003,
+          "adjustedEpaPerDropback": 0.284,
           "dropbacks": 23,
-          "performanceElo": 1589.0,
+          "performanceElo": 1589.4,
           "updateRate": 0.0767
         },
         {
@@ -157746,12 +157851,12 @@
           "gameId": "2026_02_SEA_ARI",
           "team": "SEA",
           "opponent": "ARI",
-          "qbElo": 1469.4,
+          "qbElo": 1469.5,
           "epaPerDropback": 0.596,
-          "expectedVsOpponent": 0.118,
-          "adjustedEpaPerDropback": 0.478,
+          "expectedVsOpponent": 0.119,
+          "adjustedEpaPerDropback": 0.477,
           "dropbacks": 27,
-          "performanceElo": 1649.3,
+          "performanceElo": 1650.2,
           "updateRate": 0.09
         }
       ]
@@ -157778,7 +157883,7 @@
     "00-0037834": {
       "name": "Brock Purdy",
       "currentTeam": "SF",
-      "currentEpaElo": 1562.6,
+      "currentEpaElo": 1562.9,
       "initialization": {
         "type": "draft",
         "draftSeason": 2022,
@@ -158976,8 +159081,8 @@
           "opponent": "LAR",
           "qbElo": 1525.3,
           "epaPerDropback": 0.142,
-          "expectedVsOpponent": -0.021,
-          "adjustedEpaPerDropback": 0.163,
+          "expectedVsOpponent": -0.02,
+          "adjustedEpaPerDropback": 0.162,
           "dropbacks": 34,
           "performanceElo": 1551.0,
           "updateRate": 0.1
@@ -158992,12 +159097,12 @@
           "gameId": "2026_02_MIA_SF",
           "team": "SF",
           "opponent": "MIA",
-          "qbElo": 1545.3,
+          "qbElo": 1545.5,
           "epaPerDropback": 1.06,
-          "expectedVsOpponent": 0.103,
-          "adjustedEpaPerDropback": 0.957,
+          "expectedVsOpponent": 0.105,
+          "adjustedEpaPerDropback": 0.956,
           "dropbacks": 22,
-          "performanceElo": 1798.9,
+          "performanceElo": 1801.1,
           "updateRate": 0.0733
         },
         {
@@ -159010,12 +159115,12 @@
           "gameId": "2026_03_ARI_SF",
           "team": "SF",
           "opponent": "ARI",
-          "qbElo": 1562.6,
+          "qbElo": 1562.9,
           "epaPerDropback": 0.849,
-          "expectedVsOpponent": 0.091,
-          "adjustedEpaPerDropback": 0.758,
+          "expectedVsOpponent": 0.093,
+          "adjustedEpaPerDropback": 0.757,
           "dropbacks": 27,
-          "performanceElo": 1736.7,
+          "performanceElo": 1738.4,
           "updateRate": 0.09
         }
       ]
@@ -161381,7 +161486,7 @@
     "00-0034855": {
       "name": "Baker Mayfield",
       "currentTeam": "TB",
-      "currentEpaElo": 1475.4,
+      "currentEpaElo": 1475.2,
       "initialization": {
         "type": "draft",
         "draftSeason": 2018,
@@ -164105,12 +164210,12 @@
           "gameId": "2026_01_TB_CIN",
           "team": "TB",
           "opponent": "CIN",
-          "qbElo": 1497.0,
+          "qbElo": 1496.9,
           "epaPerDropback": -0.169,
-          "expectedVsOpponent": 0.051,
-          "adjustedEpaPerDropback": -0.22,
+          "expectedVsOpponent": 0.053,
+          "adjustedEpaPerDropback": -0.222,
           "dropbacks": 32,
-          "performanceElo": 1431.2,
+          "performanceElo": 1430.1,
           "updateRate": 0.1
         },
         {
@@ -164123,12 +164228,12 @@
           "gameId": "2026_02_CLE_TB",
           "team": "TB",
           "opponent": "CLE",
-          "qbElo": 1482.9,
+          "qbElo": 1482.8,
           "epaPerDropback": -0.367,
-          "expectedVsOpponent": 0.095,
-          "adjustedEpaPerDropback": -0.461,
+          "expectedVsOpponent": 0.09,
+          "adjustedEpaPerDropback": -0.457,
           "dropbacks": 37,
-          "performanceElo": 1355.9,
+          "performanceElo": 1356.1,
           "updateRate": 0.1
         },
         {
@@ -164141,12 +164246,12 @@
           "gameId": "2026_03_MIN_TB",
           "team": "TB",
           "opponent": "MIN",
-          "qbElo": 1475.4,
+          "qbElo": 1475.2,
           "epaPerDropback": -0.272,
-          "expectedVsOpponent": 0.022,
-          "adjustedEpaPerDropback": -0.294,
+          "expectedVsOpponent": 0.024,
+          "adjustedEpaPerDropback": -0.296,
           "dropbacks": 40,
-          "performanceElo": 1408.1,
+          "performanceElo": 1406.8,
           "updateRate": 0.1
         }
       ]
@@ -164181,10 +164286,10 @@
           "opponent": "MIN",
           "qbElo": 1349.6,
           "epaPerDropback": -0.152,
-          "expectedVsOpponent": 0.022,
-          "adjustedEpaPerDropback": -0.175,
+          "expectedVsOpponent": 0.024,
+          "adjustedEpaPerDropback": -0.176,
           "dropbacks": 3,
-          "performanceElo": 1445.5,
+          "performanceElo": 1444.6,
           "updateRate": 0.01
         }
       ]
@@ -164192,7 +164297,7 @@
     "00-0040676": {
       "name": "Cam Ward",
       "currentTeam": "TEN",
-      "currentEpaElo": 1457.2,
+      "currentEpaElo": 1456.9,
       "initialization": {
         "type": "draft",
         "draftSeason": 2025,
@@ -164548,12 +164653,12 @@
           "gameId": "2026_01_NYJ_TEN",
           "team": "TEN",
           "opponent": "NYJ",
-          "qbElo": 1463.7,
+          "qbElo": 1463.5,
           "epaPerDropback": -0.21,
-          "expectedVsOpponent": 0.082,
-          "adjustedEpaPerDropback": -0.293,
+          "expectedVsOpponent": 0.084,
+          "adjustedEpaPerDropback": -0.294,
           "dropbacks": 35,
-          "performanceElo": 1408.6,
+          "performanceElo": 1407.4,
           "updateRate": 0.1
         },
         {
@@ -164566,12 +164671,12 @@
           "gameId": "2026_02_PHI_TEN",
           "team": "TEN",
           "opponent": "PHI",
-          "qbElo": 1464.2,
+          "qbElo": 1464.0,
           "epaPerDropback": -0.004,
-          "expectedVsOpponent": 0.09,
-          "adjustedEpaPerDropback": -0.094,
+          "expectedVsOpponent": 0.091,
+          "adjustedEpaPerDropback": -0.096,
           "dropbacks": 22,
-          "performanceElo": 1470.6,
+          "performanceElo": 1469.9,
           "updateRate": 0.0733
         },
         {
@@ -164584,12 +164689,12 @@
           "gameId": "2026_03_TEN_NYG",
           "team": "TEN",
           "opponent": "NYG",
-          "qbElo": 1457.2,
+          "qbElo": 1456.9,
           "epaPerDropback": -0.18,
-          "expectedVsOpponent": 0.158,
-          "adjustedEpaPerDropback": -0.338,
+          "expectedVsOpponent": 0.159,
+          "adjustedEpaPerDropback": -0.339,
           "dropbacks": 36,
-          "performanceElo": 1394.4,
+          "performanceElo": 1393.0,
           "updateRate": 0.1
         }
       ]
@@ -168622,7 +168727,7 @@
     "00-0039910": {
       "name": "Jayden Daniels",
       "currentTeam": "WSH",
-      "currentEpaElo": 1496.6,
+      "currentEpaElo": 1496.5,
       "initialization": {
         "type": "draft",
         "draftSeason": 2024,
@@ -169233,10 +169338,10 @@
           "opponent": "PHI",
           "qbElo": 1499.6,
           "epaPerDropback": 0.112,
-          "expectedVsOpponent": 0.079,
-          "adjustedEpaPerDropback": 0.033,
+          "expectedVsOpponent": 0.08,
+          "adjustedEpaPerDropback": 0.032,
           "dropbacks": 35,
-          "performanceElo": 1510.3,
+          "performanceElo": 1509.9,
           "updateRate": 0.1
         },
         {
@@ -169249,12 +169354,12 @@
           "gameId": "2026_02_WAS_DAL",
           "team": "WSH",
           "opponent": "DAL",
-          "qbElo": 1496.6,
+          "qbElo": 1496.5,
           "epaPerDropback": 0.011,
-          "expectedVsOpponent": 0.186,
-          "adjustedEpaPerDropback": -0.176,
+          "expectedVsOpponent": 0.188,
+          "adjustedEpaPerDropback": -0.177,
           "dropbacks": 17,
-          "performanceElo": 1445.1,
+          "performanceElo": 1444.1,
           "updateRate": 0.0567
         }
       ]
@@ -172850,12 +172955,12 @@
           "gameId": "2026_02_WAS_DAL",
           "team": "WSH",
           "opponent": "DAL",
-          "qbElo": 1484.5,
+          "qbElo": 1484.6,
           "epaPerDropback": 0.421,
-          "expectedVsOpponent": 0.186,
-          "adjustedEpaPerDropback": 0.234,
+          "expectedVsOpponent": 0.188,
+          "adjustedEpaPerDropback": 0.233,
           "dropbacks": 16,
-          "performanceElo": 1573.2,
+          "performanceElo": 1573.3,
           "updateRate": 0.0533
         },
         {
@@ -172870,10 +172975,10 @@
           "opponent": "SEA",
           "qbElo": 1489.7,
           "epaPerDropback": 0.117,
-          "expectedVsOpponent": 0.001,
-          "adjustedEpaPerDropback": 0.116,
+          "expectedVsOpponent": 0.002,
+          "adjustedEpaPerDropback": 0.114,
           "dropbacks": 33,
-          "performanceElo": 1536.1,
+          "performanceElo": 1536.0,
           "updateRate": 0.1
         }
       ]
