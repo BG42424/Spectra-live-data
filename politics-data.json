@@ -2,7 +2,7 @@
   "meta": {
     "cycle": 2026,
     "electionDate": "2026-11-03",
-    "updatedAt": "2026-10-06",
+    "updatedAt": "2026-10-07",
     "experimental": true,
     "houseBaselineNationalMargin": -2.782,
     "senatePollCoverage": {
@@ -311,7 +311,7 @@
       }
     },
     "houseCandidateCoverage": {
-      "checkedAt": "2026-10-06",
+      "checkedAt": "2026-10-07",
       "districts": 435,
       "finalizedDemocratic": 412,
       "finalizedRepublican": 411,
@@ -398,14 +398,14 @@
       }
     ],
     "senatePollRefresh": {
-      "checkedAt": "2026-10-06",
+      "checkedAt": "2026-10-07",
       "provider": "PollingSource",
-      "reviewed": 191,
+      "reviewed": 192,
       "added": 12,
-      "skippedCandidateMismatch": 58
+      "skippedCandidateMismatch": 60
     },
     "pollRefresh": {
-      "checkedAt": "2026-10-06",
+      "checkedAt": "2026-10-07",
       "provider": "VoteHub",
       "added": 28,
       "needsReview": [
@@ -457,14 +457,14 @@
       ]
     },
     "housePollCoverage": {
-      "checkedAt": "2026-10-06",
+      "checkedAt": "2026-10-07",
       "provider": "PollingSource, VoteHub, and Decision Labs",
-      "polls": 108,
+      "polls": 109,
       "districts": 61
     },
     "decisionLabsPollRefresh": {
-      "checkedAt": "2026-10-06",
-      "generatedAt": "2026-10-06T18:19:43.410Z",
+      "checkedAt": "2026-10-07",
+      "generatedAt": "2026-10-07T06:09:59.232Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -3028,6 +3028,22 @@
     {
       "id": "the-washington-post-george-mason-university-school-of-policy-and-government",
       "name": "The Washington Post/George Mason University School of Policy and Government",
+      "historicalPolls": 0,
+      "historicalSourceName": null,
+      "historicalError": null,
+      "transparencyScore": 0.8,
+      "meanRevertedBias": null,
+      "bias": null,
+      "houseEffect": null,
+      "predictivePlusMinus": null,
+      "racesCalledCorrectly": null,
+      "manualGrade": null,
+      "manualGradeNotes": null,
+      "modelRoomExcluded": false
+    },
+    {
+      "id": "the-washington-post-sspg",
+      "name": "The Washington Post/SSPG",
       "historicalPolls": 0,
       "historicalSourceName": null,
       "historicalError": null,
@@ -14953,14 +14969,35 @@
       "modelEligible": true
     },
     {
-      "id": "pollingsource-va-05-2026-09-29-washington-post",
-      "raceId": "VA-05",
+      "id": "pollingsource-va-01-2026-09-29-washington-post",
+      "raceId": "VA-01",
       "pollsterId": "washington-post",
       "pollster": "Washington Post",
       "sponsor": null,
       "partisanSponsor": null,
       "startDate": "2026-09-29",
       "endDate": "2026-09-29",
+      "population": "LV",
+      "sampleSize": 600,
+      "demPct": 50.0,
+      "repPct": 46.0,
+      "margin": 4.0,
+      "sourceUrl": "https://pollingsource.com/house/polls",
+      "sourceLabel": "PollingSource public House poll ledger",
+      "methodologyUrl": "https://pollingsource.com/methodology",
+      "sourceType": "public_aggregator",
+      "notes": "PollingSource table date; Taylor (D) / Wittman (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "pollingsource-va-05-2026-09-28-the-washington-post-sspg",
+      "raceId": "VA-05",
+      "pollsterId": "the-washington-post-sspg",
+      "pollster": "The Washington Post/SSPG",
+      "sponsor": null,
+      "partisanSponsor": null,
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-28",
       "population": "LV",
       "sampleSize": 600,
       "demPct": 45.0,
@@ -14970,7 +15007,7 @@
       "sourceLabel": "PollingSource public House poll ledger",
       "methodologyUrl": "https://pollingsource.com/methodology",
       "sourceType": "public_aggregator",
-      "notes": "PollingSource table date; Perriello (D) / McGuire (R)",
+      "notes": "PollingSource table date; Tom Perriello (D) / John McGuire (R)",
       "modelEligible": true
     },
     {
