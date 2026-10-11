@@ -400,8 +400,8 @@
     "senatePollRefresh": {
       "checkedAt": "2026-10-11",
       "provider": "PollingSource",
-      "reviewed": 196,
-      "added": 28,
+      "reviewed": 199,
+      "added": 30,
       "skippedCandidateMismatch": 59
     },
     "pollRefresh": {
@@ -464,7 +464,7 @@
     },
     "decisionLabsPollRefresh": {
       "checkedAt": "2026-10-11",
-      "generatedAt": "2026-10-11T05:58:52.134Z",
+      "generatedAt": "2026-10-11T13:04:12.983Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -15745,6 +15745,48 @@
       "methodologyUrl": "https://pollingsource.com/methodology",
       "sourceType": "public_aggregator",
       "notes": "PollingSource table date; Jonny Larsen (D) / Mike Kennedy (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "pollingsource-mi-sen-2026-10-09-wedgewood-polls",
+      "raceId": "MI-SEN",
+      "pollsterId": "wedgewood-polls",
+      "pollster": "Wedgewood Polls",
+      "sponsor": null,
+      "partisanSponsor": null,
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-09",
+      "population": "LV",
+      "sampleSize": 607,
+      "demPct": 53.0,
+      "repPct": 47.0,
+      "margin": 6.0,
+      "sourceUrl": "https://pollingsource.com/senate/MI",
+      "sourceLabel": "PollingSource public Senate poll ledger",
+      "methodologyUrl": "https://pollingsource.com/methodology",
+      "sourceType": "public_aggregator",
+      "notes": "PollingSource table date; Abdul El-Sayed (D) / Mike Rogers (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "pollingsource-tx-sen-2026-10-08-trafalgar-group",
+      "raceId": "TX-SEN",
+      "pollsterId": "trafalgar-group",
+      "pollster": "Trafalgar Group",
+      "sponsor": null,
+      "partisanSponsor": null,
+      "startDate": "2026-10-08",
+      "endDate": "2026-10-08",
+      "population": "LV",
+      "sampleSize": 1086,
+      "demPct": 47.0,
+      "repPct": 44.0,
+      "margin": 3.0,
+      "sourceUrl": "https://pollingsource.com/senate/TX",
+      "sourceLabel": "PollingSource public Senate poll ledger",
+      "methodologyUrl": "https://pollingsource.com/methodology",
+      "sourceType": "public_aggregator",
+      "notes": "PollingSource table date; James Talarico (D) / Ken Paxton (R)",
       "modelEligible": true
     },
     {
