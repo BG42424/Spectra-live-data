@@ -400,9 +400,9 @@
     "senatePollRefresh": {
       "checkedAt": "2026-10-12",
       "provider": "PollingSource",
-      "reviewed": 200,
-      "added": 30,
-      "skippedCandidateMismatch": 61
+      "reviewed": 202,
+      "added": 31,
+      "skippedCandidateMismatch": 62
     },
     "pollRefresh": {
       "checkedAt": "2026-10-12",
@@ -459,12 +459,12 @@
     "housePollCoverage": {
       "checkedAt": "2026-10-12",
       "provider": "PollingSource, VoteHub, and Decision Labs",
-      "polls": 118,
+      "polls": 119,
       "districts": 62
     },
     "decisionLabsPollRefresh": {
       "checkedAt": "2026-10-12",
-      "generatedAt": "2026-10-12T06:09:14.257Z",
+      "generatedAt": "2026-10-12T14:26:53.760Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -15496,6 +15496,27 @@
       "modelEligible": true
     },
     {
+      "id": "pollingsource-nc-01-2026-10-08-co-efficient-r",
+      "raceId": "NC-01",
+      "pollsterId": "co-efficient-r",
+      "pollster": "co/efficient (R)",
+      "sponsor": null,
+      "partisanSponsor": "R",
+      "startDate": "2026-10-08",
+      "endDate": "2026-10-08",
+      "population": "LV",
+      "sampleSize": 623,
+      "demPct": 42.0,
+      "repPct": 43.0,
+      "margin": -1.0,
+      "sourceUrl": "https://pollingsource.com/house/polls",
+      "sourceLabel": "PollingSource public House poll ledger",
+      "methodologyUrl": "https://pollingsource.com/methodology",
+      "sourceType": "public_aggregator",
+      "notes": "PollingSource table date; Don Davis (D) / Laurie Buckhout (R)",
+      "modelEligible": true
+    },
+    {
       "id": "pollingsource-ny-21-2026-10-04-impact-research-d",
       "raceId": "NY-21",
       "pollsterId": "impact-research-d",
@@ -15766,6 +15787,27 @@
       "methodologyUrl": "https://pollingsource.com/methodology",
       "sourceType": "public_aggregator",
       "notes": "PollingSource table date; Abdul El-Sayed (D) / Mike Rogers (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "pollingsource-sc-sen-2026-10-08-rasmussen-reports",
+      "raceId": "SC-SEN",
+      "pollsterId": "rasmussen-reports",
+      "pollster": "Rasmussen Reports",
+      "sponsor": null,
+      "partisanSponsor": null,
+      "startDate": "2026-10-08",
+      "endDate": "2026-10-08",
+      "population": "LV",
+      "sampleSize": 837,
+      "demPct": 45.0,
+      "repPct": 49.0,
+      "margin": -4.0,
+      "sourceUrl": "https://pollingsource.com/senate/SC",
+      "sourceLabel": "PollingSource public Senate poll ledger",
+      "methodologyUrl": "https://pollingsource.com/methodology",
+      "sourceType": "public_aggregator",
+      "notes": "PollingSource table date; Annie Andrews (D) / Darline Graham (R)",
       "modelEligible": true
     },
     {
