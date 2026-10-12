@@ -2,7 +2,7 @@
   "meta": {
     "cycle": 2026,
     "electionDate": "2026-11-03",
-    "updatedAt": "2026-10-11",
+    "updatedAt": "2026-10-12",
     "experimental": true,
     "houseBaselineNationalMargin": -2.782,
     "senatePollCoverage": {
@@ -311,7 +311,7 @@
       }
     },
     "houseCandidateCoverage": {
-      "checkedAt": "2026-10-11",
+      "checkedAt": "2026-10-12",
       "districts": 435,
       "finalizedDemocratic": 412,
       "finalizedRepublican": 411,
@@ -398,14 +398,14 @@
       }
     ],
     "senatePollRefresh": {
-      "checkedAt": "2026-10-11",
+      "checkedAt": "2026-10-12",
       "provider": "PollingSource",
-      "reviewed": 203,
+      "reviewed": 200,
       "added": 30,
-      "skippedCandidateMismatch": 63
+      "skippedCandidateMismatch": 61
     },
     "pollRefresh": {
-      "checkedAt": "2026-10-11",
+      "checkedAt": "2026-10-12",
       "provider": "VoteHub",
       "added": 23,
       "needsReview": [
@@ -457,14 +457,14 @@
       ]
     },
     "housePollCoverage": {
-      "checkedAt": "2026-10-11",
+      "checkedAt": "2026-10-12",
       "provider": "PollingSource, VoteHub, and Decision Labs",
       "polls": 118,
       "districts": 62
     },
     "decisionLabsPollRefresh": {
-      "checkedAt": "2026-10-11",
-      "generatedAt": "2026-10-11T22:06:52.352Z",
+      "checkedAt": "2026-10-12",
+      "generatedAt": "2026-10-12T06:09:14.257Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
