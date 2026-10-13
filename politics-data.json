@@ -2,7 +2,7 @@
   "meta": {
     "cycle": 2026,
     "electionDate": "2026-11-03",
-    "updatedAt": "2026-10-12",
+    "updatedAt": "2026-10-13",
     "experimental": true,
     "houseBaselineNationalMargin": -2.782,
     "senatePollCoverage": {
@@ -311,7 +311,7 @@
       }
     },
     "houseCandidateCoverage": {
-      "checkedAt": "2026-10-12",
+      "checkedAt": "2026-10-13",
       "districts": 435,
       "finalizedDemocratic": 412,
       "finalizedRepublican": 411,
@@ -398,14 +398,14 @@
       }
     ],
     "senatePollRefresh": {
-      "checkedAt": "2026-10-12",
+      "checkedAt": "2026-10-13",
       "provider": "PollingSource",
-      "reviewed": 202,
-      "added": 31,
+      "reviewed": 201,
+      "added": 32,
       "skippedCandidateMismatch": 62
     },
     "pollRefresh": {
-      "checkedAt": "2026-10-12",
+      "checkedAt": "2026-10-13",
       "provider": "VoteHub",
       "added": 23,
       "needsReview": [
@@ -457,14 +457,14 @@
       ]
     },
     "housePollCoverage": {
-      "checkedAt": "2026-10-12",
+      "checkedAt": "2026-10-13",
       "provider": "PollingSource, VoteHub, and Decision Labs",
       "polls": 119,
       "districts": 62
     },
     "decisionLabsPollRefresh": {
-      "checkedAt": "2026-10-12",
-      "generatedAt": "2026-10-12T14:26:53.760Z",
+      "checkedAt": "2026-10-13",
+      "generatedAt": "2026-10-13T00:49:24.204Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -16249,6 +16249,27 @@
       "methodologyUrl": "https://pollingsource.com/methodology",
       "sourceType": "public_aggregator",
       "notes": "PollingSource table date; Adam Hamilton (D) / Roger Marshall (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "pollingsource-ne-sen-2026-09-30-co-efficient",
+      "raceId": "NE-SEN",
+      "pollsterId": "co-efficient",
+      "pollster": "co/efficient",
+      "sponsor": null,
+      "partisanSponsor": null,
+      "startDate": "2026-09-30",
+      "endDate": "2026-09-30",
+      "population": "LV",
+      "sampleSize": 1113,
+      "demPct": 43.0,
+      "repPct": 48.0,
+      "margin": -5.0,
+      "sourceUrl": "https://pollingsource.com/senate/NE",
+      "sourceLabel": "PollingSource public Senate poll ledger",
+      "methodologyUrl": "https://pollingsource.com/methodology",
+      "sourceType": "public_aggregator",
+      "notes": "PollingSource table date; Dan Osborn (D) / Pete Ricketts (R)",
       "modelEligible": true
     },
     {
