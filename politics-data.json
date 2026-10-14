@@ -464,12 +464,12 @@
     "housePollCoverage": {
       "checkedAt": "2026-10-14",
       "provider": "PollingSource, VoteHub, and Decision Labs",
-      "polls": 125,
-      "districts": 64
+      "polls": 126,
+      "districts": 65
     },
     "decisionLabsPollRefresh": {
       "checkedAt": "2026-10-14",
-      "generatedAt": "2026-10-14T12:04:27.858Z",
+      "generatedAt": "2026-10-14T17:20:18.298Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -15788,6 +15788,27 @@
       "methodologyUrl": "https://pollingsource.com/methodology",
       "sourceType": "public_aggregator",
       "notes": "PollingSource table date; Don Davis (D) / Laurie Buckhout (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "pollingsource-tx-09-2026-10-07-university-of-houston",
+      "raceId": "TX-09",
+      "pollsterId": "university-of-houston",
+      "pollster": "University of Houston",
+      "sponsor": null,
+      "partisanSponsor": null,
+      "startDate": "2026-10-07",
+      "endDate": "2026-10-07",
+      "population": "LV",
+      "sampleSize": 677,
+      "demPct": 42.0,
+      "repPct": 48.0,
+      "margin": -6.0,
+      "sourceUrl": "https://pollingsource.com/house/polls",
+      "sourceLabel": "PollingSource public House poll ledger",
+      "methodologyUrl": "https://pollingsource.com/methodology",
+      "sourceType": "public_aggregator",
+      "notes": "PollingSource table date; Gutierrez (D) / Mealer (R)",
       "modelEligible": true
     },
     {
