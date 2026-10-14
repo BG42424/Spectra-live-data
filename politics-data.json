@@ -400,8 +400,8 @@
     "senatePollRefresh": {
       "checkedAt": "2026-10-14",
       "provider": "PollingSource",
-      "reviewed": 198,
-      "added": 35,
+      "reviewed": 203,
+      "added": 36,
       "skippedCandidateMismatch": 61
     },
     "pollRefresh": {
@@ -464,12 +464,12 @@
     "housePollCoverage": {
       "checkedAt": "2026-10-14",
       "provider": "PollingSource, VoteHub, and Decision Labs",
-      "polls": 123,
+      "polls": 125,
       "districts": 64
     },
     "decisionLabsPollRefresh": {
       "checkedAt": "2026-10-14",
-      "generatedAt": "2026-10-14T05:02:44.285Z",
+      "generatedAt": "2026-10-14T12:04:27.858Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -2850,6 +2850,22 @@
       "houseEffect": -1.277,
       "predictivePlusMinus": -0.077,
       "racesCalledCorrectly": 0.574,
+      "manualGrade": null,
+      "manualGradeNotes": null,
+      "modelRoomExcluded": false
+    },
+    {
+      "id": "stetson-university",
+      "name": "Stetson University",
+      "historicalPolls": 0,
+      "historicalSourceName": null,
+      "historicalError": null,
+      "transparencyScore": 0.8,
+      "meanRevertedBias": null,
+      "bias": null,
+      "houseEffect": null,
+      "predictivePlusMinus": null,
+      "racesCalledCorrectly": null,
       "manualGrade": null,
       "manualGradeNotes": null,
       "modelRoomExcluded": false
@@ -15712,6 +15728,27 @@
       "modelEligible": true
     },
     {
+      "id": "pollingsource-ga-07-2026-10-09-20-20-insight-d",
+      "raceId": "GA-07",
+      "pollsterId": "20-20-insight-d",
+      "pollster": "20/20 Insight (D)",
+      "sponsor": null,
+      "partisanSponsor": null,
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-09",
+      "population": "LV",
+      "sampleSize": 457,
+      "demPct": 47.0,
+      "repPct": 45.0,
+      "margin": 2.0,
+      "sourceUrl": "https://pollingsource.com/house/polls",
+      "sourceLabel": "PollingSource public House poll ledger",
+      "methodologyUrl": "https://pollingsource.com/methodology",
+      "sourceType": "public_aggregator",
+      "notes": "PollingSource table date; Anthony Kozycki (D) / Rich McCormick (R)",
+      "modelEligible": true
+    },
+    {
       "id": "pollingsource-nm-02-2026-10-09-research-polling",
       "raceId": "NM-02",
       "pollsterId": "research-polling",
@@ -15772,6 +15809,27 @@
       "methodologyUrl": "https://pollingsource.com/methodology",
       "sourceType": "public_aggregator",
       "notes": "PollingSource table date; Maura Keller (D) / Brian Jack (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "pollingsource-ne-02-2026-10-05-national-public-affairs",
+      "raceId": "NE-02",
+      "pollsterId": "national-public-affairs",
+      "pollster": "National Public Affairs",
+      "sponsor": null,
+      "partisanSponsor": "R",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-05",
+      "population": "LV",
+      "sampleSize": 800,
+      "demPct": 50.0,
+      "repPct": 38.0,
+      "margin": 12.0,
+      "sourceUrl": "https://pollingsource.com/house/polls",
+      "sourceLabel": "PollingSource public House poll ledger",
+      "methodologyUrl": "https://pollingsource.com/methodology",
+      "sourceType": "public_aggregator",
+      "notes": "PollingSource table date; Denise Powell (D) / Brinker Harding (R)",
       "modelEligible": true
     },
     {
@@ -16045,6 +16103,27 @@
       "methodologyUrl": "https://pollingsource.com/methodology",
       "sourceType": "public_aggregator",
       "notes": "PollingSource table date; Roy Cooper (D) / Michael Whatley (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "pollingsource-fl-sen-2026-10-09-stetson-university",
+      "raceId": "FL-SEN",
+      "pollsterId": "stetson-university",
+      "pollster": "Stetson University",
+      "sponsor": null,
+      "partisanSponsor": null,
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-09",
+      "population": "LV",
+      "sampleSize": 716,
+      "demPct": 41.0,
+      "repPct": 52.0,
+      "margin": -11.0,
+      "sourceUrl": "https://pollingsource.com/senate/FL",
+      "sourceLabel": "PollingSource public Senate poll ledger",
+      "methodologyUrl": "https://pollingsource.com/methodology",
+      "sourceType": "public_aggregator",
+      "notes": "PollingSource table date; Angie Nixon (D) / Ashley Moody (R)",
       "modelEligible": true
     },
     {
