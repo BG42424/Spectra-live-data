@@ -400,9 +400,9 @@
     "senatePollRefresh": {
       "checkedAt": "2026-10-14",
       "provider": "PollingSource",
-      "reviewed": 203,
+      "reviewed": 204,
       "added": 36,
-      "skippedCandidateMismatch": 61
+      "skippedCandidateMismatch": 62
     },
     "pollRefresh": {
       "checkedAt": "2026-10-14",
@@ -464,12 +464,12 @@
     "housePollCoverage": {
       "checkedAt": "2026-10-14",
       "provider": "PollingSource, VoteHub, and Decision Labs",
-      "polls": 126,
-      "districts": 65
+      "polls": 128,
+      "districts": 67
     },
     "decisionLabsPollRefresh": {
       "checkedAt": "2026-10-14",
-      "generatedAt": "2026-10-14T17:20:18.298Z",
+      "generatedAt": "2026-10-14T20:09:52.581Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -914,6 +914,22 @@
       "houseEffect": 0.9,
       "predictivePlusMinus": 0.534,
       "racesCalledCorrectly": 0.748,
+      "manualGrade": null,
+      "manualGradeNotes": null,
+      "modelRoomExcluded": false
+    },
+    {
+      "id": "christopher-newport-univ",
+      "name": "Christopher Newport Univ.",
+      "historicalPolls": 0,
+      "historicalSourceName": null,
+      "historicalError": null,
+      "transparencyScore": 0.8,
+      "meanRevertedBias": null,
+      "bias": null,
+      "houseEffect": null,
+      "predictivePlusMinus": null,
+      "racesCalledCorrectly": null,
       "manualGrade": null,
       "manualGradeNotes": null,
       "modelRoomExcluded": false
@@ -15725,6 +15741,48 @@
       "methodologyUrl": "https://pollingsource.com/methodology",
       "sourceType": "public_aggregator",
       "notes": "PollingSource table date; Jake Johnson (D) / Brad Finstad (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "pollingsource-ri-01-2026-10-11-emerson",
+      "raceId": "RI-01",
+      "pollsterId": "emerson",
+      "pollster": "Emerson",
+      "sponsor": null,
+      "partisanSponsor": null,
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-11",
+      "population": "LV",
+      "sampleSize": 800,
+      "demPct": 54.0,
+      "repPct": 26.0,
+      "margin": 28.0,
+      "sourceUrl": "https://pollingsource.com/house/polls",
+      "sourceLabel": "PollingSource public House poll ledger",
+      "methodologyUrl": "https://pollingsource.com/methodology",
+      "sourceType": "public_aggregator",
+      "notes": "PollingSource table date; Gabe Amo (D) / Kellie Keenan (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "pollingsource-va-02-2026-10-10-christopher-newport-univ",
+      "raceId": "VA-02",
+      "pollsterId": "christopher-newport-univ",
+      "pollster": "Christopher Newport Univ.",
+      "sponsor": null,
+      "partisanSponsor": null,
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "population": "LV",
+      "sampleSize": 702,
+      "demPct": 46.0,
+      "repPct": 43.0,
+      "margin": 3.0,
+      "sourceUrl": "https://pollingsource.com/house/polls",
+      "sourceLabel": "PollingSource public House poll ledger",
+      "methodologyUrl": "https://pollingsource.com/methodology",
+      "sourceType": "public_aggregator",
+      "notes": "PollingSource table date; Luria (D) / Kiggans (R)",
       "modelEligible": true
     },
     {
