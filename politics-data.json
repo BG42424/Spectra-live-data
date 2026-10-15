@@ -2,7 +2,7 @@
   "meta": {
     "cycle": 2026,
     "electionDate": "2026-11-03",
-    "updatedAt": "2026-10-14",
+    "updatedAt": "2026-10-15",
     "experimental": true,
     "houseBaselineNationalMargin": -2.782,
     "senatePollCoverage": {
@@ -311,7 +311,7 @@
       }
     },
     "houseCandidateCoverage": {
-      "checkedAt": "2026-10-14",
+      "checkedAt": "2026-10-15",
       "districts": 435,
       "finalizedDemocratic": 412,
       "finalizedRepublican": 411,
@@ -398,14 +398,14 @@
       }
     ],
     "senatePollRefresh": {
-      "checkedAt": "2026-10-14",
+      "checkedAt": "2026-10-15",
       "provider": "PollingSource",
-      "reviewed": 204,
+      "reviewed": 196,
       "added": 36,
-      "skippedCandidateMismatch": 62
+      "skippedCandidateMismatch": 60
     },
     "pollRefresh": {
-      "checkedAt": "2026-10-14",
+      "checkedAt": "2026-10-15",
       "provider": "VoteHub",
       "added": 29,
       "needsReview": [
@@ -462,14 +462,14 @@
       ]
     },
     "housePollCoverage": {
-      "checkedAt": "2026-10-14",
+      "checkedAt": "2026-10-15",
       "provider": "PollingSource, VoteHub, and Decision Labs",
       "polls": 128,
       "districts": 67
     },
     "decisionLabsPollRefresh": {
-      "checkedAt": "2026-10-14",
-      "generatedAt": "2026-10-14T20:09:52.581Z",
+      "checkedAt": "2026-10-15",
+      "generatedAt": "2026-10-15T04:50:56.967Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -23150,14 +23150,14 @@
       "openSeat": true,
       "candidates": {
         "D": "Christina Hines",
-        "R": "Mike Bouchard"
+        "R": "Mike Bouchard Jr."
       },
       "candidateOptions": {
         "D": [
           "Christina Hines"
         ],
         "R": [
-          "Mike Bouchard"
+          "Mike Bouchard Jr."
         ]
       }
     },
