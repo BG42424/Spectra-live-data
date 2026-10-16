@@ -2,7 +2,7 @@
   "meta": {
     "cycle": 2026,
     "electionDate": "2026-11-03",
-    "updatedAt": "2026-10-15",
+    "updatedAt": "2026-10-16",
     "experimental": true,
     "houseBaselineNationalMargin": -2.782,
     "senatePollCoverage": {
@@ -311,7 +311,7 @@
       }
     },
     "houseCandidateCoverage": {
-      "checkedAt": "2026-10-15",
+      "checkedAt": "2026-10-16",
       "districts": 435,
       "finalizedDemocratic": 412,
       "finalizedRepublican": 411,
@@ -398,14 +398,14 @@
       }
     ],
     "senatePollRefresh": {
-      "checkedAt": "2026-10-15",
+      "checkedAt": "2026-10-16",
       "provider": "PollingSource",
-      "reviewed": 187,
-      "added": 45,
-      "skippedCandidateMismatch": 39
+      "reviewed": 175,
+      "added": 44,
+      "skippedCandidateMismatch": 37
     },
     "pollRefresh": {
-      "checkedAt": "2026-10-15",
+      "checkedAt": "2026-10-16",
       "provider": "VoteHub",
       "added": 35,
       "needsReview": [
@@ -462,14 +462,14 @@
       ]
     },
     "housePollCoverage": {
-      "checkedAt": "2026-10-15",
+      "checkedAt": "2026-10-16",
       "provider": "PollingSource, VoteHub, and Decision Labs",
       "polls": 129,
       "districts": 67
     },
     "decisionLabsPollRefresh": {
-      "checkedAt": "2026-10-15",
-      "generatedAt": "2026-10-15T21:31:17.068Z",
+      "checkedAt": "2026-10-16",
+      "generatedAt": "2026-10-16T04:41:35.648Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -17264,27 +17264,6 @@
       "methodologyUrl": "https://pollingsource.com/methodology",
       "sourceType": "public_aggregator",
       "notes": "PollingSource table date; Josh Turek (D) / Ashley Hinson (R)",
-      "modelEligible": true
-    },
-    {
-      "id": "pollingsource-ks-sen-2026-09-16-global-strategy-group",
-      "raceId": "KS-SEN",
-      "pollsterId": "global-strategy-group",
-      "pollster": "Global Strategy Group",
-      "sponsor": null,
-      "partisanSponsor": null,
-      "startDate": "2026-09-16",
-      "endDate": "2026-09-16",
-      "population": "LV",
-      "sampleSize": 800,
-      "demPct": 49.0,
-      "repPct": 47.0,
-      "margin": 2.0,
-      "sourceUrl": "https://pollingsource.com/senate/KS",
-      "sourceLabel": "PollingSource public Senate poll ledger",
-      "methodologyUrl": "https://pollingsource.com/methodology",
-      "sourceType": "public_aggregator",
-      "notes": "PollingSource table date; Adam Hamilton (D) / Roger Marshall (R)",
       "modelEligible": true
     }
   ],
