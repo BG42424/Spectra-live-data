@@ -2,7 +2,7 @@
   "meta": {
     "cycle": 2026,
     "electionDate": "2026-11-03",
-    "updatedAt": "2026-10-16",
+    "updatedAt": "2026-10-17",
     "experimental": true,
     "houseBaselineNationalMargin": -2.782,
     "senatePollCoverage": {
@@ -311,7 +311,7 @@
       }
     },
     "houseCandidateCoverage": {
-      "checkedAt": "2026-10-16",
+      "checkedAt": "2026-10-17",
       "districts": 435,
       "finalizedDemocratic": 412,
       "finalizedRepublican": 411,
@@ -398,14 +398,14 @@
       }
     ],
     "senatePollRefresh": {
-      "checkedAt": "2026-10-16",
+      "checkedAt": "2026-10-17",
       "provider": "PollingSource",
-      "reviewed": 181,
+      "reviewed": 173,
       "added": 45,
-      "skippedCandidateMismatch": 38
+      "skippedCandidateMismatch": 35
     },
     "pollRefresh": {
-      "checkedAt": "2026-10-16",
+      "checkedAt": "2026-10-17",
       "provider": "VoteHub",
       "added": 44,
       "needsReview": [
@@ -467,14 +467,14 @@
       ]
     },
     "housePollCoverage": {
-      "checkedAt": "2026-10-16",
+      "checkedAt": "2026-10-17",
       "provider": "PollingSource, VoteHub, and Decision Labs",
-      "polls": 130,
+      "polls": 129,
       "districts": 68
     },
     "decisionLabsPollRefresh": {
-      "checkedAt": "2026-10-16",
-      "generatedAt": "2026-10-16T21:20:43.116Z",
+      "checkedAt": "2026-10-17",
+      "generatedAt": "2026-10-17T04:38:54.322Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -16545,27 +16545,6 @@
       "methodologyUrl": "https://pollingsource.com/methodology",
       "sourceType": "public_aggregator",
       "notes": "PollingSource table date; Caitlin Rourk (D) / Chris Gober (R)",
-      "modelEligible": true
-    },
-    {
-      "id": "pollingsource-ut-04-2026-09-17-lighthouse-research",
-      "raceId": "UT-04",
-      "pollsterId": "lighthouse-research",
-      "pollster": "Lighthouse Research",
-      "sponsor": null,
-      "partisanSponsor": null,
-      "startDate": "2026-09-17",
-      "endDate": "2026-09-17",
-      "population": "LV",
-      "sampleSize": 513,
-      "demPct": 33.0,
-      "repPct": 42.0,
-      "margin": -9.0,
-      "sourceUrl": "https://pollingsource.com/house/polls",
-      "sourceLabel": "PollingSource public House poll ledger",
-      "methodologyUrl": "https://pollingsource.com/methodology",
-      "sourceType": "public_aggregator",
-      "notes": "PollingSource table date; Jonny Larsen (D) / Mike Kennedy (R)",
       "modelEligible": true
     },
     {
