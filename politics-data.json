@@ -400,9 +400,9 @@
     "senatePollRefresh": {
       "checkedAt": "2026-10-17",
       "provider": "PollingSource",
-      "reviewed": 177,
+      "reviewed": 176,
       "added": 47,
-      "skippedCandidateMismatch": 35
+      "skippedCandidateMismatch": 34
     },
     "pollRefresh": {
       "checkedAt": "2026-10-17",
@@ -474,7 +474,7 @@
     },
     "decisionLabsPollRefresh": {
       "checkedAt": "2026-10-17",
-      "generatedAt": "2026-10-17T10:54:54.227Z",
+      "generatedAt": "2026-10-17T15:42:57.767Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
