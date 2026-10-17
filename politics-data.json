@@ -400,8 +400,8 @@
     "senatePollRefresh": {
       "checkedAt": "2026-10-17",
       "provider": "PollingSource",
-      "reviewed": 173,
-      "added": 45,
+      "reviewed": 177,
+      "added": 47,
       "skippedCandidateMismatch": 35
     },
     "pollRefresh": {
@@ -474,7 +474,7 @@
     },
     "decisionLabsPollRefresh": {
       "checkedAt": "2026-10-17",
-      "generatedAt": "2026-10-17T04:38:54.322Z",
+      "generatedAt": "2026-10-17T10:54:54.227Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -16545,6 +16545,48 @@
       "methodologyUrl": "https://pollingsource.com/methodology",
       "sourceType": "public_aggregator",
       "notes": "PollingSource table date; Caitlin Rourk (D) / Chris Gober (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "pollingsource-mi-sen-2026-10-14-rasmussen-reports",
+      "raceId": "MI-SEN",
+      "pollsterId": "rasmussen-reports",
+      "pollster": "Rasmussen Reports",
+      "sponsor": null,
+      "partisanSponsor": null,
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-14",
+      "population": "LV",
+      "sampleSize": 798,
+      "demPct": 46.0,
+      "repPct": 44.0,
+      "margin": 2.0,
+      "sourceUrl": "https://pollingsource.com/senate/MI",
+      "sourceLabel": "PollingSource public Senate poll ledger",
+      "methodologyUrl": "https://pollingsource.com/methodology",
+      "sourceType": "public_aggregator",
+      "notes": "PollingSource table date; Abdul El-Sayed (D) / Mike Rogers (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "pollingsource-mt-sen-2026-10-12-peak-insights",
+      "raceId": "MT-SEN",
+      "pollsterId": "peak-insights",
+      "pollster": "Peak Insights",
+      "sponsor": null,
+      "partisanSponsor": null,
+      "startDate": "2026-10-12",
+      "endDate": "2026-10-12",
+      "population": "LV",
+      "sampleSize": 500,
+      "demPct": 12.0,
+      "repPct": 44.0,
+      "margin": -32.0,
+      "sourceUrl": "https://pollingsource.com/senate/MT",
+      "sourceLabel": "PollingSource public Senate poll ledger",
+      "methodologyUrl": "https://pollingsource.com/methodology",
+      "sourceType": "public_aggregator",
+      "notes": "PollingSource table date; Alani Bankhead (D) / Kurt Alme (R)",
       "modelEligible": true
     },
     {
