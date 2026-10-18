@@ -152,7 +152,7 @@
       "2023": 392,
       "2024": 368,
       "2025": 399,
-      "2026": 125
+      "2026": 139
     }
   },
   "quarterbacks": [
@@ -1276,7 +1276,7 @@
           "source": "weekly depth chart"
         }
       ],
-      "injuryWeeksExcluded": 16,
+      "injuryWeeksExcluded": 17,
       "benchInjuryExclusions": [
         {
           "season": 2021,
@@ -1371,6 +1371,12 @@
         {
           "season": 2026,
           "week": 5,
+          "team": "BAL",
+          "reason": "Out"
+        },
+        {
+          "season": 2026,
+          "week": 6,
           "team": "BAL",
           "reason": "Out"
         }
@@ -5637,15 +5643,15 @@
       "depthRank": 2,
       "isStarter": false,
       "projection": "QB2",
-      "epaElo": 1489.7,
+      "epaElo": 1487.5,
       "starts": 76,
       "recentAdjustedEpaPerDropback": -0.048,
       "lastStart": "2026-10-11",
       "lastAppearance": "2026-10-11",
       "status": "Established",
       "teamBaselineEpaElo": 1481.2,
-      "preseasonTeamEpaElo": 1486.9,
-      "forecastEloChange": 9.4,
+      "preseasonTeamEpaElo": 1485.4,
+      "forecastEloChange": 6.9,
       "initialization": {
         "type": "draft",
         "draftSeason": 2020,
@@ -5702,7 +5708,7 @@
           "afterEpaElo": 1496.4
         }
       ],
-      "healthyBenchWeeks": 9,
+      "healthyBenchWeeks": 10,
       "healthyBenchAdjustments": [
         {
           "date": "2020-09-13",
@@ -5907,6 +5913,29 @@
           "startsSinceAnchor": 0,
           "decayFraction": 0.1844,
           "benchDecayAppliedElo": 13.0,
+          "benchDecayBudgetElo": 35.3,
+          "maxDecayFraction": 0.5,
+          "source": "dated depth-chart snapshot"
+        },
+        {
+          "date": "2026-10-18",
+          "season": 2026,
+          "week": 6,
+          "stage": "Week 6 \u00b7 Healthy backup",
+          "type": "bench",
+          "gameId": "2026_06_CHI_ATL-backup-00-0036212",
+          "team": "ATL",
+          "opponent": "CHI",
+          "qbElo": 1487.5,
+          "beforeEpaElo": 1489.7,
+          "anchorEpaElo": 1506.0,
+          "targetEpaElo": 1435.5,
+          "listedDepthRank": 2,
+          "rosterStatus": "ACT",
+          "healthyBenchWeeksInSpell": 6,
+          "startsSinceAnchor": 0,
+          "decayFraction": 0.217,
+          "benchDecayAppliedElo": 15.3,
           "benchDecayBudgetElo": 35.3,
           "maxDecayFraction": 0.5,
           "source": "dated depth-chart snapshot"
@@ -7518,7 +7547,7 @@
           "source": "weekly depth chart"
         }
       ],
-      "injuryWeeksExcluded": 5,
+      "injuryWeeksExcluded": 6,
       "benchInjuryExclusions": [
         {
           "season": 2021,
@@ -7547,6 +7576,12 @@
         {
           "season": 2026,
           "week": 5,
+          "team": "TB",
+          "reason": "Out"
+        },
+        {
+          "season": 2026,
+          "week": 6,
           "team": "TB",
           "reason": "Out"
         }
@@ -7965,7 +8000,7 @@
           "afterEpaElo": 1466.0
         }
       ],
-      "healthyBenchWeeks": 73,
+      "healthyBenchWeeks": 74,
       "healthyBenchAdjustments": [
         {
           "date": "2017-09-10",
@@ -13803,7 +13838,7 @@
         "initialEpaElo": 1429.8
       },
       "offseasonRegressions": [],
-      "healthyBenchWeeks": 99,
+      "healthyBenchWeeks": 100,
       "healthyBenchAdjustments": [
         {
           "date": "2018-09-09",
@@ -19431,15 +19466,15 @@
       "depthRank": 2,
       "isStarter": false,
       "projection": "QB2",
-      "epaElo": 1451.8,
+      "epaElo": 1451.1,
       "starts": 10,
       "recentAdjustedEpaPerDropback": -0.284,
       "lastStart": "2026-01-04",
       "lastAppearance": "2026-01-04",
       "status": "Established",
       "teamBaselineEpaElo": 1473.5,
-      "preseasonTeamEpaElo": 1459.1,
-      "forecastEloChange": -23.8,
+      "preseasonTeamEpaElo": 1458.6,
+      "forecastEloChange": -24.6,
       "initialization": {
         "type": "draft",
         "draftSeason": 2024,
@@ -19460,7 +19495,7 @@
           "afterEpaElo": 1456.0
         }
       ],
-      "healthyBenchWeeks": 5,
+      "healthyBenchWeeks": 6,
       "healthyBenchAdjustments": [
         {
           "date": "2026-09-13",
@@ -19576,6 +19611,29 @@
           "benchDecayBudgetElo": 11.1,
           "maxDecayFraction": 0.5,
           "source": "dated depth-chart snapshot"
+        },
+        {
+          "date": "2026-10-18",
+          "season": 2026,
+          "week": 6,
+          "stage": "Week 6 \u00b7 Healthy backup",
+          "type": "bench",
+          "gameId": "2026_06_NO_NYG-backup-00-0039923",
+          "team": "NYG",
+          "opponent": "NO",
+          "qbElo": 1451.1,
+          "beforeEpaElo": 1451.8,
+          "anchorEpaElo": 1456.0,
+          "targetEpaElo": 1433.7,
+          "listedDepthRank": 2,
+          "rosterStatus": "ACT",
+          "healthyBenchWeeksInSpell": 6,
+          "startsSinceAnchor": 0,
+          "decayFraction": 0.217,
+          "benchDecayAppliedElo": 4.8,
+          "benchDecayBudgetElo": 11.1,
+          "maxDecayFraction": 0.5,
+          "source": "dated depth-chart snapshot"
         }
       ],
       "injuryWeeksExcluded": 7,
@@ -19631,15 +19689,15 @@
       "depthRank": 2,
       "isStarter": false,
       "projection": "QB2",
-      "epaElo": 1450.7,
+      "epaElo": 1449.8,
       "starts": 10,
       "recentAdjustedEpaPerDropback": -0.151,
       "lastStart": "2025-10-05",
       "lastAppearance": "2025-10-05",
       "status": "Established",
       "teamBaselineEpaElo": 1485.0,
-      "preseasonTeamEpaElo": 1462.1,
-      "forecastEloChange": -37.7,
+      "preseasonTeamEpaElo": 1461.5,
+      "forecastEloChange": -38.7,
       "initialization": {
         "type": "draft",
         "draftSeason": 2023,
@@ -19650,7 +19708,7 @@
         "initialEpaElo": 1461.6
       },
       "offseasonRegressions": [],
-      "healthyBenchWeeks": 12,
+      "healthyBenchWeeks": 13,
       "healthyBenchAdjustments": [
         {
           "date": "2024-11-03",
@@ -19924,6 +19982,29 @@
           "startsSinceAnchor": 1,
           "decayFraction": 0.3869,
           "benchDecayAppliedElo": 14.4,
+          "benchDecayBudgetElo": 18.6,
+          "maxDecayFraction": 0.5,
+          "source": "dated depth-chart snapshot"
+        },
+        {
+          "date": "2026-10-18",
+          "season": 2026,
+          "week": 6,
+          "stage": "Week 6 \u00b7 Healthy backup",
+          "type": "bench",
+          "gameId": "2026_06_TEN_IND-backup-00-0039164",
+          "team": "IND",
+          "opponent": "TEN",
+          "qbElo": 1449.8,
+          "beforeEpaElo": 1450.7,
+          "anchorEpaElo": 1461.6,
+          "targetEpaElo": 1424.5,
+          "listedDepthRank": 2,
+          "rosterStatus": "ACT",
+          "healthyBenchWeeksInSpell": 13,
+          "startsSinceAnchor": 1,
+          "decayFraction": 0.4114,
+          "benchDecayAppliedElo": 15.3,
           "benchDecayBudgetElo": 18.6,
           "maxDecayFraction": 0.5,
           "source": "dated depth-chart snapshot"
@@ -23561,15 +23642,15 @@
       "depthRank": 2,
       "isStarter": false,
       "projection": "QB2",
-      "epaElo": 1443.6,
+      "epaElo": 1443.1,
       "starts": 30,
       "recentAdjustedEpaPerDropback": -0.113,
       "lastStart": "2026-01-04",
       "lastAppearance": "2026-01-04",
       "status": "Established",
       "teamBaselineEpaElo": 1494.7,
-      "preseasonTeamEpaElo": 1460.6,
-      "forecastEloChange": -56.2,
+      "preseasonTeamEpaElo": 1460.3,
+      "forecastEloChange": -56.8,
       "initialization": {
         "type": "draft",
         "draftSeason": 2021,
@@ -23599,7 +23680,7 @@
           "afterEpaElo": 1457.9
         }
       ],
-      "healthyBenchWeeks": 47,
+      "healthyBenchWeeks": 48,
       "healthyBenchAdjustments": [
         {
           "date": "2021-11-07",
@@ -24336,6 +24417,29 @@
           "benchDecayBudgetElo": 10.0,
           "maxDecayFraction": 0.5,
           "source": "dated depth-chart snapshot"
+        },
+        {
+          "date": "2026-10-18",
+          "season": 2026,
+          "week": 6,
+          "stage": "Week 6 \u00b7 Healthy backup",
+          "type": "bench",
+          "gameId": "2026_06_HOU_JAX-backup-00-0036898",
+          "team": "HOU",
+          "opponent": "JAX",
+          "qbElo": 1443.1,
+          "beforeEpaElo": 1443.6,
+          "anchorEpaElo": 1455.4,
+          "targetEpaElo": 1435.5,
+          "listedDepthRank": 2,
+          "rosterStatus": "ACT",
+          "healthyBenchWeeksInSpell": 11,
+          "startsSinceAnchor": 0,
+          "decayFraction": 0.3614,
+          "benchDecayAppliedElo": 7.2,
+          "benchDecayBudgetElo": 10.0,
+          "maxDecayFraction": 0.5,
+          "source": "dated depth-chart snapshot"
         }
       ],
       "injuryWeeksExcluded": 0,
@@ -24386,7 +24490,7 @@
           "afterEpaElo": 1483.0
         }
       ],
-      "healthyBenchWeeks": 30,
+      "healthyBenchWeeks": 31,
       "healthyBenchAdjustments": [
         {
           "date": "2022-09-11",
@@ -24928,7 +25032,7 @@
           "afterEpaElo": 1439.7
         }
       ],
-      "healthyBenchWeeks": 42,
+      "healthyBenchWeeks": 43,
       "healthyBenchAdjustments": [
         {
           "date": "2022-11-27",
@@ -25516,7 +25620,7 @@
       "status": "Established",
       "teamBaselineEpaElo": 1477.0,
       "preseasonTeamEpaElo": 1448.9,
-      "forecastEloChange": -46.4,
+      "forecastEloChange": -46.5,
       "initialization": {
         "type": "draft",
         "draftSeason": 2024,
@@ -25527,7 +25631,7 @@
         "initialEpaElo": 1398.5
       },
       "offseasonRegressions": [],
-      "healthyBenchWeeks": 22,
+      "healthyBenchWeeks": 23,
       "healthyBenchAdjustments": [
         {
           "date": "2026-09-13",
@@ -25639,6 +25743,29 @@
           "healthyBenchWeeksInSpell": 5,
           "startsSinceAnchor": 0,
           "decayFraction": 0.1844,
+          "benchDecayAppliedElo": 0.3,
+          "benchDecayBudgetElo": 0.7,
+          "maxDecayFraction": 0.5,
+          "source": "dated depth-chart snapshot"
+        },
+        {
+          "date": "2026-10-18",
+          "season": 2026,
+          "week": 6,
+          "stage": "Week 6 \u00b7 Healthy backup",
+          "type": "bench",
+          "gameId": "2026_06_NO_NYG-backup-00-0039376",
+          "team": "NO",
+          "opponent": "NYG",
+          "qbElo": 1434.8,
+          "beforeEpaElo": 1434.8,
+          "anchorEpaElo": 1435.1,
+          "targetEpaElo": 1433.7,
+          "listedDepthRank": 2,
+          "rosterStatus": "ACT",
+          "healthyBenchWeeksInSpell": 6,
+          "startsSinceAnchor": 0,
+          "decayFraction": 0.217,
           "benchDecayAppliedElo": 0.3,
           "benchDecayBudgetElo": 0.7,
           "maxDecayFraction": 0.5,
@@ -26264,7 +26391,7 @@
           "afterEpaElo": 1481.0
         }
       ],
-      "healthyBenchWeeks": 108,
+      "healthyBenchWeeks": 109,
       "healthyBenchAdjustments": [
         {
           "date": "2016-11-20",
@@ -27292,7 +27419,7 @@
           "afterEpaElo": 1447.0
         }
       ],
-      "healthyBenchWeeks": 113,
+      "healthyBenchWeeks": 114,
       "healthyBenchAdjustments": [
         {
           "date": "2022-11-24",
@@ -28634,7 +28761,7 @@
         "initialEpaElo": 1427.5
       },
       "offseasonRegressions": [],
-      "healthyBenchWeeks": 5,
+      "healthyBenchWeeks": 6,
       "healthyBenchAdjustments": [],
       "injuryWeeksExcluded": 0,
       "benchInjuryExclusions": []
@@ -29163,7 +29290,7 @@
         "initialEpaElo": 1412.1
       },
       "offseasonRegressions": [],
-      "healthyBenchWeeks": 5,
+      "healthyBenchWeeks": 6,
       "healthyBenchAdjustments": [],
       "injuryWeeksExcluded": 0,
       "benchInjuryExclusions": []
@@ -29912,7 +30039,7 @@
         "initialEpaElo": 1379.0
       },
       "offseasonRegressions": [],
-      "healthyBenchWeeks": 34,
+      "healthyBenchWeeks": 35,
       "healthyBenchAdjustments": [],
       "injuryWeeksExcluded": 0,
       "benchInjuryExclusions": []
@@ -29943,7 +30070,7 @@
         "initialEpaElo": 1350.1
       },
       "offseasonRegressions": [],
-      "healthyBenchWeeks": 42,
+      "healthyBenchWeeks": 43,
       "healthyBenchAdjustments": [],
       "injuryWeeksExcluded": 2,
       "benchInjuryExclusions": [
@@ -30075,7 +30202,7 @@
         "initialEpaElo": 1405.9
       },
       "offseasonRegressions": [],
-      "healthyBenchWeeks": 40,
+      "healthyBenchWeeks": 41,
       "healthyBenchAdjustments": [],
       "injuryWeeksExcluded": 0,
       "benchInjuryExclusions": []
@@ -30106,7 +30233,7 @@
         "initialEpaElo": 1373.6
       },
       "offseasonRegressions": [],
-      "healthyBenchWeeks": 115,
+      "healthyBenchWeeks": 116,
       "healthyBenchAdjustments": [],
       "injuryWeeksExcluded": 1,
       "benchInjuryExclusions": [
@@ -30144,7 +30271,7 @@
         "initialEpaElo": 1350.1
       },
       "offseasonRegressions": [],
-      "healthyBenchWeeks": 40,
+      "healthyBenchWeeks": 41,
       "healthyBenchAdjustments": [],
       "injuryWeeksExcluded": 1,
       "benchInjuryExclusions": [
@@ -30182,7 +30309,7 @@
         "initialEpaElo": 1369.9
       },
       "offseasonRegressions": [],
-      "healthyBenchWeeks": 17,
+      "healthyBenchWeeks": 18,
       "healthyBenchAdjustments": [],
       "injuryWeeksExcluded": 0,
       "benchInjuryExclusions": []
@@ -30213,7 +30340,7 @@
         "initialEpaElo": 1390.3
       },
       "offseasonRegressions": [],
-      "healthyBenchWeeks": 12,
+      "healthyBenchWeeks": 13,
       "healthyBenchAdjustments": [],
       "injuryWeeksExcluded": 1,
       "benchInjuryExclusions": [
@@ -30251,7 +30378,7 @@
         "initialEpaElo": 1350.8
       },
       "offseasonRegressions": [],
-      "healthyBenchWeeks": 18,
+      "healthyBenchWeeks": 19,
       "healthyBenchAdjustments": [],
       "injuryWeeksExcluded": 0,
       "benchInjuryExclusions": []
@@ -30282,7 +30409,7 @@
         "initialEpaElo": 1381.2
       },
       "offseasonRegressions": [],
-      "healthyBenchWeeks": 5,
+      "healthyBenchWeeks": 6,
       "healthyBenchAdjustments": [],
       "injuryWeeksExcluded": 0,
       "benchInjuryExclusions": []
@@ -30313,7 +30440,7 @@
         "initialEpaElo": 1379.4
       },
       "offseasonRegressions": [],
-      "healthyBenchWeeks": 5,
+      "healthyBenchWeeks": 6,
       "healthyBenchAdjustments": [],
       "injuryWeeksExcluded": 0,
       "benchInjuryExclusions": []
@@ -30468,7 +30595,7 @@
         "initialEpaElo": 1371.7
       },
       "offseasonRegressions": [],
-      "healthyBenchWeeks": 13,
+      "healthyBenchWeeks": 14,
       "healthyBenchAdjustments": [],
       "injuryWeeksExcluded": 0,
       "benchInjuryExclusions": []
@@ -30561,7 +30688,7 @@
         "initialEpaElo": 1355.9
       },
       "offseasonRegressions": [],
-      "healthyBenchWeeks": 5,
+      "healthyBenchWeeks": 6,
       "healthyBenchAdjustments": [],
       "injuryWeeksExcluded": 0,
       "benchInjuryExclusions": []
@@ -30654,7 +30781,7 @@
         "initialEpaElo": 1348.6
       },
       "offseasonRegressions": [],
-      "healthyBenchWeeks": 5,
+      "healthyBenchWeeks": 6,
       "healthyBenchAdjustments": [],
       "injuryWeeksExcluded": 0,
       "benchInjuryExclusions": []
@@ -30685,7 +30812,7 @@
         "initialEpaElo": 1348.6
       },
       "offseasonRegressions": [],
-      "healthyBenchWeeks": 4,
+      "healthyBenchWeeks": 5,
       "healthyBenchAdjustments": [],
       "injuryWeeksExcluded": 0,
       "benchInjuryExclusions": []
@@ -30816,7 +30943,7 @@
         "initialEpaElo": 1348.6
       },
       "offseasonRegressions": [],
-      "healthyBenchWeeks": 4,
+      "healthyBenchWeeks": 5,
       "healthyBenchAdjustments": [],
       "injuryWeeksExcluded": 0,
       "benchInjuryExclusions": []
@@ -39968,7 +40095,7 @@
     "00-0036212": {
       "name": "Tua Tagovailoa",
       "currentTeam": "ATL",
-      "currentEpaElo": 1489.7,
+      "currentEpaElo": 1487.5,
       "initialization": {
         "type": "draft",
         "draftSeason": 2020,
@@ -40229,6 +40356,29 @@
           "startsSinceAnchor": 0,
           "decayFraction": 0.1844,
           "benchDecayAppliedElo": 13.0,
+          "benchDecayBudgetElo": 35.3,
+          "maxDecayFraction": 0.5,
+          "source": "dated depth-chart snapshot"
+        },
+        {
+          "date": "2026-10-18",
+          "season": 2026,
+          "week": 6,
+          "stage": "Week 6 \u00b7 Healthy backup",
+          "type": "bench",
+          "gameId": "2026_06_CHI_ATL-backup-00-0036212",
+          "team": "ATL",
+          "opponent": "CHI",
+          "qbElo": 1487.5,
+          "beforeEpaElo": 1489.7,
+          "anchorEpaElo": 1506.0,
+          "targetEpaElo": 1435.5,
+          "listedDepthRank": 2,
+          "rosterStatus": "ACT",
+          "healthyBenchWeeksInSpell": 6,
+          "startsSinceAnchor": 0,
+          "decayFraction": 0.217,
+          "benchDecayAppliedElo": 15.3,
           "benchDecayBudgetElo": 35.3,
           "maxDecayFraction": 0.5,
           "source": "dated depth-chart snapshot"
@@ -42013,6 +42163,29 @@
           "dropbacks": 3,
           "performanceElo": 1314.8,
           "updateRate": 0.01
+        },
+        {
+          "date": "2026-10-18",
+          "season": 2026,
+          "week": 6,
+          "stage": "Week 6 \u00b7 Healthy backup",
+          "type": "bench",
+          "gameId": "2026_06_CHI_ATL-backup-00-0036212",
+          "team": "ATL",
+          "opponent": "CHI",
+          "qbElo": 1487.5,
+          "beforeEpaElo": 1489.7,
+          "anchorEpaElo": 1506.0,
+          "targetEpaElo": 1435.5,
+          "listedDepthRank": 2,
+          "rosterStatus": "ACT",
+          "healthyBenchWeeksInSpell": 6,
+          "startsSinceAnchor": 0,
+          "decayFraction": 0.217,
+          "benchDecayAppliedElo": 15.3,
+          "benchDecayBudgetElo": 35.3,
+          "maxDecayFraction": 0.5,
+          "source": "dated depth-chart snapshot"
         }
       ]
     },
@@ -44277,7 +44450,7 @@
           "source": "weekly depth chart"
         }
       ],
-      "injuryWeeksExcluded": 16,
+      "injuryWeeksExcluded": 17,
       "benchInjuryExclusions": [
         {
           "season": 2021,
@@ -44372,6 +44545,12 @@
         {
           "season": 2026,
           "week": 5,
+          "team": "BAL",
+          "reason": "Out"
+        },
+        {
+          "season": 2026,
+          "week": 6,
           "team": "BAL",
           "reason": "Out"
         }
@@ -89449,7 +89628,7 @@
     "00-0036898": {
       "name": "Davis Mills",
       "currentTeam": "HOU",
-      "currentEpaElo": 1443.6,
+      "currentEpaElo": 1443.1,
       "initialization": {
         "type": "draft",
         "draftSeason": 2021,
@@ -90212,6 +90391,29 @@
           "startsSinceAnchor": 0,
           "decayFraction": 0.3348,
           "benchDecayAppliedElo": 6.7,
+          "benchDecayBudgetElo": 10.0,
+          "maxDecayFraction": 0.5,
+          "source": "dated depth-chart snapshot"
+        },
+        {
+          "date": "2026-10-18",
+          "season": 2026,
+          "week": 6,
+          "stage": "Week 6 \u00b7 Healthy backup",
+          "type": "bench",
+          "gameId": "2026_06_HOU_JAX-backup-00-0036898",
+          "team": "HOU",
+          "opponent": "JAX",
+          "qbElo": 1443.1,
+          "beforeEpaElo": 1443.6,
+          "anchorEpaElo": 1455.4,
+          "targetEpaElo": 1435.5,
+          "listedDepthRank": 2,
+          "rosterStatus": "ACT",
+          "healthyBenchWeeksInSpell": 11,
+          "startsSinceAnchor": 0,
+          "decayFraction": 0.3614,
+          "benchDecayAppliedElo": 7.2,
           "benchDecayBudgetElo": 10.0,
           "maxDecayFraction": 0.5,
           "source": "dated depth-chart snapshot"
@@ -91774,6 +91976,29 @@
           "startsSinceAnchor": 0,
           "decayFraction": 0.3348,
           "benchDecayAppliedElo": 6.7,
+          "benchDecayBudgetElo": 10.0,
+          "maxDecayFraction": 0.5,
+          "source": "dated depth-chart snapshot"
+        },
+        {
+          "date": "2026-10-18",
+          "season": 2026,
+          "week": 6,
+          "stage": "Week 6 \u00b7 Healthy backup",
+          "type": "bench",
+          "gameId": "2026_06_HOU_JAX-backup-00-0036898",
+          "team": "HOU",
+          "opponent": "JAX",
+          "qbElo": 1443.1,
+          "beforeEpaElo": 1443.6,
+          "anchorEpaElo": 1455.4,
+          "targetEpaElo": 1435.5,
+          "listedDepthRank": 2,
+          "rosterStatus": "ACT",
+          "healthyBenchWeeksInSpell": 11,
+          "startsSinceAnchor": 0,
+          "decayFraction": 0.3614,
+          "benchDecayAppliedElo": 7.2,
           "benchDecayBudgetElo": 10.0,
           "maxDecayFraction": 0.5,
           "source": "dated depth-chart snapshot"
@@ -94041,7 +94266,7 @@
     "00-0039164": {
       "name": "Anthony Richardson Sr.",
       "currentTeam": "IND",
-      "currentEpaElo": 1450.7,
+      "currentEpaElo": 1449.8,
       "initialization": {
         "type": "draft",
         "draftSeason": 2023,
@@ -94325,6 +94550,29 @@
           "startsSinceAnchor": 1,
           "decayFraction": 0.3869,
           "benchDecayAppliedElo": 14.4,
+          "benchDecayBudgetElo": 18.6,
+          "maxDecayFraction": 0.5,
+          "source": "dated depth-chart snapshot"
+        },
+        {
+          "date": "2026-10-18",
+          "season": 2026,
+          "week": 6,
+          "stage": "Week 6 \u00b7 Healthy backup",
+          "type": "bench",
+          "gameId": "2026_06_TEN_IND-backup-00-0039164",
+          "team": "IND",
+          "opponent": "TEN",
+          "qbElo": 1449.8,
+          "beforeEpaElo": 1450.7,
+          "anchorEpaElo": 1461.6,
+          "targetEpaElo": 1424.5,
+          "listedDepthRank": 2,
+          "rosterStatus": "ACT",
+          "healthyBenchWeeksInSpell": 13,
+          "startsSinceAnchor": 1,
+          "decayFraction": 0.4114,
+          "benchDecayAppliedElo": 15.3,
           "benchDecayBudgetElo": 18.6,
           "maxDecayFraction": 0.5,
           "source": "dated depth-chart snapshot"
@@ -94924,6 +95172,29 @@
           "startsSinceAnchor": 1,
           "decayFraction": 0.3869,
           "benchDecayAppliedElo": 14.4,
+          "benchDecayBudgetElo": 18.6,
+          "maxDecayFraction": 0.5,
+          "source": "dated depth-chart snapshot"
+        },
+        {
+          "date": "2026-10-18",
+          "season": 2026,
+          "week": 6,
+          "stage": "Week 6 \u00b7 Healthy backup",
+          "type": "bench",
+          "gameId": "2026_06_TEN_IND-backup-00-0039164",
+          "team": "IND",
+          "opponent": "TEN",
+          "qbElo": 1449.8,
+          "beforeEpaElo": 1450.7,
+          "anchorEpaElo": 1461.6,
+          "targetEpaElo": 1424.5,
+          "listedDepthRank": 2,
+          "rosterStatus": "ACT",
+          "healthyBenchWeeksInSpell": 13,
+          "startsSinceAnchor": 1,
+          "decayFraction": 0.4114,
+          "benchDecayAppliedElo": 15.3,
           "benchDecayBudgetElo": 18.6,
           "maxDecayFraction": 0.5,
           "source": "dated depth-chart snapshot"
@@ -119902,6 +120173,29 @@
           "benchDecayBudgetElo": 0.7,
           "maxDecayFraction": 0.5,
           "source": "dated depth-chart snapshot"
+        },
+        {
+          "date": "2026-10-18",
+          "season": 2026,
+          "week": 6,
+          "stage": "Week 6 \u00b7 Healthy backup",
+          "type": "bench",
+          "gameId": "2026_06_NO_NYG-backup-00-0039376",
+          "team": "NO",
+          "opponent": "NYG",
+          "qbElo": 1434.8,
+          "beforeEpaElo": 1434.8,
+          "anchorEpaElo": 1435.1,
+          "targetEpaElo": 1433.7,
+          "listedDepthRank": 2,
+          "rosterStatus": "ACT",
+          "healthyBenchWeeksInSpell": 6,
+          "startsSinceAnchor": 0,
+          "decayFraction": 0.217,
+          "benchDecayAppliedElo": 0.3,
+          "benchDecayBudgetElo": 0.7,
+          "maxDecayFraction": 0.5,
+          "source": "dated depth-chart snapshot"
         }
       ],
       "injuryWeeksExcluded": 1,
@@ -120312,6 +120606,29 @@
           "healthyBenchWeeksInSpell": 5,
           "startsSinceAnchor": 0,
           "decayFraction": 0.1844,
+          "benchDecayAppliedElo": 0.3,
+          "benchDecayBudgetElo": 0.7,
+          "maxDecayFraction": 0.5,
+          "source": "dated depth-chart snapshot"
+        },
+        {
+          "date": "2026-10-18",
+          "season": 2026,
+          "week": 6,
+          "stage": "Week 6 \u00b7 Healthy backup",
+          "type": "bench",
+          "gameId": "2026_06_NO_NYG-backup-00-0039376",
+          "team": "NO",
+          "opponent": "NYG",
+          "qbElo": 1434.8,
+          "beforeEpaElo": 1434.8,
+          "anchorEpaElo": 1435.1,
+          "targetEpaElo": 1433.7,
+          "listedDepthRank": 2,
+          "rosterStatus": "ACT",
+          "healthyBenchWeeksInSpell": 6,
+          "startsSinceAnchor": 0,
+          "decayFraction": 0.217,
           "benchDecayAppliedElo": 0.3,
           "benchDecayBudgetElo": 0.7,
           "maxDecayFraction": 0.5,
@@ -126468,7 +126785,7 @@
     "00-0039923": {
       "name": "J.J. McCarthy",
       "currentTeam": "NYG",
-      "currentEpaElo": 1451.8,
+      "currentEpaElo": 1451.1,
       "initialization": {
         "type": "draft",
         "draftSeason": 2024,
@@ -126601,6 +126918,29 @@
           "startsSinceAnchor": 0,
           "decayFraction": 0.1844,
           "benchDecayAppliedElo": 4.1,
+          "benchDecayBudgetElo": 11.1,
+          "maxDecayFraction": 0.5,
+          "source": "dated depth-chart snapshot"
+        },
+        {
+          "date": "2026-10-18",
+          "season": 2026,
+          "week": 6,
+          "stage": "Week 6 \u00b7 Healthy backup",
+          "type": "bench",
+          "gameId": "2026_06_NO_NYG-backup-00-0039923",
+          "team": "NYG",
+          "opponent": "NO",
+          "qbElo": 1451.1,
+          "beforeEpaElo": 1451.8,
+          "anchorEpaElo": 1456.0,
+          "targetEpaElo": 1433.7,
+          "listedDepthRank": 2,
+          "rosterStatus": "ACT",
+          "healthyBenchWeeksInSpell": 6,
+          "startsSinceAnchor": 0,
+          "decayFraction": 0.217,
+          "benchDecayAppliedElo": 4.8,
           "benchDecayBudgetElo": 11.1,
           "maxDecayFraction": 0.5,
           "source": "dated depth-chart snapshot"
@@ -126958,6 +127298,29 @@
           "startsSinceAnchor": 0,
           "decayFraction": 0.1844,
           "benchDecayAppliedElo": 4.1,
+          "benchDecayBudgetElo": 11.1,
+          "maxDecayFraction": 0.5,
+          "source": "dated depth-chart snapshot"
+        },
+        {
+          "date": "2026-10-18",
+          "season": 2026,
+          "week": 6,
+          "stage": "Week 6 \u00b7 Healthy backup",
+          "type": "bench",
+          "gameId": "2026_06_NO_NYG-backup-00-0039923",
+          "team": "NYG",
+          "opponent": "NO",
+          "qbElo": 1451.1,
+          "beforeEpaElo": 1451.8,
+          "anchorEpaElo": 1456.0,
+          "targetEpaElo": 1433.7,
+          "listedDepthRank": 2,
+          "rosterStatus": "ACT",
+          "healthyBenchWeeksInSpell": 6,
+          "startsSinceAnchor": 0,
+          "decayFraction": 0.217,
+          "benchDecayAppliedElo": 4.8,
           "benchDecayBudgetElo": 11.1,
           "maxDecayFraction": 0.5,
           "source": "dated depth-chart snapshot"
@@ -157810,7 +158173,7 @@
           "source": "weekly depth chart"
         }
       ],
-      "injuryWeeksExcluded": 5,
+      "injuryWeeksExcluded": 6,
       "benchInjuryExclusions": [
         {
           "season": 2021,
@@ -157839,6 +158202,12 @@
         {
           "season": 2026,
           "week": 5,
+          "team": "TB",
+          "reason": "Out"
+        },
+        {
+          "season": 2026,
+          "week": 6,
           "team": "TB",
           "reason": "Out"
         }
