@@ -469,12 +469,12 @@
     "housePollCoverage": {
       "checkedAt": "2026-10-18",
       "provider": "PollingSource, VoteHub, and Decision Labs",
-      "polls": 129,
+      "polls": 130,
       "districts": 68
     },
     "decisionLabsPollRefresh": {
       "checkedAt": "2026-10-18",
-      "generatedAt": "2026-10-18T04:44:31.054Z",
+      "generatedAt": "2026-10-18T11:20:17.097Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -15960,6 +15960,27 @@
       "methodologyUrl": "https://www.abqjournal.com/news/journal-poll-congressional-incumbents-stansbury-and-leger-fernandez-lead-challengers/3141828",
       "sourceType": "public_aggregator",
       "notes": "VoteHub CC BY 4.0; published 2026-10-16; Teresa Leger Fernández (D) / Martin Zamora (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "pollingsource-me-02-2026-10-14-tulchin-research-d",
+      "raceId": "ME-02",
+      "pollsterId": "tulchin-research-d",
+      "pollster": "Tulchin Research (D)",
+      "sponsor": null,
+      "partisanSponsor": "D",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-14",
+      "population": "LV",
+      "sampleSize": 500,
+      "demPct": 50.0,
+      "repPct": 46.0,
+      "margin": 4.0,
+      "sourceUrl": "https://pollingsource.com/house/polls",
+      "sourceLabel": "PollingSource public House poll ledger",
+      "methodologyUrl": "https://pollingsource.com/methodology",
+      "sourceType": "public_aggregator",
+      "notes": "PollingSource table date; Matt Dunlap (D) / Paul LePage (R)",
       "modelEligible": true
     },
     {
