@@ -2,7 +2,7 @@
   "meta": {
     "cycle": 2026,
     "electionDate": "2026-11-03",
-    "updatedAt": "2026-10-21",
+    "updatedAt": "2026-10-22",
     "experimental": true,
     "houseBaselineNationalMargin": -2.782,
     "senatePollCoverage": {
@@ -311,7 +311,7 @@
       }
     },
     "houseCandidateCoverage": {
-      "checkedAt": "2026-10-21",
+      "checkedAt": "2026-10-22",
       "districts": 435,
       "finalizedDemocratic": 412,
       "finalizedRepublican": 411,
@@ -398,14 +398,14 @@
       }
     ],
     "senatePollRefresh": {
-      "checkedAt": "2026-10-21",
+      "checkedAt": "2026-10-22",
       "provider": "PollingSource",
       "reviewed": 0,
       "added": 0,
       "skippedCandidateMismatch": 0
     },
     "pollRefresh": {
-      "checkedAt": "2026-10-21",
+      "checkedAt": "2026-10-22",
       "provider": "VoteHub",
       "added": 78,
       "needsReview": [
@@ -487,14 +487,14 @@
       ]
     },
     "housePollCoverage": {
-      "checkedAt": "2026-10-21",
+      "checkedAt": "2026-10-22",
       "provider": "PollingSource, VoteHub, and Decision Labs",
       "polls": 148,
       "districts": 73
     },
     "decisionLabsPollRefresh": {
-      "checkedAt": "2026-10-21",
-      "generatedAt": "2026-10-21T21:49:38.685Z",
+      "checkedAt": "2026-10-22",
+      "generatedAt": "2026-10-22T05:00:32.577Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -2258,6 +2258,22 @@
     {
       "id": "national-public-affairs",
       "name": "National Public Affairs",
+      "historicalPolls": 0,
+      "historicalSourceName": null,
+      "historicalError": null,
+      "transparencyScore": 0.8,
+      "meanRevertedBias": null,
+      "bias": null,
+      "houseEffect": null,
+      "predictivePlusMinus": null,
+      "racesCalledCorrectly": null,
+      "manualGrade": null,
+      "manualGradeNotes": null,
+      "modelRoomExcluded": false
+    },
+    {
+      "id": "national-research-inc",
+      "name": "National Research Inc.",
       "historicalPolls": 0,
       "historicalSourceName": null,
       "historicalError": null,
@@ -16777,6 +16793,27 @@
       "modelEligible": true
     },
     {
+      "id": "pollingsource-fl-25-2026-10-15-national-research-inc",
+      "raceId": "FL-25",
+      "pollsterId": "national-research-inc",
+      "pollster": "National Research Inc.",
+      "sponsor": null,
+      "partisanSponsor": null,
+      "startDate": "2026-10-15",
+      "endDate": "2026-10-15",
+      "population": "LV",
+      "sampleSize": 400,
+      "demPct": 42.0,
+      "repPct": 49.0,
+      "margin": -7.0,
+      "sourceUrl": "https://pollingsource.com/house/polls",
+      "sourceLabel": "PollingSource public House poll ledger",
+      "methodologyUrl": "https://pollingsource.com/methodology",
+      "sourceType": "public_aggregator",
+      "notes": "PollingSource table date; Jared Moskowitz (D) / Scott Singer (R)",
+      "modelEligible": true
+    },
+    {
       "id": "pollingsource-me-02-2026-10-14-tulchin-research-d",
       "raceId": "ME-02",
       "pollsterId": "tulchin-research-d",
@@ -17215,27 +17252,6 @@
       "methodologyUrl": "https://pollingsource.com/methodology",
       "sourceType": "public_aggregator",
       "notes": "PollingSource table date; Tom Perriello (D) / John McGuire (R)",
-      "modelEligible": true
-    },
-    {
-      "id": "pollingsource-tx-10-2026-09-22-change-research",
-      "raceId": "TX-10",
-      "pollsterId": "change-research",
-      "pollster": "Change Research",
-      "sponsor": null,
-      "partisanSponsor": "D",
-      "startDate": "2026-09-22",
-      "endDate": "2026-09-22",
-      "population": "LV",
-      "sampleSize": 613,
-      "demPct": 41.0,
-      "repPct": 48.0,
-      "margin": -7.0,
-      "sourceUrl": "https://pollingsource.com/house/polls",
-      "sourceLabel": "PollingSource public House poll ledger",
-      "methodologyUrl": "https://pollingsource.com/methodology",
-      "sourceType": "public_aggregator",
-      "notes": "PollingSource table date; Caitlin Rourk (D) / Chris Gober (R)",
       "modelEligible": true
     }
   ],
