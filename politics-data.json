@@ -2,7 +2,7 @@
   "meta": {
     "cycle": 2026,
     "electionDate": "2026-11-03",
-    "updatedAt": "2026-10-22",
+    "updatedAt": "2026-10-23",
     "experimental": true,
     "houseBaselineNationalMargin": -2.782,
     "senatePollCoverage": {
@@ -311,7 +311,7 @@
       }
     },
     "houseCandidateCoverage": {
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "districts": 435,
       "finalizedDemocratic": 412,
       "finalizedRepublican": 411,
@@ -398,14 +398,14 @@
       }
     ],
     "senatePollRefresh": {
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "provider": "PollingSource",
       "reviewed": 0,
       "added": 0,
       "skippedCandidateMismatch": 0
     },
     "pollRefresh": {
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "provider": "VoteHub",
       "added": 104,
       "needsReview": [
@@ -492,14 +492,14 @@
       ]
     },
     "housePollCoverage": {
-      "checkedAt": "2026-10-22",
+      "checkedAt": "2026-10-23",
       "provider": "PollingSource, VoteHub, and Decision Labs",
       "polls": 160,
       "districts": 79
     },
     "decisionLabsPollRefresh": {
-      "checkedAt": "2026-10-22",
-      "generatedAt": "2026-10-22T21:44:01.703Z",
+      "checkedAt": "2026-10-23",
+      "generatedAt": "2026-10-23T05:01:53.089Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -17778,6 +17778,27 @@
       "methodologyUrl": "https://pollingsource.com/methodology",
       "sourceType": "public_aggregator",
       "notes": "PollingSource table date; Don Davis (D) / Laurie Buckhout (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "pollingsource-ak-al-2026-10-03-alaska-survey-research",
+      "raceId": "AK-AL",
+      "pollsterId": "alaska-survey-research",
+      "pollster": "Alaska Survey Research",
+      "sponsor": null,
+      "partisanSponsor": "D",
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-03",
+      "population": "LV",
+      "sampleSize": 1512,
+      "demPct": 7.0,
+      "repPct": 50.0,
+      "margin": -43.0,
+      "sourceUrl": "https://pollingsource.com/house/polls",
+      "sourceLabel": "PollingSource public House poll ledger",
+      "methodologyUrl": "https://pollingsource.com/methodology",
+      "sourceType": "public_aggregator",
+      "notes": "PollingSource table date; Eric Hafner (D) / Nick Begich III (R)",
       "modelEligible": true
     },
     {
