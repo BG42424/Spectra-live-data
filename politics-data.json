@@ -2,7 +2,7 @@
   "meta": {
     "cycle": 2026,
     "electionDate": "2026-11-03",
-    "updatedAt": "2026-10-24",
+    "updatedAt": "2026-10-25",
     "experimental": true,
     "houseBaselineNationalMargin": -2.782,
     "senatePollCoverage": {
@@ -311,7 +311,7 @@
       }
     },
     "houseCandidateCoverage": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-25",
       "districts": 435,
       "finalizedDemocratic": 412,
       "finalizedRepublican": 411,
@@ -398,14 +398,14 @@
       }
     ],
     "senatePollRefresh": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-25",
       "provider": "PollingSource",
       "reviewed": 0,
       "added": 0,
       "skippedCandidateMismatch": 0
     },
     "pollRefresh": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-25",
       "provider": "VoteHub",
       "added": 0,
       "needsReview": [
@@ -502,14 +502,14 @@
       ]
     },
     "housePollCoverage": {
-      "checkedAt": "2026-10-24",
+      "checkedAt": "2026-10-25",
       "provider": "PollingSource, VoteHub, and Decision Labs",
       "polls": 171,
       "districts": 80
     },
     "decisionLabsPollRefresh": {
-      "checkedAt": "2026-10-24",
-      "generatedAt": "2026-10-24T20:58:01.778Z",
+      "checkedAt": "2026-10-25",
+      "generatedAt": "2026-10-25T04:54:06.137Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -3633,22 +3633,6 @@
     {
       "id": "university-of-texas-texas-politics-project",
       "name": "University of Texas/Texas Politics Project",
-      "historicalPolls": 0,
-      "historicalSourceName": null,
-      "historicalError": null,
-      "transparencyScore": 0.8,
-      "meanRevertedBias": null,
-      "bias": null,
-      "houseEffect": null,
-      "predictivePlusMinus": null,
-      "racesCalledCorrectly": null,
-      "manualGrade": null,
-      "manualGradeNotes": null,
-      "modelRoomExcluded": false
-    },
-    {
-      "id": "upswing-research-strategy-d",
-      "name": "Upswing Research & Strategy (D)",
       "historicalPolls": 0,
       "historicalSourceName": null,
       "historicalError": null,
@@ -17855,6 +17839,27 @@
       "modelEligible": true
     },
     {
+      "id": "pollingsource-co-05-2026-10-18-global-strategy-group-d",
+      "raceId": "CO-05",
+      "pollsterId": "global-strategy-group-d",
+      "pollster": "Global Strategy Group (D)",
+      "sponsor": null,
+      "partisanSponsor": "D-sponsored",
+      "startDate": "2026-10-18",
+      "endDate": "2026-10-18",
+      "population": "LV",
+      "sampleSize": 500,
+      "demPct": 43.0,
+      "repPct": 38.0,
+      "margin": 5.0,
+      "sourceUrl": "https://pollingsource.com/house/polls",
+      "sourceLabel": "PollingSource public House poll ledger",
+      "methodologyUrl": "https://pollingsource.com/methodology",
+      "sourceType": "public_aggregator",
+      "notes": "PollingSource table date; Jessica Willow Killin (D) / Jeff Crank (R)",
+      "modelEligible": true
+    },
+    {
       "id": "pollingsource-ak-al-2026-10-16-data-for-progress-d",
       "raceId": "AK-AL",
       "pollsterId": "data-for-progress-d",
@@ -18440,27 +18445,6 @@
       "methodologyUrl": "https://pollingsource.com/methodology",
       "sourceType": "public_aggregator",
       "notes": "PollingSource table date; Tom Perriello (D) / John McGuire (R)",
-      "modelEligible": true
-    },
-    {
-      "id": "pollingsource-fl-21-2026-09-25-upswing-research-strategy-d",
-      "raceId": "FL-21",
-      "pollsterId": "upswing-research-strategy-d",
-      "pollster": "Upswing Research & Strategy (D)",
-      "sponsor": null,
-      "partisanSponsor": null,
-      "startDate": "2026-09-25",
-      "endDate": "2026-09-25",
-      "population": "LV",
-      "sampleSize": 402,
-      "demPct": 38.0,
-      "repPct": 49.0,
-      "margin": -11.0,
-      "sourceUrl": "https://pollingsource.com/house/polls",
-      "sourceLabel": "PollingSource public House poll ledger",
-      "methodologyUrl": "https://pollingsource.com/methodology",
-      "sourceType": "public_aggregator",
-      "notes": "PollingSource table date; James Martin (D) / Brian Mast (R)",
       "modelEligible": true
     }
   ],
