@@ -509,7 +509,7 @@
     },
     "decisionLabsPollRefresh": {
       "checkedAt": "2026-10-26",
-      "generatedAt": "2026-10-26T13:16:58.392Z",
+      "generatedAt": "2026-10-26T22:45:56.024Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -18398,27 +18398,6 @@
       "methodologyUrl": "https://pollingsource.com/methodology",
       "sourceType": "public_aggregator",
       "notes": "PollingSource table date; Don Davis (D) / Laurie Buckhout (R)",
-      "modelEligible": true
-    },
-    {
-      "id": "pollingsource-ak-al-2026-10-03-alaska-survey-research",
-      "raceId": "AK-AL",
-      "pollsterId": "alaska-survey-research",
-      "pollster": "Alaska Survey Research",
-      "sponsor": null,
-      "partisanSponsor": "D-sponsored",
-      "startDate": "2026-10-03",
-      "endDate": "2026-10-03",
-      "population": "LV",
-      "sampleSize": 1512,
-      "demPct": 7.0,
-      "repPct": 50.0,
-      "margin": -43.0,
-      "sourceUrl": "https://pollingsource.com/house/polls",
-      "sourceLabel": "PollingSource public House poll ledger",
-      "methodologyUrl": "https://pollingsource.com/methodology",
-      "sourceType": "public_aggregator",
-      "notes": "PollingSource table date; Eric Hafner (D) / Nick Begich III (R)",
       "modelEligible": true
     },
     {
