@@ -30189,9 +30189,9 @@
       "playerId": "00-0040704",
       "name": "Dillon Gabriel",
       "team": "CLE",
-      "depthRank": 4,
+      "depthRank": 3,
       "isStarter": false,
-      "projection": "QB4",
+      "projection": "QB3",
       "epaElo": 1412.5,
       "starts": 6,
       "recentAdjustedEpaPerDropback": -0.272,
@@ -31345,9 +31345,9 @@
       "playerId": "00-0041092",
       "name": "Taylen Green",
       "team": "CLE",
-      "depthRank": 3,
+      "depthRank": 4,
       "isStarter": false,
-      "projection": "QB3",
+      "projection": "QB4",
       "epaElo": 1379.4,
       "starts": 0,
       "recentAdjustedEpaPerDropback": null,
@@ -75701,25 +75701,6 @@
         }
       ]
     },
-    "00-0041092": {
-      "name": "Taylen Green",
-      "currentTeam": "CLE",
-      "currentEpaElo": 1379.4,
-      "initialization": {
-        "type": "draft",
-        "draftSeason": 2026,
-        "draftPick": 182,
-        "initializationSeason": 2026,
-        "historicalDraftValue": 30.8,
-        "historicalLeagueQbAverage": 151.4,
-        "initialEpaElo": 1379.4
-      },
-      "offseasonRegressions": [],
-      "healthyBenchAdjustments": [],
-      "injuryWeeksExcluded": 0,
-      "benchInjuryExclusions": [],
-      "points": []
-    },
     "00-0040704": {
       "name": "Dillon Gabriel",
       "currentTeam": "CLE",
@@ -75932,6 +75913,25 @@
           "updateRate": 0.0033
         }
       ]
+    },
+    "00-0041092": {
+      "name": "Taylen Green",
+      "currentTeam": "CLE",
+      "currentEpaElo": 1379.4,
+      "initialization": {
+        "type": "draft",
+        "draftSeason": 2026,
+        "draftPick": 182,
+        "initializationSeason": 2026,
+        "historicalDraftValue": 30.8,
+        "historicalLeagueQbAverage": 151.4,
+        "initialEpaElo": 1379.4
+      },
+      "offseasonRegressions": [],
+      "healthyBenchAdjustments": [],
+      "injuryWeeksExcluded": 0,
+      "benchInjuryExclusions": [],
+      "points": []
     },
     "00-0033077": {
       "name": "Dak Prescott",
