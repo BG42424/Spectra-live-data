@@ -628,9 +628,9 @@
       "lastStart": "2026-10-25",
       "lastAppearance": "2026-10-25",
       "status": "Established",
-      "teamBaselineEpaElo": 1554.6,
+      "teamBaselineEpaElo": 1554.7,
       "preseasonTeamEpaElo": 1551.6,
-      "forecastEloChange": -5.1,
+      "forecastEloChange": -5.0,
       "initialization": {
         "type": "draft",
         "draftSeason": 2022,
@@ -7221,7 +7221,7 @@
       "lastStart": "2026-01-17",
       "lastAppearance": "2026-01-17",
       "status": "Established",
-      "teamBaselineEpaElo": 1554.6,
+      "teamBaselineEpaElo": 1554.7,
       "preseasonTeamEpaElo": 1505.6,
       "forecastEloChange": -80.9,
       "initialization": {
@@ -30982,9 +30982,9 @@
       "playerId": "00-0039398",
       "name": "Joe Milton III",
       "team": "PHI",
-      "depthRank": 3,
+      "depthRank": 2,
       "isStarter": false,
-      "projection": "QB3",
+      "projection": "QB2",
       "epaElo": 1408.0,
       "starts": 1,
       "recentAdjustedEpaPerDropback": 0.194,
@@ -31314,9 +31314,9 @@
       "playerId": "00-0040891",
       "name": "Cole Payton",
       "team": "PHI",
-      "depthRank": 2,
+      "depthRank": 3,
       "isStarter": false,
-      "projection": "QB2",
+      "projection": "QB3",
       "epaElo": 1381.2,
       "starts": 0,
       "recentAdjustedEpaPerDropback": null,
@@ -31633,7 +31633,7 @@
       "lastStart": null,
       "lastAppearance": null,
       "status": "Provisional",
-      "teamBaselineEpaElo": 1554.6,
+      "teamBaselineEpaElo": 1554.7,
       "preseasonTeamEpaElo": 1420.0,
       "forecastEloChange": -222.2,
       "initialization": {
@@ -143531,25 +143531,6 @@
         }
       ]
     },
-    "00-0040891": {
-      "name": "Cole Payton",
-      "currentTeam": "PHI",
-      "currentEpaElo": 1381.2,
-      "initialization": {
-        "type": "draft",
-        "draftSeason": 2026,
-        "draftPick": 178,
-        "initializationSeason": 2026,
-        "historicalDraftValue": 32.6,
-        "historicalLeagueQbAverage": 151.4,
-        "initialEpaElo": 1381.2
-      },
-      "offseasonRegressions": [],
-      "healthyBenchAdjustments": [],
-      "injuryWeeksExcluded": 0,
-      "benchInjuryExclusions": [],
-      "points": []
-    },
     "00-0039398": {
       "name": "Joe Milton III",
       "currentTeam": "PHI",
@@ -143659,6 +143640,25 @@
           "updateRate": 0.0433
         }
       ]
+    },
+    "00-0040891": {
+      "name": "Cole Payton",
+      "currentTeam": "PHI",
+      "currentEpaElo": 1381.2,
+      "initialization": {
+        "type": "draft",
+        "draftSeason": 2026,
+        "draftPick": 178,
+        "initializationSeason": 2026,
+        "historicalDraftValue": 32.6,
+        "historicalLeagueQbAverage": 151.4,
+        "initialEpaElo": 1381.2
+      },
+      "offseasonRegressions": [],
+      "healthyBenchAdjustments": [],
+      "injuryWeeksExcluded": 0,
+      "benchInjuryExclusions": [],
+      "points": []
     },
     "00-0036389": {
       "name": "Jalen Hurts",
