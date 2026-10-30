@@ -2,7 +2,7 @@
   "meta": {
     "cycle": 2026,
     "electionDate": "2026-11-03",
-    "updatedAt": "2026-10-29",
+    "updatedAt": "2026-10-30",
     "experimental": true,
     "houseBaselineNationalMargin": -2.782,
     "senatePollCoverage": {
@@ -311,7 +311,7 @@
       }
     },
     "houseCandidateCoverage": {
-      "checkedAt": "2026-10-29",
+      "checkedAt": "2026-10-30",
       "districts": 435,
       "finalizedDemocratic": 412,
       "finalizedRepublican": 411,
@@ -398,14 +398,14 @@
       }
     ],
     "senatePollRefresh": {
-      "checkedAt": "2026-10-29",
+      "checkedAt": "2026-10-30",
       "provider": "PollingSource",
       "reviewed": 0,
       "added": 0,
       "skippedCandidateMismatch": 0
     },
     "pollRefresh": {
-      "checkedAt": "2026-10-29",
+      "checkedAt": "2026-10-30",
       "provider": "VoteHub",
       "added": 32,
       "needsReview": [
@@ -511,14 +511,14 @@
       ]
     },
     "housePollCoverage": {
-      "checkedAt": "2026-10-29",
+      "checkedAt": "2026-10-30",
       "provider": "PollingSource, VoteHub, and Decision Labs",
-      "polls": 198,
+      "polls": 197,
       "districts": 84
     },
     "decisionLabsPollRefresh": {
-      "checkedAt": "2026-10-29",
-      "generatedAt": "2026-10-29T21:54:56.235Z",
+      "checkedAt": "2026-10-30",
+      "generatedAt": "2026-10-30T05:59:41.696Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -3802,22 +3802,6 @@
     {
       "id": "votenexus-d",
       "name": "VoteNexus (D)",
-      "historicalPolls": 0,
-      "historicalSourceName": null,
-      "historicalError": null,
-      "transparencyScore": 0.8,
-      "meanRevertedBias": null,
-      "bias": null,
-      "houseEffect": null,
-      "predictivePlusMinus": null,
-      "racesCalledCorrectly": null,
-      "manualGrade": null,
-      "manualGradeNotes": null,
-      "modelRoomExcluded": false
-    },
-    {
-      "id": "wavefield-research",
-      "name": "Wavefield Research",
       "historicalPolls": 0,
       "historicalSourceName": null,
       "historicalError": null,
@@ -19647,27 +19631,6 @@
       "methodologyUrl": "https://pollingsource.com/methodology",
       "sourceType": "public_aggregator",
       "notes": "PollingSource table date; Chaz Molder (D) / Charlie Hatcher (R)",
-      "modelEligible": true
-    },
-    {
-      "id": "pollingsource-ia-01-2026-09-29-wavefield-research",
-      "raceId": "IA-01",
-      "pollsterId": "wavefield-research",
-      "pollster": "Wavefield Research",
-      "sponsor": null,
-      "partisanSponsor": null,
-      "startDate": "2026-09-29",
-      "endDate": "2026-09-29",
-      "population": "LV",
-      "sampleSize": 297,
-      "demPct": 45.0,
-      "repPct": 29.0,
-      "margin": 16.0,
-      "sourceUrl": "https://pollingsource.com/house/polls",
-      "sourceLabel": "PollingSource public House poll ledger",
-      "methodologyUrl": "https://pollingsource.com/methodology",
-      "sourceType": "public_aggregator",
-      "notes": "PollingSource table date; Christina Bohannan (D) / Mariannette Miller-Meeks (R)",
       "modelEligible": true
     }
   ],
