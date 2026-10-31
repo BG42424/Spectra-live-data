@@ -2,7 +2,7 @@
   "meta": {
     "cycle": 2026,
     "electionDate": "2026-11-03",
-    "updatedAt": "2026-10-30",
+    "updatedAt": "2026-10-31",
     "experimental": true,
     "houseBaselineNationalMargin": -2.782,
     "senatePollCoverage": {
@@ -311,7 +311,7 @@
       }
     },
     "houseCandidateCoverage": {
-      "checkedAt": "2026-10-30",
+      "checkedAt": "2026-10-31",
       "districts": 435,
       "finalizedDemocratic": 412,
       "finalizedRepublican": 411,
@@ -398,14 +398,14 @@
       }
     ],
     "senatePollRefresh": {
-      "checkedAt": "2026-10-30",
+      "checkedAt": "2026-10-31",
       "provider": "PollingSource",
       "reviewed": 0,
       "added": 0,
       "skippedCandidateMismatch": 0
     },
     "pollRefresh": {
-      "checkedAt": "2026-10-30",
+      "checkedAt": "2026-10-31",
       "provider": "VoteHub",
       "added": 45,
       "needsReview": [
@@ -521,14 +521,14 @@
       ]
     },
     "housePollCoverage": {
-      "checkedAt": "2026-10-30",
+      "checkedAt": "2026-10-31",
       "provider": "PollingSource, VoteHub, and Decision Labs",
-      "polls": 203,
+      "polls": 200,
       "districts": 86
     },
     "decisionLabsPollRefresh": {
-      "checkedAt": "2026-10-30",
-      "generatedAt": "2026-10-30T22:28:30.930Z",
+      "checkedAt": "2026-10-31",
+      "generatedAt": "2026-10-31T05:55:20.161Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -2189,22 +2189,6 @@
       "houseEffect": -4.939,
       "predictivePlusMinus": 1.433,
       "racesCalledCorrectly": 0.696,
-      "manualGrade": null,
-      "manualGradeNotes": null,
-      "modelRoomExcluded": false
-    },
-    {
-      "id": "mclaughlin-associates-r",
-      "name": "McLaughlin & Associates (R)",
-      "historicalPolls": 0,
-      "historicalSourceName": null,
-      "historicalError": null,
-      "transparencyScore": 0.8,
-      "meanRevertedBias": null,
-      "bias": null,
-      "houseEffect": null,
-      "predictivePlusMinus": null,
-      "racesCalledCorrectly": null,
       "manualGrade": null,
       "manualGradeNotes": null,
       "modelRoomExcluded": false
@@ -19262,27 +19246,6 @@
       "modelEligible": true
     },
     {
-      "id": "pollingsource-ny-17-2026-09-30-mclaughlin-associates-r",
-      "raceId": "NY-17",
-      "pollsterId": "mclaughlin-associates-r",
-      "pollster": "McLaughlin & Associates (R)",
-      "sponsor": null,
-      "partisanSponsor": "R-sponsored",
-      "startDate": "2026-09-30",
-      "endDate": "2026-09-30",
-      "population": "LV",
-      "sampleSize": 400,
-      "demPct": 47.0,
-      "repPct": 50.0,
-      "margin": -3.0,
-      "sourceUrl": "https://pollingsource.com/house/polls",
-      "sourceLabel": "PollingSource public House poll ledger",
-      "methodologyUrl": "https://pollingsource.com/methodology",
-      "sourceType": "public_aggregator",
-      "notes": "PollingSource table date; Cait Conley (D) / Mike Lawler (R)",
-      "modelEligible": true
-    },
-    {
       "id": "pollingsource-nv-03-2026-10-23-redbox-research-d",
       "raceId": "NV-03",
       "pollsterId": "redbox-research-d",
@@ -19619,27 +19582,6 @@
       "modelEligible": true
     },
     {
-      "id": "pollingsource-ky-06-2026-09-30-gqr-d",
-      "raceId": "KY-06",
-      "pollsterId": "gqr-d",
-      "pollster": "GQR (D)",
-      "sponsor": null,
-      "partisanSponsor": "D-sponsored",
-      "startDate": "2026-09-30",
-      "endDate": "2026-09-30",
-      "population": "LV",
-      "sampleSize": 401,
-      "demPct": 42.0,
-      "repPct": 37.0,
-      "margin": 5.0,
-      "sourceUrl": "https://pollingsource.com/house/polls",
-      "sourceLabel": "PollingSource public House poll ledger",
-      "methodologyUrl": "https://pollingsource.com/methodology",
-      "sourceType": "public_aggregator",
-      "notes": "PollingSource table date; Zach Dembo (D) / Ralph A Alvarado (R)",
-      "modelEligible": true
-    },
-    {
       "id": "pollingsource-co-05-2026-10-18-global-strategy-group-d",
       "raceId": "CO-05",
       "pollsterId": "global-strategy-group-d",
@@ -19716,27 +19658,6 @@
       "demPct": 50.0,
       "repPct": 46.0,
       "margin": 4.0,
-      "sourceUrl": "https://pollingsource.com/house/polls",
-      "sourceLabel": "PollingSource public House poll ledger",
-      "methodologyUrl": "https://pollingsource.com/methodology",
-      "sourceType": "public_aggregator",
-      "notes": "PollingSource table date; Matthew Dunlap (D) / Paul LePage (R)",
-      "modelEligible": true
-    },
-    {
-      "id": "pollingsource-me-02-2026-09-30-tulchin-research-d",
-      "raceId": "ME-02",
-      "pollsterId": "tulchin-research-d",
-      "pollster": "Tulchin Research (D)",
-      "sponsor": null,
-      "partisanSponsor": "D-sponsored",
-      "startDate": "2026-09-30",
-      "endDate": "2026-09-30",
-      "population": "LV",
-      "sampleSize": 500,
-      "demPct": 50.0,
-      "repPct": 48.0,
-      "margin": 2.0,
       "sourceUrl": "https://pollingsource.com/house/polls",
       "sourceLabel": "PollingSource public House poll ledger",
       "methodologyUrl": "https://pollingsource.com/methodology",
