@@ -523,12 +523,12 @@
     "housePollCoverage": {
       "checkedAt": "2026-10-31",
       "provider": "PollingSource, VoteHub, and Decision Labs",
-      "polls": 200,
-      "districts": 86
+      "polls": 201,
+      "districts": 87
     },
     "decisionLabsPollRefresh": {
       "checkedAt": "2026-10-31",
-      "generatedAt": "2026-10-31T05:55:20.161Z",
+      "generatedAt": "2026-10-31T12:45:47.951Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -18889,6 +18889,27 @@
       "modelEligible": true
     },
     {
+      "id": "pollingsource-mn-08-2026-10-26-public-policy-polling-d",
+      "raceId": "MN-08",
+      "pollsterId": "public-policy-polling-d",
+      "pollster": "Public Policy Polling (D)",
+      "sponsor": null,
+      "partisanSponsor": "D-sponsored",
+      "startDate": "2026-10-26",
+      "endDate": "2026-10-26",
+      "population": "RV",
+      "sampleSize": 585,
+      "demPct": 43.0,
+      "repPct": 49.0,
+      "margin": -6.0,
+      "sourceUrl": "https://pollingsource.com/house/polls",
+      "sourceLabel": "PollingSource public House poll ledger",
+      "methodologyUrl": "https://pollingsource.com/methodology",
+      "sourceType": "public_aggregator",
+      "notes": "PollingSource table date; Trina Swanson (D) / Pete Stauber (R)",
+      "modelEligible": true
+    },
+    {
       "id": "pollingsource-va-01-2026-10-25-dccc-targeting-team-d",
       "raceId": "VA-01",
       "pollsterId": "dccc-targeting-team-d",
@@ -19498,6 +19519,27 @@
       "modelEligible": true
     },
     {
+      "id": "pollingsource-co-05-2026-10-18-global-strategy-group-d",
+      "raceId": "CO-05",
+      "pollsterId": "global-strategy-group-d",
+      "pollster": "Global Strategy Group (D)",
+      "sponsor": null,
+      "partisanSponsor": "D-sponsored",
+      "startDate": "2026-10-18",
+      "endDate": "2026-10-18",
+      "population": "LV",
+      "sampleSize": 500,
+      "demPct": 43.0,
+      "repPct": 38.0,
+      "margin": 5.0,
+      "sourceUrl": "https://pollingsource.com/house/polls",
+      "sourceLabel": "PollingSource public House poll ledger",
+      "methodologyUrl": "https://pollingsource.com/methodology",
+      "sourceType": "public_aggregator",
+      "notes": "PollingSource table date; Jessica Killin (D) / Jeff Crank (R)",
+      "modelEligible": true
+    },
+    {
       "id": "pollingsource-ks-02-2026-10-20-dccc",
       "raceId": "KS-02",
       "pollsterId": "dccc",
@@ -19579,27 +19621,6 @@
       "methodologyUrl": "https://pollingsource.com/methodology",
       "sourceType": "public_aggregator",
       "notes": "PollingSource table date; Zach Dembo (D) / Ralph A Alvarado (R)",
-      "modelEligible": true
-    },
-    {
-      "id": "pollingsource-co-05-2026-10-18-global-strategy-group-d",
-      "raceId": "CO-05",
-      "pollsterId": "global-strategy-group-d",
-      "pollster": "Global Strategy Group (D)",
-      "sponsor": null,
-      "partisanSponsor": "D-sponsored",
-      "startDate": "2026-10-18",
-      "endDate": "2026-10-18",
-      "population": "LV",
-      "sampleSize": 500,
-      "demPct": 43.0,
-      "repPct": 38.0,
-      "margin": 5.0,
-      "sourceUrl": "https://pollingsource.com/house/polls",
-      "sourceLabel": "PollingSource public House poll ledger",
-      "methodologyUrl": "https://pollingsource.com/methodology",
-      "sourceType": "public_aggregator",
-      "notes": "PollingSource table date; Jessica Killin (D) / Jeff Crank (R)",
       "modelEligible": true
     },
     {
