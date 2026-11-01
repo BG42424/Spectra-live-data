@@ -2,7 +2,7 @@
   "meta": {
     "cycle": 2026,
     "electionDate": "2026-11-03",
-    "updatedAt": "2026-10-31",
+    "updatedAt": "2026-11-01",
     "experimental": true,
     "houseBaselineNationalMargin": -2.782,
     "senatePollCoverage": {
@@ -311,7 +311,7 @@
       }
     },
     "houseCandidateCoverage": {
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-11-01",
       "districts": 435,
       "finalizedDemocratic": 412,
       "finalizedRepublican": 411,
@@ -398,14 +398,14 @@
       }
     ],
     "senatePollRefresh": {
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-11-01",
       "provider": "PollingSource",
       "reviewed": 0,
       "added": 0,
       "skippedCandidateMismatch": 0
     },
     "pollRefresh": {
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-11-01",
       "provider": "VoteHub",
       "added": 45,
       "needsReview": [
@@ -521,14 +521,14 @@
       ]
     },
     "housePollCoverage": {
-      "checkedAt": "2026-10-31",
+      "checkedAt": "2026-11-01",
       "provider": "PollingSource, VoteHub, and Decision Labs",
-      "polls": 205,
+      "polls": 203,
       "districts": 88
     },
     "decisionLabsPollRefresh": {
-      "checkedAt": "2026-10-31",
-      "generatedAt": "2026-10-31T21:06:13.427Z",
+      "checkedAt": "2026-11-01",
+      "generatedAt": "2026-11-01T06:18:01.648Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -962,8 +962,8 @@
       "modelRoomExcluded": false
     },
     {
-      "id": "christopher-newport-univ",
-      "name": "Christopher Newport Univ.",
+      "id": "christopher-newport-university",
+      "name": "Christopher Newport University",
       "historicalPolls": 0,
       "historicalSourceName": null,
       "historicalError": null,
@@ -19761,10 +19761,10 @@
       "modelEligible": true
     },
     {
-      "id": "pollingsource-va-02-2026-10-10-christopher-newport-univ",
+      "id": "pollingsource-va-02-2026-10-10-christopher-newport-university",
       "raceId": "VA-02",
-      "pollsterId": "christopher-newport-univ",
-      "pollster": "Christopher Newport Univ.",
+      "pollsterId": "christopher-newport-university",
+      "pollster": "Christopher Newport University",
       "sponsor": null,
       "partisanSponsor": null,
       "startDate": "2026-10-10",
@@ -20010,48 +20010,6 @@
       "methodologyUrl": "https://pollingsource.com/methodology",
       "sourceType": "public_aggregator",
       "notes": "PollingSource table date; Donald Davis (D) / Laurie Buckhout (R)",
-      "modelEligible": true
-    },
-    {
-      "id": "pollingsource-tn-05-2026-10-01-impact-research-d",
-      "raceId": "TN-05",
-      "pollsterId": "impact-research-d",
-      "pollster": "Impact Research (D)",
-      "sponsor": null,
-      "partisanSponsor": "D-sponsored",
-      "startDate": "2026-10-01",
-      "endDate": "2026-10-01",
-      "population": "LV",
-      "sampleSize": 552,
-      "demPct": 41.0,
-      "repPct": 46.0,
-      "margin": -5.0,
-      "sourceUrl": "https://pollingsource.com/house/polls",
-      "sourceLabel": "PollingSource public House poll ledger",
-      "methodologyUrl": "https://pollingsource.com/methodology",
-      "sourceType": "public_aggregator",
-      "notes": "PollingSource table date; Chaz Molder (D) / Charlie Hatcher (R)",
-      "modelEligible": true
-    },
-    {
-      "id": "pollingsource-sc-01-2026-10-01-co-efficient-r",
-      "raceId": "SC-01",
-      "pollsterId": "co-efficient-r",
-      "pollster": "co/efficient (R)",
-      "sponsor": null,
-      "partisanSponsor": "R-sponsored",
-      "startDate": "2026-10-01",
-      "endDate": "2026-10-01",
-      "population": "LV",
-      "sampleSize": 837,
-      "demPct": 40.0,
-      "repPct": 46.0,
-      "margin": -6.0,
-      "sourceUrl": "https://pollingsource.com/house/polls",
-      "sourceLabel": "PollingSource public House poll ledger",
-      "methodologyUrl": "https://pollingsource.com/methodology",
-      "sourceType": "public_aggregator",
-      "notes": "PollingSource table date; Nancy Lacore (D) / Jenny Costa Honeycutt (R)",
       "modelEligible": true
     }
   ],
