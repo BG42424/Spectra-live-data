@@ -407,7 +407,7 @@
     "pollRefresh": {
       "checkedAt": "2026-11-01",
       "provider": "VoteHub",
-      "added": 45,
+      "added": 46,
       "needsReview": [
         {
           "id": "us-202gra1f1faac3",
@@ -528,7 +528,7 @@
     },
     "decisionLabsPollRefresh": {
       "checkedAt": "2026-11-01",
-      "generatedAt": "2026-11-01T17:36:26.242Z",
+      "generatedAt": "2026-11-01T22:10:00.768Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -18897,6 +18897,27 @@
       "methodologyUrl": "https://concordpublicopinionpartners.org/polls/south-dakota-ge-2026-oct26",
       "sourceType": "public_aggregator",
       "notes": "VoteHub CC BY 4.0; published 2026-10-30; Brian Bengs (D) / Mike Rounds (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "votehub-us-202you9af4ba59",
+      "raceId": "MI-SEN",
+      "pollsterId": "yougov",
+      "pollster": "YouGov",
+      "sponsor": null,
+      "partisanSponsor": null,
+      "startDate": "2026-10-26",
+      "endDate": "2026-10-29",
+      "population": "LV",
+      "sampleSize": 2093,
+      "demPct": 51.0,
+      "repPct": 47.0,
+      "margin": 4.0,
+      "sourceUrl": "https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_mi_20261026_lv.pdf",
+      "sourceLabel": "VoteHub poll ledger · linked public release",
+      "methodologyUrl": "https://d3nkl3psvxxpe9.cloudfront.net/documents/ttw_mi_20261026_lv.pdf",
+      "sourceType": "public_aggregator",
+      "notes": "VoteHub CC BY 4.0; published 2026-11-01; Abdul El-Sayed (D) / Mike Rogers (R)",
       "modelEligible": true
     },
     {
