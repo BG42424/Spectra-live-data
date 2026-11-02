@@ -407,7 +407,7 @@
     "pollRefresh": {
       "checkedAt": "2026-11-02",
       "provider": "VoteHub",
-      "added": 62,
+      "added": 65,
       "needsReview": [
         {
           "id": "us-202gra1f1faac3",
@@ -532,6 +532,11 @@
           "id": "us-202unia06f3a9e",
           "subject": "2026 ME-02",
           "reason": "Candidate matchup needs review"
+        },
+        {
+          "id": "us-202lake19b0fc9",
+          "subject": "2026 Colorado",
+          "reason": "Candidate matchup needs review"
         }
       ]
     },
@@ -543,7 +548,7 @@
     },
     "decisionLabsPollRefresh": {
       "checkedAt": "2026-11-02",
-      "generatedAt": "2026-11-02T06:23:17.482Z",
+      "generatedAt": "2026-11-02T21:22:21.272Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -19285,6 +19290,69 @@
       "methodologyUrl": "https://scholars.unh.edu/survey_center_polls/1011/",
       "sourceType": "public_aggregator",
       "notes": "VoteHub CC BY 4.0; published 2026-11-02; Maggie Goodlander (D) / Lily Tang Williams (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "votehub-us-202grada8105a7",
+      "raceId": "IA-SEN",
+      "pollsterId": "grayhouse",
+      "pollster": "GrayHouse",
+      "sponsor": null,
+      "partisanSponsor": null,
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-31",
+      "population": "LV",
+      "sampleSize": 601,
+      "demPct": 46.0,
+      "repPct": 48.0,
+      "margin": -2.0,
+      "sourceUrl": "https://www.grayhouse.com/post/grayhouse-poll-hinson-leads-in-iowa-by-2",
+      "sourceLabel": "VoteHub poll ledger · linked public release",
+      "methodologyUrl": "https://www.grayhouse.com/post/grayhouse-poll-hinson-leads-in-iowa-by-2",
+      "sourceType": "public_aggregator",
+      "notes": "VoteHub CC BY 4.0; published 2026-11-02; Josh Turek (D) / Ashley Hinson (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "votehub-us-202red57ac6384",
+      "raceId": "FL-SEN",
+      "pollsterId": "redbox-research",
+      "pollster": "RedBox Research",
+      "sponsor": "A Fight Worth Having",
+      "partisanSponsor": "D",
+      "startDate": "2026-10-30",
+      "endDate": "2026-10-31",
+      "population": "LV",
+      "sampleSize": 2898,
+      "demPct": 45.0,
+      "repPct": 47.0,
+      "margin": -2.0,
+      "sourceUrl": "https://afightworthhaving.com/polling/2026/florida",
+      "sourceLabel": "VoteHub poll ledger · linked public release",
+      "methodologyUrl": "https://afightworthhaving.com/polling/2026/florida",
+      "sourceType": "public_aggregator",
+      "notes": "VoteHub CC BY 4.0; published 2026-11-02; Angie Nixon (D) / Ashley Moody (R)",
+      "modelEligible": true
+    },
+    {
+      "id": "votehub-us-202nat3ed474bd",
+      "raceId": "NH-SEN",
+      "pollsterId": "national-public-affairs",
+      "pollster": "National Public Affairs",
+      "sponsor": "God Family & Country PAC",
+      "partisanSponsor": "R",
+      "startDate": "2026-10-25",
+      "endDate": "2026-10-29",
+      "population": "LV",
+      "sampleSize": 800,
+      "demPct": 51.0,
+      "repPct": 45.0,
+      "margin": 6.0,
+      "sourceUrl": "https://backend.natpublicaffairs.com/media/NH_General_Election_Memo_103126.2.pdf",
+      "sourceLabel": "VoteHub poll ledger · linked public release",
+      "methodologyUrl": "https://backend.natpublicaffairs.com/media/NH_General_Election_Memo_103126.2.pdf",
+      "sourceType": "public_aggregator",
+      "notes": "VoteHub CC BY 4.0; published 2026-11-02; Chris Pappas (D) / John Sununu (R)",
       "modelEligible": true
     },
     {
