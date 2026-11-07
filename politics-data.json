@@ -2,7 +2,7 @@
   "meta": {
     "cycle": 2026,
     "electionDate": "2026-11-03",
-    "updatedAt": "2026-11-06",
+    "updatedAt": "2026-11-07",
     "experimental": true,
     "houseBaselineNationalMargin": -2.782,
     "senatePollCoverage": {
@@ -311,11 +311,11 @@
       }
     },
     "houseCandidateCoverage": {
-      "checkedAt": "2026-11-06",
+      "checkedAt": "2026-11-07",
       "districts": 435,
       "finalizedDemocratic": 412,
       "finalizedRepublican": 411,
-      "openSeats": 17
+      "openSeats": 15
     },
     "sources": [
       {
@@ -398,14 +398,14 @@
       }
     ],
     "senatePollRefresh": {
-      "checkedAt": "2026-11-06",
+      "checkedAt": "2026-11-07",
       "provider": "PollingSource",
       "reviewed": 0,
       "added": 0,
       "skippedCandidateMismatch": 0
     },
     "pollRefresh": {
-      "checkedAt": "2026-11-06",
+      "checkedAt": "2026-11-07",
       "provider": "VoteHub",
       "added": 73,
       "needsReview": [
@@ -546,14 +546,14 @@
       ]
     },
     "housePollCoverage": {
-      "checkedAt": "2026-11-06",
+      "checkedAt": "2026-11-07",
       "provider": "PollingSource, VoteHub, and Decision Labs",
       "polls": 203,
       "districts": 89
     },
     "decisionLabsPollRefresh": {
-      "checkedAt": "2026-11-06",
-      "generatedAt": "2026-11-06T19:30:31.821Z",
+      "checkedAt": "2026-11-07",
+      "generatedAt": "2026-11-07T06:11:00.881Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -20972,10 +20972,10 @@
       "repVotes2024": 255628,
       "incumbentName": "Andy Biggs",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retiring to run for governor [ 34 ]",
+      "incumbentStatus": "Incumbent retired to run for governor . [ 34 ] Republican hold.",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": true,
+      "openSeat": false,
       "candidates": {
         "D": "Elizabeth Lee",
         "R": "Mark Lamb"
@@ -21062,7 +21062,7 @@
       "repVotes2024": 208269,
       "incumbentName": "Abraham Hamadeh",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent renominated",
+      "incumbentStatus": "Incumbent re-elected.",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21626,7 +21626,7 @@
       "repVotes2024": 89125,
       "incumbentName": "Aisha Wahab",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent advanced to general.",
+      "incumbentStatus": "Incumbent re-elected.",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -22851,7 +22851,7 @@
       "repVotes2024": 201951,
       "incumbentName": "Jeff Hurd",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent renominated",
+      "incumbentStatus": "Incumbent re-elected.",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -24409,7 +24409,7 @@
       "repVotes2024": 100730,
       "incumbentName": "Everton Blair",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent lost nomination for full term; later elected to complete unexpired term. [ 202 ] Democratic hold.",
+      "incumbentStatus": "Incumbent lost nomination for full term; later elected to complete unexpired term. [ 203 ] Democratic hold.",
       "incumbentRunning": false,
       "incumbencyEligible": false,
       "openSeat": false,
@@ -28336,7 +28336,7 @@
       "repVotes2024": 180374,
       "incumbentName": "Andrew Garbarino",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent renominated",
+      "incumbentStatus": "Incumbent re-elected.",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -28906,10 +28906,10 @@
       "repVotes2024": 195464,
       "incumbentName": "Elise Stefanik",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retiring. [ 52 ]",
+      "incumbentStatus": "Incumbent retired. [ 52 ] Republican hold.",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": true,
+      "openSeat": false,
       "candidates": {
         "D": "Blake Gendebien",
         "R": "Anthony Constantino"
@@ -29296,7 +29296,7 @@
       "repVotes2024": 238640,
       "incumbentName": "Mark Harris",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent renominated",
+      "incumbentStatus": "Incumbent re-elected.",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
