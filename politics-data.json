@@ -2,7 +2,7 @@
   "meta": {
     "cycle": 2026,
     "electionDate": "2026-11-03",
-    "updatedAt": "2026-11-08",
+    "updatedAt": "2026-11-09",
     "experimental": true,
     "houseBaselineNationalMargin": -2.782,
     "senatePollCoverage": {
@@ -311,7 +311,7 @@
       }
     },
     "houseCandidateCoverage": {
-      "checkedAt": "2026-11-08",
+      "checkedAt": "2026-11-09",
       "districts": 435,
       "finalizedDemocratic": 412,
       "finalizedRepublican": 411,
@@ -398,14 +398,14 @@
       }
     ],
     "senatePollRefresh": {
-      "checkedAt": "2026-11-08",
+      "checkedAt": "2026-11-09",
       "provider": "PollingSource",
       "reviewed": 0,
       "added": 0,
       "skippedCandidateMismatch": 0
     },
     "pollRefresh": {
-      "checkedAt": "2026-11-08",
+      "checkedAt": "2026-11-09",
       "provider": "VoteHub",
       "added": 73,
       "needsReview": [
@@ -546,14 +546,14 @@
       ]
     },
     "housePollCoverage": {
-      "checkedAt": "2026-11-08",
+      "checkedAt": "2026-11-09",
       "provider": "PollingSource, VoteHub, and Decision Labs",
       "polls": 199,
       "districts": 87
     },
     "decisionLabsPollRefresh": {
-      "checkedAt": "2026-11-08",
-      "generatedAt": "2026-11-08T22:15:20.270Z",
+      "checkedAt": "2026-11-09",
+      "generatedAt": "2026-11-09T06:49:46.248Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -26828,7 +26828,7 @@
       "repVotes2024": 220929,
       "incumbentName": "Brad Finstad",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent renominated",
+      "incumbentStatus": "Incumbent lost re-election. DFL gain.",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29150,7 +29150,7 @@
       "repVotes2024": 254022,
       "incumbentName": "David Rouzer",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent renominated",
+      "incumbentStatus": "Incumbent re-elected.",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
