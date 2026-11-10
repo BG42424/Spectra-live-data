@@ -2,7 +2,7 @@
   "meta": {
     "cycle": 2026,
     "electionDate": "2026-11-03",
-    "updatedAt": "2026-11-09",
+    "updatedAt": "2026-11-10",
     "experimental": true,
     "houseBaselineNationalMargin": -2.782,
     "senatePollCoverage": {
@@ -311,11 +311,11 @@
       }
     },
     "houseCandidateCoverage": {
-      "checkedAt": "2026-11-09",
+      "checkedAt": "2026-11-10",
       "districts": 435,
       "finalizedDemocratic": 412,
       "finalizedRepublican": 411,
-      "openSeats": 15
+      "openSeats": 14
     },
     "sources": [
       {
@@ -398,14 +398,14 @@
       }
     ],
     "senatePollRefresh": {
-      "checkedAt": "2026-11-09",
+      "checkedAt": "2026-11-10",
       "provider": "PollingSource",
       "reviewed": 0,
       "added": 0,
       "skippedCandidateMismatch": 0
     },
     "pollRefresh": {
-      "checkedAt": "2026-11-09",
+      "checkedAt": "2026-11-10",
       "provider": "VoteHub",
       "added": 73,
       "needsReview": [
@@ -546,14 +546,14 @@
       ]
     },
     "housePollCoverage": {
-      "checkedAt": "2026-11-09",
+      "checkedAt": "2026-11-10",
       "provider": "PollingSource, VoteHub, and Decision Labs",
       "polls": 187,
       "districts": 85
     },
     "decisionLabsPollRefresh": {
-      "checkedAt": "2026-11-09",
-      "generatedAt": "2026-11-09T21:34:54.665Z",
+      "checkedAt": "2026-11-10",
+      "generatedAt": "2026-11-10T07:28:50.145Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -22082,7 +22082,7 @@
       "repVotes2024": 211998,
       "incumbentName": "Young Kim",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent advanced to general.",
+      "incumbentStatus": "Incumbent lost re-election. Republican loss.",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -23519,10 +23519,10 @@
       "repVotes2024": 165248,
       "incumbentName": null,
       "incumbentCurrentParty": null,
-      "incumbentStatus": "New representative elected. Democratic gain.",
+      "incumbentStatus": "New member elected. Democratic gain.",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": true,
+      "openSeat": false,
       "candidates": {
         "D": "Pia Dandiya",
         "R": "Casey Askar"
@@ -23639,7 +23639,7 @@
       "repVotes2024": 217199,
       "incumbentName": "Mario Díaz-Balart",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent renominated",
+      "incumbentStatus": "Incumbent re-elected.",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -32812,7 +32812,7 @@
       "repVotes2024": 240619,
       "incumbentName": "Michael Baumgartner",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent advanced to general.",
+      "incumbentStatus": "Incumbent re-elected.",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
