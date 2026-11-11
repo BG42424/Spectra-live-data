@@ -2,7 +2,7 @@
   "meta": {
     "cycle": 2026,
     "electionDate": "2026-11-03",
-    "updatedAt": "2026-11-10",
+    "updatedAt": "2026-11-11",
     "experimental": true,
     "houseBaselineNationalMargin": -2.782,
     "senatePollCoverage": {
@@ -311,10 +311,10 @@
       }
     },
     "houseCandidateCoverage": {
-      "checkedAt": "2026-11-10",
+      "checkedAt": "2026-11-11",
       "districts": 435,
-      "finalizedDemocratic": 412,
-      "finalizedRepublican": 411,
+      "finalizedDemocratic": 397,
+      "finalizedRepublican": 388,
       "openSeats": 14
     },
     "sources": [
@@ -398,14 +398,14 @@
       }
     ],
     "senatePollRefresh": {
-      "checkedAt": "2026-11-10",
+      "checkedAt": "2026-11-11",
       "provider": "PollingSource",
       "reviewed": 0,
       "added": 0,
       "skippedCandidateMismatch": 0
     },
     "pollRefresh": {
-      "checkedAt": "2026-11-10",
+      "checkedAt": "2026-11-11",
       "provider": "VoteHub",
       "added": 73,
       "needsReview": [
@@ -432,6 +432,11 @@
         {
           "id": "us-202dcc0d4b0ded",
           "subject": "2026 WI-01",
+          "reason": "Candidate matchup needs review"
+        },
+        {
+          "id": "us-202emefa6f3e99",
+          "subject": "2026 NY-17",
           "reason": "Candidate matchup needs review"
         },
         {
@@ -546,14 +551,14 @@
       ]
     },
     "housePollCoverage": {
-      "checkedAt": "2026-11-10",
+      "checkedAt": "2026-11-11",
       "provider": "PollingSource, VoteHub, and Decision Labs",
       "polls": 195,
       "districts": 86
     },
     "decisionLabsPollRefresh": {
-      "checkedAt": "2026-11-10",
-      "generatedAt": "2026-11-10T19:51:07.278Z",
+      "checkedAt": "2026-11-11",
+      "generatedAt": "2026-11-11T06:42:21.624Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -21187,7 +21192,7 @@
       "repVotes2024": 98341,
       "incumbentName": "Doris Matsui",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent advanced to general.",
+      "incumbentStatus": "Incumbent re-elected.",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -22835,15 +22840,13 @@
       "openSeat": false,
       "candidates": {
         "D": "Joe Courtney",
-        "R": "George Austin"
+        "R": "No Republican candidate listed"
       },
       "candidateOptions": {
         "D": [
           "Joe Courtney"
         ],
-        "R": [
-          "George Austin"
-        ]
+        "R": []
       }
     },
     {
@@ -22920,17 +22923,15 @@
       "incumbentName": "Jahana Hayes",
       "incumbentCurrentParty": "D",
       "incumbentStatus": "Incumbent re-elected.",
-      "incumbentRunning": true,
-      "incumbencyEligible": true,
+      "incumbentRunning": false,
+      "incumbencyEligible": false,
       "openSeat": false,
       "candidates": {
-        "D": "Jahana Hayes",
+        "D": "No Democratic candidate listed",
         "R": "Chris Shea"
       },
       "candidateOptions": {
-        "D": [
-          "Jahana Hayes"
-        ],
+        "D": [],
         "R": [
           "Chris Shea"
         ]
@@ -23757,7 +23758,7 @@
       "repVotes2024": 199159,
       "incumbentName": "María Elvira Salazar",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent renominated",
+      "incumbentStatus": "Incumbent re-elected.",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -26712,7 +26713,7 @@
       "repVotes2024": 220929,
       "incumbentName": "Brad Finstad",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. DFL gain.",
+      "incumbentStatus": "Incumbent renominated.",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -28075,20 +28076,16 @@
       "incumbentName": "Nick LaLota",
       "incumbentCurrentParty": "R",
       "incumbentStatus": "Incumbent re-elected.",
-      "incumbentRunning": true,
-      "incumbencyEligible": true,
+      "incumbentRunning": false,
+      "incumbencyEligible": false,
       "openSeat": false,
       "candidates": {
-        "D": "Chris Gallant",
-        "R": "Nick LaLota"
+        "D": "No Democratic candidate listed",
+        "R": "No Republican candidate listed"
       },
       "candidateOptions": {
-        "D": [
-          "Chris Gallant"
-        ],
-        "R": [
-          "Nick LaLota"
-        ]
+        "D": [],
+        "R": []
       }
     },
     {
@@ -28105,20 +28102,16 @@
       "incumbentName": "Andrew Garbarino",
       "incumbentCurrentParty": "R",
       "incumbentStatus": "Incumbent re-elected.",
-      "incumbentRunning": true,
-      "incumbencyEligible": true,
+      "incumbentRunning": false,
+      "incumbencyEligible": false,
       "openSeat": false,
       "candidates": {
-        "D": "Patrick Halpin",
-        "R": "Andrew Garbarino"
+        "D": "No Democratic candidate listed",
+        "R": "No Republican candidate listed"
       },
       "candidateOptions": {
-        "D": [
-          "Patrick Halpin"
-        ],
-        "R": [
-          "Andrew Garbarino"
-        ]
+        "D": [],
+        "R": []
       }
     },
     {
@@ -28140,15 +28133,13 @@
       "openSeat": false,
       "candidates": {
         "D": "Tom Suozzi",
-        "R": "Mike LiPetri"
+        "R": "No Republican candidate listed"
       },
       "candidateOptions": {
         "D": [
           "Tom Suozzi"
         ],
-        "R": [
-          "Mike LiPetri"
-        ]
+        "R": []
       }
     },
     {
@@ -28170,15 +28161,13 @@
       "openSeat": false,
       "candidates": {
         "D": "Laura Gillen",
-        "R": "Jeanine Driscoll"
+        "R": "No Republican candidate listed"
       },
       "candidateOptions": {
         "D": [
           "Laura Gillen"
         ],
-        "R": [
-          "Jeanine Driscoll"
-        ]
+        "R": []
       }
     },
     {
@@ -28230,15 +28219,13 @@
       "openSeat": false,
       "candidates": {
         "D": "Grace Meng",
-        "R": "Joseph Chou"
+        "R": "No Republican candidate listed"
       },
       "candidateOptions": {
         "D": [
           "Grace Meng"
         ],
-        "R": [
-          "Joseph Chou"
-        ]
+        "R": []
       }
     },
     {
@@ -28259,16 +28246,12 @@
       "incumbencyEligible": false,
       "openSeat": false,
       "candidates": {
-        "D": "Claire Valdez",
-        "R": "Melvin Rivera"
+        "D": "No Democratic candidate listed",
+        "R": "No Republican candidate listed"
       },
       "candidateOptions": {
-        "D": [
-          "Claire Valdez"
-        ],
-        "R": [
-          "Melvin Rivera"
-        ]
+        "D": [],
+        "R": []
       }
     },
     {
@@ -28290,15 +28273,13 @@
       "openSeat": false,
       "candidates": {
         "D": "Hakeem Jeffries",
-        "R": "Lewis Mizrahi"
+        "R": "No Republican candidate listed"
       },
       "candidateOptions": {
         "D": [
           "Hakeem Jeffries"
         ],
-        "R": [
-          "Lewis Mizrahi"
-        ]
+        "R": []
       }
     },
     {
@@ -28320,15 +28301,13 @@
       "openSeat": false,
       "candidates": {
         "D": "Yvette Clarke",
-        "R": "Joel Azumah"
+        "R": "No Republican candidate listed"
       },
       "candidateOptions": {
         "D": [
           "Yvette Clarke"
         ],
-        "R": [
-          "Joel Azumah"
-        ]
+        "R": []
       }
     },
     {
@@ -28349,16 +28328,12 @@
       "incumbencyEligible": false,
       "openSeat": true,
       "candidates": {
-        "D": "Brad Lander",
-        "R": "Jennifer Moore"
+        "D": "No Democratic candidate listed",
+        "R": "No Republican candidate listed"
       },
       "candidateOptions": {
-        "D": [
-          "Brad Lander"
-        ],
-        "R": [
-          "Jennifer Moore"
-        ]
+        "D": [],
+        "R": []
       }
     },
     {
@@ -28375,20 +28350,18 @@
       "incumbentName": "Nicole Malliotakis",
       "incumbentCurrentParty": "R",
       "incumbentStatus": "Incumbent re-elected.",
-      "incumbentRunning": true,
-      "incumbencyEligible": true,
+      "incumbentRunning": false,
+      "incumbencyEligible": false,
       "openSeat": false,
       "candidates": {
         "D": "Michael DeCillis",
-        "R": "Nicole Malliotakis"
+        "R": "No Republican candidate listed"
       },
       "candidateOptions": {
         "D": [
           "Michael DeCillis"
         ],
-        "R": [
-          "Nicole Malliotakis"
-        ]
+        "R": []
       }
     },
     {
@@ -28410,15 +28383,13 @@
       "openSeat": false,
       "candidates": {
         "D": "Micah Lasher",
-        "R": "Caroline Shinkle"
+        "R": "No Republican candidate listed"
       },
       "candidateOptions": {
         "D": [
           "Micah Lasher"
         ],
-        "R": [
-          "Caroline Shinkle"
-        ]
+        "R": []
       }
     },
     {
@@ -28439,16 +28410,12 @@
       "incumbencyEligible": false,
       "openSeat": true,
       "candidates": {
-        "D": "Darializa Avila Chevalier",
-        "R": "Jomo Williams"
+        "D": "No Democratic candidate listed",
+        "R": "No Republican candidate listed"
       },
       "candidateOptions": {
-        "D": [
-          "Darializa Avila Chevalier"
-        ],
-        "R": [
-          "Jomo Williams"
-        ]
+        "D": [],
+        "R": []
       }
     },
     {
@@ -28465,20 +28432,16 @@
       "incumbentName": "Alexandria Ocasio-Cortez",
       "incumbentCurrentParty": "D",
       "incumbentStatus": "Incumbent re-elected.",
-      "incumbentRunning": true,
-      "incumbencyEligible": true,
+      "incumbentRunning": false,
+      "incumbencyEligible": false,
       "openSeat": false,
       "candidates": {
-        "D": "Alexandria Ocasio-Cortez",
-        "R": "Diamant Hysenaj"
+        "D": "No Democratic candidate listed",
+        "R": "No Republican candidate listed"
       },
       "candidateOptions": {
-        "D": [
-          "Alexandria Ocasio-Cortez"
-        ],
-        "R": [
-          "Diamant Hysenaj"
-        ]
+        "D": [],
+        "R": []
       }
     },
     {
@@ -28555,20 +28518,16 @@
       "incumbentName": "Mike Lawler",
       "incumbentCurrentParty": "R",
       "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
-      "incumbentRunning": true,
-      "incumbencyEligible": true,
+      "incumbentRunning": false,
+      "incumbencyEligible": false,
       "openSeat": false,
       "candidates": {
-        "D": "Cait Conley",
-        "R": "Mike Lawler"
+        "D": "No Democratic candidate listed",
+        "R": "No Republican candidate listed"
       },
       "candidateOptions": {
-        "D": [
-          "Cait Conley"
-        ],
-        "R": [
-          "Mike Lawler"
-        ]
+        "D": [],
+        "R": []
       }
     },
     {
@@ -28585,20 +28544,16 @@
       "incumbentName": "Pat Ryan",
       "incumbentCurrentParty": "D",
       "incumbentStatus": "Incumbent re-elected.",
-      "incumbentRunning": true,
-      "incumbencyEligible": true,
+      "incumbentRunning": false,
+      "incumbencyEligible": false,
       "openSeat": false,
       "candidates": {
-        "D": "Pat Ryan",
-        "R": "Jacqueline Auringer"
+        "D": "No Democratic candidate listed",
+        "R": "No Republican candidate listed"
       },
       "candidateOptions": {
-        "D": [
-          "Pat Ryan"
-        ],
-        "R": [
-          "Jacqueline Auringer"
-        ]
+        "D": [],
+        "R": []
       }
     },
     {
@@ -28615,20 +28570,16 @@
       "incumbentName": "Josh Riley",
       "incumbentCurrentParty": "D",
       "incumbentStatus": "Incumbent re-elected.",
-      "incumbentRunning": true,
-      "incumbencyEligible": true,
+      "incumbentRunning": false,
+      "incumbencyEligible": false,
       "openSeat": false,
       "candidates": {
-        "D": "Josh Riley",
-        "R": "Peter Oberacker"
+        "D": "No Democratic candidate listed",
+        "R": "No Republican candidate listed"
       },
       "candidateOptions": {
-        "D": [
-          "Josh Riley"
-        ],
-        "R": [
-          "Peter Oberacker"
-        ]
+        "D": [],
+        "R": []
       }
     },
     {
@@ -28645,20 +28596,16 @@
       "incumbentName": "Paul Tonko",
       "incumbentCurrentParty": "D",
       "incumbentStatus": "Incumbent re-elected.",
-      "incumbentRunning": true,
-      "incumbencyEligible": true,
+      "incumbentRunning": false,
+      "incumbencyEligible": false,
       "openSeat": false,
       "candidates": {
-        "D": "Paul Tonko",
-        "R": "Ralph Ambrosio"
+        "D": "No Democratic candidate listed",
+        "R": "No Republican candidate listed"
       },
       "candidateOptions": {
-        "D": [
-          "Paul Tonko"
-        ],
-        "R": [
-          "Ralph Ambrosio"
-        ]
+        "D": [],
+        "R": []
       }
     },
     {
@@ -28705,20 +28652,16 @@
       "incumbentName": "John Mannion",
       "incumbentCurrentParty": "D",
       "incumbentStatus": "Incumbent re-elected.",
-      "incumbentRunning": true,
-      "incumbencyEligible": true,
+      "incumbentRunning": false,
+      "incumbencyEligible": false,
       "openSeat": false,
       "candidates": {
-        "D": "John Mannion",
-        "R": "Kailee Buller"
+        "D": "No Democratic candidate listed",
+        "R": "No Republican candidate listed"
       },
       "candidateOptions": {
-        "D": [
-          "John Mannion"
-        ],
-        "R": [
-          "Kailee Buller"
-        ]
+        "D": [],
+        "R": []
       }
     },
     {
@@ -28735,20 +28678,16 @@
       "incumbentName": "Nick Langworthy",
       "incumbentCurrentParty": "R",
       "incumbentStatus": "Incumbent re-elected.",
-      "incumbentRunning": true,
-      "incumbencyEligible": true,
+      "incumbentRunning": false,
+      "incumbencyEligible": false,
       "openSeat": false,
       "candidates": {
-        "D": "Aaron Gies",
-        "R": "Nick Langworthy"
+        "D": "No Democratic candidate listed",
+        "R": "No Republican candidate listed"
       },
       "candidateOptions": {
-        "D": [
-          "Aaron Gies"
-        ],
-        "R": [
-          "Nick Langworthy"
-        ]
+        "D": [],
+        "R": []
       }
     },
     {
@@ -28765,20 +28704,16 @@
       "incumbentName": "Claudia Tenney",
       "incumbentCurrentParty": "R",
       "incumbentStatus": "Incumbent re-elected.",
-      "incumbentRunning": true,
-      "incumbencyEligible": true,
+      "incumbentRunning": false,
+      "incumbencyEligible": false,
       "openSeat": false,
       "candidates": {
-        "D": "Alissa Ellman",
-        "R": "Claudia Tenney"
+        "D": "No Democratic candidate listed",
+        "R": "No Republican candidate listed"
       },
       "candidateOptions": {
-        "D": [
-          "Alissa Ellman"
-        ],
-        "R": [
-          "Claudia Tenney"
-        ]
+        "D": [],
+        "R": []
       }
     },
     {
@@ -28795,20 +28730,16 @@
       "incumbentName": "Joseph Morelle",
       "incumbentCurrentParty": "D",
       "incumbentStatus": "Incumbent re-elected.",
-      "incumbentRunning": true,
-      "incumbencyEligible": true,
+      "incumbentRunning": false,
+      "incumbencyEligible": false,
       "openSeat": false,
       "candidates": {
-        "D": "Joseph Morelle",
-        "R": "Virginia McIntyre"
+        "D": "No Democratic candidate listed",
+        "R": "No Republican candidate listed"
       },
       "candidateOptions": {
-        "D": [
-          "Joseph Morelle"
-        ],
-        "R": [
-          "Virginia McIntyre"
-        ]
+        "D": [],
+        "R": []
       }
     },
     {
@@ -28830,15 +28761,13 @@
       "openSeat": false,
       "candidates": {
         "D": "Tim Kennedy",
-        "R": "Dennis Hannon"
+        "R": "No Republican candidate listed"
       },
       "candidateOptions": {
         "D": [
           "Tim Kennedy"
         ],
-        "R": [
-          "Dennis Hannon"
-        ]
+        "R": []
       }
     },
     {
@@ -28974,7 +28903,7 @@
       "repVotes2024": 238304,
       "incumbentName": "Virginia Foxx",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29034,7 +28963,7 @@
       "repVotes2024": 254022,
       "incumbentName": "David Rouzer",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated.",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -30980,7 +30909,7 @@
       "repVotes2024": 219133,
       "incumbentName": "Scott DesJarlais",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain .",
+      "incumbentStatus": "Incumbent renominated.",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
