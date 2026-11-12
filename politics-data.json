@@ -2,7 +2,7 @@
   "meta": {
     "cycle": 2026,
     "electionDate": "2026-11-03",
-    "updatedAt": "2026-11-11",
+    "updatedAt": "2026-11-12",
     "experimental": true,
     "houseBaselineNationalMargin": -2.782,
     "senatePollCoverage": {
@@ -311,11 +311,11 @@
       }
     },
     "houseCandidateCoverage": {
-      "checkedAt": "2026-11-11",
+      "checkedAt": "2026-10-23",
       "districts": 435,
-      "finalizedDemocratic": 397,
-      "finalizedRepublican": 388,
-      "openSeats": 14
+      "finalizedDemocratic": 412,
+      "finalizedRepublican": 411,
+      "openSeats": 76
     },
     "sources": [
       {
@@ -398,14 +398,14 @@
       }
     ],
     "senatePollRefresh": {
-      "checkedAt": "2026-11-11",
+      "checkedAt": "2026-11-12",
       "provider": "PollingSource",
       "reviewed": 0,
       "added": 0,
       "skippedCandidateMismatch": 0
     },
     "pollRefresh": {
-      "checkedAt": "2026-11-11",
+      "checkedAt": "2026-11-12",
       "provider": "VoteHub",
       "added": 73,
       "needsReview": [
@@ -432,11 +432,6 @@
         {
           "id": "us-202dcc0d4b0ded",
           "subject": "2026 WI-01",
-          "reason": "Candidate matchup needs review"
-        },
-        {
-          "id": "us-202emefa6f3e99",
-          "subject": "2026 NY-17",
           "reason": "Candidate matchup needs review"
         },
         {
@@ -551,14 +546,14 @@
       ]
     },
     "housePollCoverage": {
-      "checkedAt": "2026-11-11",
+      "checkedAt": "2026-11-12",
       "provider": "PollingSource, VoteHub, and Decision Labs",
       "polls": 193,
       "districts": 86
     },
     "decisionLabsPollRefresh": {
-      "checkedAt": "2026-11-11",
-      "generatedAt": "2026-11-11T19:27:00.776Z",
+      "checkedAt": "2026-11-12",
+      "generatedAt": "2026-11-12T07:23:09.244Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -20329,10 +20324,10 @@
       "repVotes2024": 258619,
       "incumbentName": null,
       "incumbentCurrentParty": null,
-      "incumbentStatus": "New member elected. Republican gain.",
+      "incumbentStatus": "New representative to be elected",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Clyde Jones Jr.",
         "R": "Jerry Carl"
@@ -20359,7 +20354,7 @@
       "repVotes2024": 131414,
       "incumbentName": "Shomari Figures",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -20389,7 +20384,7 @@
       "repVotes2024": 243848,
       "incumbentName": "Mike Rogers",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -20419,7 +20414,7 @@
       "repVotes2024": 274498,
       "incumbentName": "Robert Aderholt",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -20449,7 +20444,7 @@
       "repVotes2024": 250322,
       "incumbentName": "Dale Strong",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -20479,7 +20474,7 @@
       "repVotes2024": 243741,
       "incumbentName": "Gary Palmer",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -20509,7 +20504,7 @@
       "repVotes2024": 106312,
       "incumbentName": "Terri Sewell",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -20569,10 +20564,10 @@
       "repVotes2024": 225538,
       "incumbentName": "David Schweikert",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired to run for governor . [ 33 ] Democratic gain.",
+      "incumbentStatus": "Incumbent retiring to run for governor [ 29 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Amish Shah",
         "R": "Jay Feely"
@@ -20599,7 +20594,7 @@
       "repVotes2024": 221413,
       "incumbentName": "Eli Crane",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -20629,7 +20624,7 @@
       "repVotes2024": 53705,
       "incumbentName": "Yassamin Ansari",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -20657,7 +20652,7 @@
       "repVotes2024": 152052,
       "incumbentName": "Greg Stanton",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -20687,10 +20682,10 @@
       "repVotes2024": 255628,
       "incumbentName": "Andy Biggs",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired to run for governor . [ 34 ] Republican hold.",
+      "incumbentStatus": "Incumbent retiring to run for governor [ 30 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Elizabeth Lee",
         "R": "Mark Lamb"
@@ -20717,7 +20712,7 @@
       "repVotes2024": 215596,
       "incumbentName": "Juan Ciscomani",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -20747,7 +20742,7 @@
       "repVotes2024": 99057,
       "incumbentName": "Adelita Grijalva",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -20777,7 +20772,7 @@
       "repVotes2024": 208269,
       "incumbentName": "Abraham Hamadeh",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -20807,7 +20802,7 @@
       "repVotes2024": 249583,
       "incumbentName": "Paul Gosar",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -20837,7 +20832,7 @@
       "repVotes2024": 194711,
       "incumbentName": "Rick Crawford",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -20867,7 +20862,7 @@
       "repVotes2024": 180509,
       "incumbentName": "French Hill",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -20897,7 +20892,7 @@
       "repVotes2024": 192101,
       "incumbentName": "Steve Womack",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -20927,7 +20922,7 @@
       "repVotes2024": 197046,
       "incumbentName": "Bruce Westerman",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -20957,7 +20952,7 @@
       "repVotes2024": 208592,
       "incumbentName": "James Gallagher",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -20987,7 +20982,7 @@
       "repVotes2024": 106734,
       "incumbentName": "Jared Huffman",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21017,7 +21012,7 @@
       "repVotes2024": 234246,
       "incumbentName": "Ami Bera",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21047,7 +21042,7 @@
       "repVotes2024": 114950,
       "incumbentName": "Mike Thompson",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent advanced to general.",
+      "incumbentStatus": "Incumbent advanced to general. Democratic hold.",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21076,7 +21071,7 @@
       "repVotes2024": 227643,
       "incumbentName": "Tom McClintock",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21106,7 +21101,7 @@
       "repVotes2024": 121664,
       "incumbentName": "Kevin Kiley",
       "incumbentCurrentParty": null,
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": false,
       "incumbencyEligible": false,
       "openSeat": false,
@@ -21134,7 +21129,7 @@
       "repVotes2024": 98341,
       "incumbentName": "Doris Matsui",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general. Democratic hold.",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21163,7 +21158,7 @@
       "repVotes2024": 71068,
       "incumbentName": "John Garamendi",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21193,7 +21188,7 @@
       "repVotes2024": 121174,
       "incumbentName": "Josh Harder",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21223,7 +21218,7 @@
       "repVotes2024": 122219,
       "incumbentName": "Mark DeSaulnier",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21253,18 +21248,18 @@
       "repVotes2024": 64315,
       "incumbentName": "Nancy Pelosi",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent retired. [ 6 ] Democratic hold.",
+      "incumbentStatus": "Incumbent retiring. [ 2 ] Democratic hold.",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Democratic nominee pending",
         "R": "No Republican candidate listed"
       },
       "candidateOptions": {
         "D": [
-          "Scott Wiener",
-          "Connie Chan"
+          "Connie Chan",
+          "Scott Wiener"
         ],
         "R": []
       }
@@ -21282,7 +21277,7 @@
       "repVotes2024": 0,
       "incumbentName": "Lateefah Simon",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general Democratic hold.",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21292,8 +21287,8 @@
       },
       "candidateOptions": {
         "D": [
-          "Lateefah Simon",
-          "Jamie Joyce"
+          "Jamie Joyce",
+          "Lateefah Simon"
         ],
         "R": []
       }
@@ -21311,7 +21306,7 @@
       "repVotes2024": 105367,
       "incumbentName": "Adam Gray",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21341,7 +21336,7 @@
       "repVotes2024": 89125,
       "incumbentName": "Aisha Wahab",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general. Democratic hold.",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21351,8 +21346,8 @@
       },
       "candidateOptions": {
         "D": [
-          "Aisha Wahab",
-          "Melissa Hernandez"
+          "Melissa Hernandez",
+          "Aisha Wahab"
         ],
         "R": []
       }
@@ -21370,7 +21365,7 @@
       "repVotes2024": 77896,
       "incumbentName": "Kevin Mullin",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21400,7 +21395,7 @@
       "repVotes2024": 0,
       "incumbentName": "Sam Liccardo",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21430,7 +21425,7 @@
       "repVotes2024": 82415,
       "incumbentName": "Ro Khanna",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21460,7 +21455,7 @@
       "repVotes2024": 80832,
       "incumbentName": "Zoe Lofgren",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21490,7 +21485,7 @@
       "repVotes2024": 111862,
       "incumbentName": "Jimmy Panetta",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21520,7 +21515,7 @@
       "repVotes2024": 288788,
       "incumbentName": "Vince Fong",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21550,7 +21545,7 @@
       "repVotes2024": 92733,
       "incumbentName": "Jim Costa",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21580,7 +21575,7 @@
       "repVotes2024": 89484,
       "incumbentName": "David Valadao",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21610,7 +21605,7 @@
       "repVotes2024": 159286,
       "incumbentName": "Jay Obernolte",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent advanced to general.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21640,7 +21635,7 @@
       "repVotes2024": 127755,
       "incumbentName": "Salud Carbajal",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21670,7 +21665,7 @@
       "repVotes2024": 107194,
       "incumbentName": "Raul Ruiz",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21700,10 +21695,10 @@
       "repVotes2024": 146913,
       "incumbentName": "Julia Brownley",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent retired. [ 7 ] Democratic hold.",
+      "incumbentStatus": "Incumbent retiring [ 3 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Jacqui Irwin",
         "R": "Sam Gallucci"
@@ -21730,17 +21725,17 @@
       "repVotes2024": 146050,
       "incumbentName": "George T. Whitesides",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
-      "incumbentRunning": true,
-      "incumbencyEligible": true,
+      "incumbentStatus": "Incumbent advanced to general",
+      "incumbentRunning": false,
+      "incumbencyEligible": false,
       "openSeat": false,
       "candidates": {
-        "D": "George T. Whitesides",
+        "D": "George Whitesides",
         "R": "Jason Gibbs"
       },
       "candidateOptions": {
         "D": [
-          "George T. Whitesides"
+          "George Whitesides"
         ],
         "R": [
           "Jason Gibbs"
@@ -21760,7 +21755,7 @@
       "repVotes2024": 110455,
       "incumbentName": "Judy Chu",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21790,7 +21785,7 @@
       "repVotes2024": 63374,
       "incumbentName": "Luz Rivas",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general. Democratic hold.",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21800,8 +21795,8 @@
       },
       "candidateOptions": {
         "D": [
-          "Luz Rivas",
-          "Angelica Dueñas"
+          "Angelica Dueñas",
+          "Luz Rivas"
         ],
         "R": []
       }
@@ -21819,7 +21814,7 @@
       "repVotes2024": 98559,
       "incumbentName": "Laura Friedman",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21849,7 +21844,7 @@
       "repVotes2024": 99856,
       "incumbentName": "Gil Cisneros",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21879,7 +21874,7 @@
       "repVotes2024": 108711,
       "incumbentName": "Brad Sherman",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21909,7 +21904,7 @@
       "repVotes2024": 96078,
       "incumbentName": "Pete Aguilar",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21939,7 +21934,7 @@
       "repVotes2024": 0,
       "incumbentName": "Jimmy Gomez",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent lost re-election. Democratic hold.",
+      "incumbentStatus": "Incumbent advanced to general. Democratic hold.",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21949,8 +21944,8 @@
       },
       "candidateOptions": {
         "D": [
-          "Angela Gonzales-Torres",
-          "Jimmy Gomez"
+          "Jimmy Gomez",
+          "Angela Gonzales-Torres"
         ],
         "R": []
       }
@@ -21968,7 +21963,7 @@
       "repVotes2024": 97142,
       "incumbentName": "Norma Torres",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -21998,7 +21993,7 @@
       "repVotes2024": 111985,
       "incumbentName": "Ted Lieu",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -22028,7 +22023,7 @@
       "repVotes2024": 0,
       "incumbentName": "Sydney Kamlager-Dove",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general. Democratic hold.",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -22057,10 +22052,10 @@
       "repVotes2024": 110818,
       "incumbentName": null,
       "incumbentCurrentParty": null,
-      "incumbentStatus": "New member elected. Democratic gain.",
+      "incumbentStatus": "New representative to be elected",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Hilda Solis",
         "R": "Pedro Casas"
@@ -22087,7 +22082,7 @@
       "repVotes2024": 99469,
       "incumbentName": "Mark Takano",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -22117,7 +22112,7 @@
       "repVotes2024": 211998,
       "incumbentName": "Young Kim",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Republican loss.",
+      "incumbentStatus": "Incumbent advanced to general. Republican hold.",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -22146,7 +22141,7 @@
       "repVotes2024": 183216,
       "incumbentName": "Linda Sánchez",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -22176,7 +22171,7 @@
       "repVotes2024": 74410,
       "incumbentName": "Robert Garcia",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -22206,7 +22201,7 @@
       "repVotes2024": 53152,
       "incumbentName": "Maxine Waters",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -22236,7 +22231,7 @@
       "repVotes2024": 66087,
       "incumbentName": "Nanette Barragán",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -22266,7 +22261,7 @@
       "repVotes2024": 157611,
       "incumbentName": "Derek Tran",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -22296,7 +22291,7 @@
       "repVotes2024": 77279,
       "incumbentName": "Lou Correa",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -22326,7 +22321,7 @@
       "repVotes2024": 171554,
       "incumbentName": "Dave Min",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -22356,10 +22351,10 @@
       "repVotes2024": 213625,
       "incumbentName": "Darrell Issa",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired. [ 35 ] Democratic gain.",
+      "incumbentStatus": "Incumbent retiring [ 31 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Marni von Wilpert",
         "R": "Jim Desmond"
@@ -22386,7 +22381,7 @@
       "repVotes2024": 180950,
       "incumbentName": "Mike Levin",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -22416,7 +22411,7 @@
       "repVotes2024": 128859,
       "incumbentName": "Scott Peters",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -22446,7 +22441,7 @@
       "repVotes2024": 128749,
       "incumbentName": "Sara Jacobs",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -22476,7 +22471,7 @@
       "repVotes2024": 87501,
       "incumbentName": "Juan Vargas",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -22506,7 +22501,7 @@
       "repVotes2024": 74598,
       "incumbentName": "Diana DeGette",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent lost renomination. Democratic hold.",
+      "incumbentStatus": "Incumbent lost renomination",
       "incumbentRunning": false,
       "incumbencyEligible": false,
       "openSeat": true,
@@ -22536,7 +22531,7 @@
       "repVotes2024": 120633,
       "incumbentName": "Joe Neguse",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -22566,7 +22561,7 @@
       "repVotes2024": 201951,
       "incumbentName": "Jeff Hurd",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -22596,7 +22591,7 @@
       "repVotes2024": 240213,
       "incumbentName": "Lauren Boebert",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -22626,7 +22621,7 @@
       "repVotes2024": 197924,
       "incumbentName": "Jeff Crank",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -22656,7 +22651,7 @@
       "repVotes2024": 132174,
       "incumbentName": "Jason Crow",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -22686,7 +22681,7 @@
       "repVotes2024": 175273,
       "incumbentName": "Brittany Pettersen",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -22716,7 +22711,7 @@
       "repVotes2024": 163320,
       "incumbentName": "Gabe Evans",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -22746,7 +22741,7 @@
       "repVotes2024": 115065,
       "incumbentName": "John B. Larson",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent lost renomination. Democratic hold.",
+      "incumbentStatus": "Incumbent lost renomination",
       "incumbentRunning": false,
       "incumbencyEligible": false,
       "openSeat": true,
@@ -22776,19 +22771,21 @@
       "repVotes2024": 157878,
       "incumbentName": "Joe Courtney",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
       "candidates": {
         "D": "Joe Courtney",
-        "R": "No Republican candidate listed"
+        "R": "George Austin"
       },
       "candidateOptions": {
         "D": [
           "Joe Courtney"
         ],
-        "R": []
+        "R": [
+          "George Austin"
+        ]
       }
     },
     {
@@ -22804,7 +22801,7 @@
       "repVotes2024": 130095,
       "incumbentName": "Rosa DeLauro",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -22834,7 +22831,7 @@
       "repVotes2024": 122793,
       "incumbentName": "Jim Himes",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -22864,16 +22861,18 @@
       "repVotes2024": 157258,
       "incumbentName": "Jahana Hayes",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
-      "incumbentRunning": false,
-      "incumbencyEligible": false,
+      "incumbentStatus": "Incumbent renominated",
+      "incumbentRunning": true,
+      "incumbencyEligible": true,
       "openSeat": false,
       "candidates": {
-        "D": "No Democratic candidate listed",
+        "D": "Jahana Hayes",
         "R": "Chris Shea"
       },
       "candidateOptions": {
-        "D": [],
+        "D": [
+          "Jahana Hayes"
+        ],
         "R": [
           "Chris Shea"
         ]
@@ -22892,7 +22891,7 @@
       "repVotes2024": 209606,
       "incumbentName": "Sarah McBride",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -22922,7 +22921,7 @@
       "repVotes2024": 274108,
       "incumbentName": "Jimmy Patronis",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -22952,10 +22951,10 @@
       "repVotes2024": 247957,
       "incumbentName": "Neal Dunn",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired. [ 36 ] Republican hold.",
+      "incumbentStatus": "Incumbent retiring [ 32 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Amanda Green",
         "R": "Austin Rogers"
@@ -22982,7 +22981,7 @@
       "repVotes2024": 241174,
       "incumbentName": "Kat Cammack",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -23012,7 +23011,7 @@
       "repVotes2024": 222364,
       "incumbentName": "Aaron Bean",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -23042,7 +23041,7 @@
       "repVotes2024": 267471,
       "incumbentName": "John Rutherford",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -23072,7 +23071,7 @@
       "repVotes2024": 284414,
       "incumbentName": "Randy Fine",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -23102,7 +23101,7 @@
       "repVotes2024": 233937,
       "incumbentName": "Cory Mills",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost renomination. [ 81 ] Republican hold.",
+      "incumbentStatus": "Incumbent lost renomination [ 77 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
       "openSeat": true,
@@ -23132,7 +23131,7 @@
       "repVotes2024": 280352,
       "incumbentName": "Mike Haridopolos",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -23162,7 +23161,7 @@
       "repVotes2024": 138076,
       "incumbentName": "Darren Soto",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -23192,7 +23191,7 @@
       "repVotes2024": 109460,
       "incumbentName": "Maxwell Frost",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent re-elected",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -23220,10 +23219,10 @@
       "repVotes2024": 269277,
       "incumbentName": "Daniel Webster",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired. [ 37 ] Republican hold.",
+      "incumbentStatus": "Incumbent retiring [ 33 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "James Pericola",
         "R": "Joe Strada"
@@ -23250,7 +23249,7 @@
       "repVotes2024": 306487,
       "incumbentName": "Gus Bilirakis",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -23280,7 +23279,7 @@
       "repVotes2024": 225636,
       "incumbentName": "Anna Paulina Luna",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -23310,7 +23309,7 @@
       "repVotes2024": 145643,
       "incumbentName": "Kathy Castor",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -23340,7 +23339,7 @@
       "repVotes2024": 195334,
       "incumbentName": "Laurel Lee",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -23370,10 +23369,10 @@
       "repVotes2024": 247516,
       "incumbentName": "Vern Buchanan",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired. [ 38 ] Republican hold.",
+      "incumbentStatus": "Incumbent retiring [ 34 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Kelly Kirschner",
         "R": "Sydney Gruters"
@@ -23400,7 +23399,7 @@
       "repVotes2024": 291347,
       "incumbentName": "Greg Steube",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -23430,7 +23429,7 @@
       "repVotes2024": 225170,
       "incumbentName": "Scott Franklin",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -23460,10 +23459,10 @@
       "repVotes2024": 275708,
       "incumbentName": "Byron Donalds",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired to run for governor . [ 39 ] Republican hold.",
+      "incumbentStatus": "Incumbent retiring to run for governor [ 35 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Victor Arias",
         "R": "Jim Schwartzel"
@@ -23520,7 +23519,7 @@
       "repVotes2024": 277435,
       "incumbentName": "Brian Mast",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -23550,10 +23549,10 @@
       "repVotes2024": 165248,
       "incumbentName": null,
       "incumbentCurrentParty": null,
-      "incumbentStatus": "New member elected. Democratic gain.",
+      "incumbentStatus": "New representative to be elected",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Pia Dandiya",
         "R": "Casey Askar"
@@ -23580,7 +23579,7 @@
       "repVotes2024": 178006,
       "incumbentName": "Lois Frankel",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -23610,10 +23609,10 @@
       "repVotes2024": 90692,
       "incumbentName": "Frederica Wilson",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent retired. [ 9 ] Democratic hold.",
+      "incumbentStatus": "Incumbent retiring [ 5 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Oliver Gilbert",
         "R": "Te Mayonna Brown"
@@ -23640,7 +23639,7 @@
       "repVotes2024": 156208,
       "incumbentName": "Jared Moskowitz",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -23670,7 +23669,7 @@
       "repVotes2024": 217199,
       "incumbentName": "Mario Díaz-Balart",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -23700,7 +23699,7 @@
       "repVotes2024": 199159,
       "incumbentName": "María Elvira Salazar",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -23730,20 +23729,20 @@
       "repVotes2024": 210057,
       "incumbentName": "Carlos A. Giménez",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
-      "incumbentRunning": true,
-      "incumbencyEligible": true,
+      "incumbentStatus": "Incumbent renominated",
+      "incumbentRunning": false,
+      "incumbencyEligible": false,
       "openSeat": false,
       "candidates": {
         "D": "Phil Ehr",
-        "R": "Carlos A. Giménez"
+        "R": "Carlos Giménez"
       },
       "candidateOptions": {
         "D": [
           "Phil Ehr"
         ],
         "R": [
-          "Carlos A. Giménez"
+          "Carlos Giménez"
         ]
       }
     },
@@ -23760,10 +23759,10 @@
       "repVotes2024": 220576,
       "incumbentName": "Buddy Carter",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired to run for U.S. Senate . [ 40 ] Republican hold.",
+      "incumbentStatus": "Incumbent retiring to run for U.S. Senate [ 36 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Amanda Hollowell",
         "R": "Jim Kingston"
@@ -23790,7 +23789,7 @@
       "repVotes2024": 136473,
       "incumbentName": "Sanford Bishop",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -23820,7 +23819,7 @@
       "repVotes2024": 273036,
       "incumbentName": "Brian Jack",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -23850,7 +23849,7 @@
       "repVotes2024": 74071,
       "incumbentName": "Hank Johnson",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -23880,7 +23879,7 @@
       "repVotes2024": 49221,
       "incumbentName": "Nikema Williams",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -23910,7 +23909,7 @@
       "repVotes2024": 93909,
       "incumbentName": "Lucy McBath",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -23940,7 +23939,7 @@
       "repVotes2024": 275907,
       "incumbentName": "Rich McCormick",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -23970,7 +23969,7 @@
       "repVotes2024": 231547,
       "incumbentName": "Austin Scott",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -24000,7 +23999,7 @@
       "repVotes2024": 271062,
       "incumbentName": "Andrew Clyde",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -24030,10 +24029,10 @@
       "repVotes2024": 256442,
       "incumbentName": "Mike Collins",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired to run for U.S. Senate . [ 41 ] Republican hold.",
+      "incumbentStatus": "Incumbent retiring to run for U.S. Senate [ 37 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Pam Delancy",
         "R": "Houston Gaines"
@@ -24060,10 +24059,10 @@
       "repVotes2024": 269849,
       "incumbentName": "Barry Loudermilk",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired. [ 42 ] Republican hold.",
+      "incumbentStatus": "Incumbent retiring [ 38 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Chris Harden",
         "R": "John Cowan"
@@ -24090,7 +24089,7 @@
       "repVotes2024": 205849,
       "incumbentName": "Rick Allen",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -24120,7 +24119,7 @@
       "repVotes2024": 100730,
       "incumbentName": "Everton Blair",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent lost nomination for full term; later elected to complete unexpired term. [ 203 ] Democratic hold.",
+      "incumbentStatus": "Blair lost the initial nomination for the full term; later elected to complete David Scott 's unexpired term. [ 194 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
       "openSeat": false,
@@ -24150,7 +24149,7 @@
       "repVotes2024": 243446,
       "incumbentName": "Clay Fuller",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -24180,7 +24179,7 @@
       "repVotes2024": 64373,
       "incumbentName": "Ed Case",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -24210,7 +24209,7 @@
       "repVotes2024": 75471,
       "incumbentName": "Jill Tokuda",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -24240,7 +24239,7 @@
       "repVotes2024": 331049,
       "incumbentName": "Russ Fulcher",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -24270,7 +24269,7 @@
       "repVotes2024": 250119,
       "incumbentName": "Mike Simpson",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -24300,7 +24299,7 @@
       "repVotes2024": 108064,
       "incumbentName": "Jonathan Jackson",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -24330,10 +24329,10 @@
       "repVotes2024": 94004,
       "incumbentName": "Robin Kelly",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent retired to run for U.S. Senate . [ 11 ] Democratic hold.",
+      "incumbentStatus": "Incumbent retiring to run for U.S. Senate [ 7 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Donna Miller",
         "R": "Michael Noack"
@@ -24360,7 +24359,7 @@
       "repVotes2024": 84987,
       "incumbentName": "Delia Ramirez",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -24390,17 +24389,17 @@
       "repVotes2024": 56323,
       "incumbentName": "Chuy García",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent retired. [ 12 ] Democratic hold.",
+      "incumbentStatus": "Incumbent retiring [ 8 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
-        "D": "Patty García",
+        "D": "Patty Garcia",
         "R": "Lupe Castillo"
       },
       "candidateOptions": {
         "D": [
-          "Patty García"
+          "Patty Garcia"
         ],
         "R": [
           "Lupe Castillo"
@@ -24420,7 +24419,7 @@
       "repVotes2024": 112931,
       "incumbentName": "Mike Quigley",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -24450,7 +24449,7 @@
       "repVotes2024": 166116,
       "incumbentName": "Sean Casten",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -24480,10 +24479,10 @@
       "repVotes2024": 44598,
       "incumbentName": "Danny Davis",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent retired. [ 13 ] Democratic hold.",
+      "incumbentStatus": "Incumbent retiring [ 9 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "La Shawn Ford",
         "R": "Chad Koppie"
@@ -24510,10 +24509,10 @@
       "repVotes2024": 130153,
       "incumbentName": "Raja Krishnamoorthi",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent retired to run for U.S. Senate . [ 14 ] Democratic hold.",
+      "incumbentStatus": "Incumbent retiring to run for U.S. Senate [ 10 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Melissa Bean",
         "R": "Jennifer Davis"
@@ -24540,10 +24539,10 @@
       "repVotes2024": 107106,
       "incumbentName": "Jan Schakowsky",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent retired. [ 15 ] Democratic hold.",
+      "incumbentStatus": "Incumbent retiring [ 11 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Daniel Biss",
         "R": "John Elleson"
@@ -24570,7 +24569,7 @@
       "repVotes2024": 131025,
       "incumbentName": "Brad Schneider",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -24600,7 +24599,7 @@
       "repVotes2024": 159630,
       "incumbentName": "Bill Foster",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -24630,7 +24629,7 @@
       "repVotes2024": 272754,
       "incumbentName": "Mike Bost",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -24660,7 +24659,7 @@
       "repVotes2024": 137917,
       "incumbentName": "Nikki Budzinski",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -24690,7 +24689,7 @@
       "repVotes2024": 149464,
       "incumbentName": "Lauren Underwood",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -24720,7 +24719,7 @@
       "repVotes2024": 308825,
       "incumbentName": "Mary Miller",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -24750,7 +24749,7 @@
       "repVotes2024": 310925,
       "incumbentName": "Darin LaHood",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -24780,7 +24779,7 @@
       "repVotes2024": 142567,
       "incumbentName": "Eric Sorensen",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -24810,17 +24809,17 @@
       "repVotes2024": 145056,
       "incumbentName": "Frank J. Mrvan",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
-      "incumbentRunning": true,
-      "incumbencyEligible": true,
+      "incumbentStatus": "Incumbent renominated",
+      "incumbentRunning": false,
+      "incumbencyEligible": false,
       "openSeat": false,
       "candidates": {
-        "D": "Frank J. Mrvan",
+        "D": "Frank Mrvan",
         "R": "Barb Regnitz"
       },
       "candidateOptions": {
         "D": [
-          "Frank J. Mrvan"
+          "Frank Mrvan"
         ],
         "R": [
           "Barb Regnitz"
@@ -24840,7 +24839,7 @@
       "repVotes2024": 184848,
       "incumbentName": "Rudy Yakym",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -24870,7 +24869,7 @@
       "repVotes2024": 202653,
       "incumbentName": "Marlin Stutzman",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -24900,7 +24899,7 @@
       "repVotes2024": 209794,
       "incumbentName": "Jim Baird",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -24930,7 +24929,7 @@
       "repVotes2024": 203293,
       "incumbentName": "Victoria Spartz",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -24960,7 +24959,7 @@
       "repVotes2024": 201357,
       "incumbentName": "Jefferson Shreve",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -24990,7 +24989,7 @@
       "repVotes2024": 78792,
       "incumbentName": "André Carson",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -25020,7 +25019,7 @@
       "repVotes2024": 219941,
       "incumbentName": "Mark Messmer",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -25050,7 +25049,7 @@
       "repVotes2024": 222884,
       "incumbentName": "Erin Houchin",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -25080,7 +25079,7 @@
       "repVotes2024": 206955,
       "incumbentName": "Mariannette Miller-Meeks",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -25110,10 +25109,10 @@
       "repVotes2024": 233340,
       "incumbentName": "Ashley Hinson",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired to run for U.S. Senate . [ 43 ] Democratic gain.",
+      "incumbentStatus": "Incumbent retiring to run for U.S. Senate [ 39 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Lindsay James",
         "R": "Joe Mitchell"
@@ -25140,7 +25139,7 @@
       "repVotes2024": 213746,
       "incumbentName": "Zach Nunn",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -25170,10 +25169,10 @@
       "repVotes2024": 250522,
       "incumbentName": "Randy Feenstra",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired to run for governor . [ 44 ] Republican hold.",
+      "incumbentStatus": "Incumbent retiring to run for governor [ 40 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "David Dawson",
         "R": "Chris McGowan"
@@ -25200,7 +25199,7 @@
       "repVotes2024": 210493,
       "incumbentName": "Tracey Mann",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -25230,7 +25229,7 @@
       "repVotes2024": 172847,
       "incumbentName": "Derek Schmidt",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -25260,7 +25259,7 @@
       "repVotes2024": 167570,
       "incumbentName": "Sharice Davids",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -25290,7 +25289,7 @@
       "repVotes2024": 198465,
       "incumbentName": "Ron Estes",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -25320,7 +25319,7 @@
       "repVotes2024": 252729,
       "incumbentName": "James Comer",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -25350,7 +25349,7 @@
       "repVotes2024": 252826,
       "incumbentName": "Brett Guthrie",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -25380,7 +25379,7 @@
       "repVotes2024": 124713,
       "incumbentName": "Morgan McGarvey",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -25410,7 +25409,7 @@
       "repVotes2024": 278386,
       "incumbentName": "Thomas Massie",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost renomination. [ 82 ] Republican hold.",
+      "incumbentStatus": "Incumbent lost renomination [ 78 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
       "openSeat": true,
@@ -25440,7 +25439,7 @@
       "repVotes2024": 261407,
       "incumbentName": "Hal Rogers",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -25470,10 +25469,10 @@
       "repVotes2024": 222293,
       "incumbentName": "Andy Barr",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired to run for U.S. Senate . [ 45 ] Democratic gain.",
+      "incumbentStatus": "Incumbent retiring to run for U.S. Senate [ 41 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Zach Dembo",
         "R": "Ralph Alvarado"
@@ -25500,7 +25499,7 @@
       "repVotes2024": 265028,
       "incumbentName": "Steve Scalise",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent running",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -25513,8 +25512,8 @@
           "Lauren Jewett"
         ],
         "R": [
-          "Steve Scalise",
-          "Randall Arrington"
+          "Randall Arrington",
+          "Steve Scalise"
         ]
       }
     },
@@ -25531,7 +25530,7 @@
       "repVotes2024": 88693,
       "incumbentName": "Troy Carter",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent running",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -25562,7 +25561,7 @@
       "repVotes2024": 239525,
       "incumbentName": "Clay Higgins",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent running",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -25573,13 +25572,13 @@
       "candidateOptions": {
         "D": [
           "John Day",
-          "Caleb Walker",
           "Priscilla Gonzalez",
-          "Tia LeBrun"
+          "Tia LeBrun",
+          "Caleb Walker"
         ],
         "R": [
-          "Clay Higgins",
-          "Kate Cotten"
+          "Kate Cotten",
+          "Clay Higgins"
         ]
       }
     },
@@ -25596,7 +25595,7 @@
       "repVotes2024": 306248,
       "incumbentName": "Mike Johnson",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent running",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -25610,9 +25609,9 @@
           "Matt Gromlich"
         ],
         "R": [
+          "Gordon Heslop",
           "Mike Johnson",
-          "Mike Nichols",
-          "Gordon Heslop"
+          "Mike Nichols"
         ]
       }
     },
@@ -25629,27 +25628,27 @@
       "repVotes2024": 236870,
       "incumbentName": "Julia Letlow",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired to run for U.S. Senate . [ 46 ]",
+      "incumbentStatus": "Incumbent retiring to run for U.S. Senate [ 42 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Democratic nominee pending",
         "R": "Republican nominee pending"
       },
       "candidateOptions": {
         "D": [
+          "Dan McKay",
           "Patricia Moore",
-          "Antonio Wilson",
-          "Dan McKay"
+          "Antonio Wilson"
         ],
         "R": [
-          "Gabe Firment",
-          "Misti Cordell",
-          "Michael Echols",
           "Stewart Cathey Jr.",
-          "Austin Magee",
-          "Omar Dantzler"
+          "Misti Cordell",
+          "Omar Dantzler",
+          "Michael Echols",
+          "Gabe Firment",
+          "Austin Magee"
         ]
       }
     },
@@ -25666,27 +25665,27 @@
       "repVotes2024": 111737,
       "incumbentName": "Cleo Fields",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent retired to run for Louisiana State Senate . [ 16 ]",
+      "incumbentStatus": "Incumbent retiring to run for Louisiana State Senate [ 12 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Democratic nominee pending",
         "R": "Republican nominee pending"
       },
       "candidateOptions": {
         "D": [
-          "Chauna Banks",
-          "Lindsay Garcia",
-          "Pat Forbes"
+          "Pat Forbes",
+          "Lindsay Garcia"
         ],
         "R": [
-          "Blake Miguez",
-          "Rick Edmonds",
-          "Stephen Wagley",
-          "Larry Davis",
           "Monique Appeaning",
-          "Michael Mebruer"
+          "Larry Davis",
+          "Rick Edmonds",
+          "Chris Johnson",
+          "Michael Mebruer",
+          "Blake Miguez",
+          "Stephen Wagley"
         ]
       }
     },
@@ -25703,7 +25702,7 @@
       "repVotes2024": 154849,
       "incumbentName": "Chellie Pingree",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -25733,10 +25732,10 @@
       "repVotes2024": 194445,
       "incumbentName": "Jared Golden",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent retired. Republican gain.",
+      "incumbentStatus": "Incumbent retiring [ 13 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Matthew Dunlap",
         "R": "Paul LePage"
@@ -25763,7 +25762,7 @@
       "repVotes2024": 246356,
       "incumbentName": "Andy Harris",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -25793,7 +25792,7 @@
       "repVotes2024": 152079,
       "incumbentName": "Johnny Olszewski",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -25823,7 +25822,7 @@
       "repVotes2024": 151186,
       "incumbentName": "Sarah Elfreth",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -25853,7 +25852,7 @@
       "repVotes2024": 30454,
       "incumbentName": "Glenn Ivey",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -25883,7 +25882,7 @@
       "repVotes2024": 133985,
       "incumbentName": "Steny Hoyer",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent retiring [ 18 ] Democratic hold.",
+      "incumbentStatus": "Incumbent retiring [ 14 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
       "openSeat": true,
@@ -25913,7 +25912,7 @@
       "repVotes2024": 175974,
       "incumbentName": "April McClain Delaney",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -25943,7 +25942,7 @@
       "repVotes2024": 49799,
       "incumbentName": "Kweisi Mfume",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -25973,7 +25972,7 @@
       "repVotes2024": 77821,
       "incumbentName": "Jamie Raskin",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -26003,7 +26002,7 @@
       "repVotes2024": 0,
       "incumbentName": "Richard Neal",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -26031,7 +26030,7 @@
       "repVotes2024": 0,
       "incumbentName": "Jim McGovern",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent re-elected",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -26059,7 +26058,7 @@
       "repVotes2024": 0,
       "incumbentName": "Lori Trahan",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -26089,7 +26088,7 @@
       "repVotes2024": 0,
       "incumbentName": "Jake Auchincloss",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -26119,7 +26118,7 @@
       "repVotes2024": 0,
       "incumbentName": "Katherine Clark",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent re-elected",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -26147,10 +26146,10 @@
       "repVotes2024": 0,
       "incumbentName": "Seth Moulton",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent retired to run for U.S. Senate . [ 19 ] Democratic hold.",
+      "incumbentStatus": "Incumbent retiring to run for U.S. Senate [ 15 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Dan Koh",
         "R": "Micah Jones"
@@ -26177,7 +26176,7 @@
       "repVotes2024": 0,
       "incumbentName": "Ayanna Pressley",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent re-elected",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -26205,7 +26204,7 @@
       "repVotes2024": 110638,
       "incumbentName": "Stephen Lynch",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -26235,7 +26234,7 @@
       "repVotes2024": 193822,
       "incumbentName": "Bill Keating",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -26265,7 +26264,7 @@
       "repVotes2024": 282264,
       "incumbentName": "Jack Bergman",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -26295,7 +26294,7 @@
       "repVotes2024": 279167,
       "incumbentName": "John Moolenaar",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -26325,7 +26324,7 @@
       "repVotes2024": 183952,
       "incumbentName": "Hillary Scholten",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -26355,7 +26354,7 @@
       "repVotes2024": 234489,
       "incumbentName": "Bill Huizenga",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -26385,7 +26384,7 @@
       "repVotes2024": 269215,
       "incumbentName": "Tim Walberg",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -26415,7 +26414,7 @@
       "repVotes2024": 158658,
       "incumbentName": "Debbie Dingell",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -26445,7 +26444,7 @@
       "repVotes2024": 226722,
       "incumbentName": "Tom Barrett",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -26475,7 +26474,7 @@
       "repVotes2024": 189317,
       "incumbentName": "Kristen McDonald Rivet",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -26505,7 +26504,7 @@
       "repVotes2024": 312593,
       "incumbentName": "Lisa McClain",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -26535,10 +26534,10 @@
       "repVotes2024": 217437,
       "incumbentName": "John James",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired to run for governor . [ 47 ] Democratic gain .",
+      "incumbentStatus": "Incumbent retiring to run for governor [ 43 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Christina Hines",
         "R": "Mike Bouchard Jr."
@@ -26565,7 +26564,7 @@
       "repVotes2024": 177432,
       "incumbentName": "Haley Stevens",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent retiring to run for U.S. Senate . [ 20 ] Democratic hold.",
+      "incumbentStatus": "Incumbent retiring to run for U.S. Senate [ 16 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
       "openSeat": true,
@@ -26595,7 +26594,7 @@
       "repVotes2024": 92490,
       "incumbentName": "Rashida Tlaib",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -26625,7 +26624,7 @@
       "repVotes2024": 78917,
       "incumbentName": "Shri Thanedar",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent lost renomination. Democratic hold.",
+      "incumbentStatus": "Incumbent lost renomination",
       "incumbentRunning": false,
       "incumbencyEligible": false,
       "openSeat": true,
@@ -26655,7 +26654,7 @@
       "repVotes2024": 220929,
       "incumbentName": "Brad Finstad",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent renominated.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -26683,7 +26682,7 @@
       "repVotes2024": 175621,
       "incumbentName": "Angie Craig",
       "incumbentCurrentParty": null,
-      "incumbentStatus": "Incumbent retiring to run for U.S. Senate . [ 21 ] DFL hold.",
+      "incumbentStatus": "Incumbent retiring to run for U.S. Senate [ 17 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
       "openSeat": true,
@@ -26711,7 +26710,7 @@
       "repVotes2024": 170427,
       "incumbentName": "Kelly Morrison",
       "incumbentCurrentParty": null,
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": false,
       "incumbencyEligible": false,
       "openSeat": false,
@@ -26739,7 +26738,7 @@
       "repVotes2024": 117618,
       "incumbentName": "Betty McCollum",
       "incumbentCurrentParty": null,
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": false,
       "incumbencyEligible": false,
       "openSeat": false,
@@ -26767,7 +26766,7 @@
       "repVotes2024": 86213,
       "incumbentName": "Ilhan Omar",
       "incumbentCurrentParty": null,
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": false,
       "incumbencyEligible": false,
       "openSeat": false,
@@ -26795,7 +26794,7 @@
       "repVotes2024": 260095,
       "incumbentName": "Tom Emmer",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -26823,7 +26822,7 @@
       "repVotes2024": 275098,
       "incumbentName": "Michelle Fischbach",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -26851,7 +26850,7 @@
       "repVotes2024": 244498,
       "incumbentName": "Pete Stauber",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -26879,7 +26878,7 @@
       "repVotes2024": 223589,
       "incumbentName": "Trent Kelly",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -26909,7 +26908,7 @@
       "repVotes2024": 108956,
       "incumbentName": "Bennie Thompson",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -26939,7 +26938,7 @@
       "repVotes2024": 265159,
       "incumbentName": "Michael Guest",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -26969,7 +26968,7 @@
       "repVotes2024": 215095,
       "incumbentName": "Mike Ezell",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -26999,7 +26998,7 @@
       "repVotes2024": 56453,
       "incumbentName": "Wesley Bell",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -27029,7 +27028,7 @@
       "repVotes2024": 233444,
       "incumbentName": "Ann Wagner",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -27059,7 +27058,7 @@
       "repVotes2024": 240620,
       "incumbentName": "Bob Onder",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -27089,7 +27088,7 @@
       "repVotes2024": 259886,
       "incumbentName": "Mark Alford",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -27119,7 +27118,7 @@
       "repVotes2024": 120957,
       "incumbentName": "Emanuel Cleaver",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -27149,10 +27148,10 @@
       "repVotes2024": 265210,
       "incumbentName": "Sam Graves",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired. [ 48 ] Republican hold.",
+      "incumbentStatus": "Incumbent retiring [ 44 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Josh Smead",
         "R": "Chris Stigall"
@@ -27179,7 +27178,7 @@
       "repVotes2024": 263231,
       "incumbentName": "Eric Burlison",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -27209,7 +27208,7 @@
       "repVotes2024": 271249,
       "incumbentName": "Jason Smith",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -27239,10 +27238,10 @@
       "repVotes2024": 168529,
       "incumbentName": "Ryan Zinke",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired. Democratic gain .",
+      "incumbentStatus": "Incumbent retiring [ 45 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Sam Forstag",
         "R": "Aaron Flint"
@@ -27269,7 +27268,7 @@
       "repVotes2024": 181832,
       "incumbentName": "Troy Downing",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -27299,7 +27298,7 @@
       "repVotes2024": 187559,
       "incumbentName": "Mike Flood",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -27329,10 +27328,10 @@
       "repVotes2024": 160198,
       "incumbentName": "Don Bacon",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired. [ 50 ] Democratic gain.",
+      "incumbentStatus": "Incumbent retiring [ 46 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Denise Powell",
         "R": "Brinker Harding"
@@ -27359,7 +27358,7 @@
       "repVotes2024": 243481,
       "incumbentName": "Adrian Smith",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -27389,7 +27388,7 @@
       "repVotes2024": 143650,
       "incumbentName": "Dina Titus",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -27419,10 +27418,10 @@
       "repVotes2024": 219919,
       "incumbentName": "Mark Amodei",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired. [ 51 ] Democratic gain.",
+      "incumbentStatus": "Incumbent retiring [ 47 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Teresa Benitez-Thompson",
         "R": "David Flippo"
@@ -27449,7 +27448,7 @@
       "repVotes2024": 181084,
       "incumbentName": "Susie Lee",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -27479,7 +27478,7 @@
       "repVotes2024": 148061,
       "incumbentName": "Steven Horsford",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -27509,10 +27508,10 @@
       "repVotes2024": 185936,
       "incumbentName": "Chris Pappas",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent retired to run for U.S. Senate . [ 22 ] Democratic hold.",
+      "incumbentStatus": "Incumbent retiring to run for U.S. Senate [ 18 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Stefany Shaheen",
         "R": "Anthony DiLorenzo"
@@ -27539,7 +27538,7 @@
       "repVotes2024": 187810,
       "incumbentName": "Maggie Goodlander",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -27569,7 +27568,7 @@
       "repVotes2024": 144390,
       "incumbentName": "Donald Norcross",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -27599,7 +27598,7 @@
       "repVotes2024": 215946,
       "incumbentName": "Jeff Van Drew",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -27629,7 +27628,7 @@
       "repVotes2024": 169454,
       "incumbentName": "Herb Conaway",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -27659,7 +27658,7 @@
       "repVotes2024": 265652,
       "incumbentName": "Chris Smith",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -27689,7 +27688,7 @@
       "repVotes2024": 165287,
       "incumbentName": "Josh Gottheimer",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -27719,7 +27718,7 @@
       "repVotes2024": 122519,
       "incumbentName": "Frank Pallone",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -27749,7 +27748,7 @@
       "repVotes2024": 223331,
       "incumbentName": "Thomas Kean Jr.",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -27779,7 +27778,7 @@
       "repVotes2024": 68152,
       "incumbentName": "Rob Menendez",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -27807,7 +27806,7 @@
       "repVotes2024": 117939,
       "incumbentName": "Nellie Pou",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -27837,7 +27836,7 @@
       "repVotes2024": 54405,
       "incumbentName": "LaMonica McIver",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -27867,7 +27866,7 @@
       "repVotes2024": 164556,
       "incumbentName": "Analilia Mejia",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -27897,10 +27896,10 @@
       "repVotes2024": 117222,
       "incumbentName": "Bonnie Watson Coleman",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent retired. [ 23 ] Democratic hold.",
+      "incumbentStatus": "Incumbent retiring [ 19 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Adam Hamawy",
         "R": "Gregg Mele"
@@ -27927,7 +27926,7 @@
       "repVotes2024": 149546,
       "incumbentName": "Melanie Stansbury",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -27957,7 +27956,7 @@
       "repVotes2024": 127145,
       "incumbentName": "Gabe Vasquez",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -27987,7 +27986,7 @@
       "repVotes2024": 126085,
       "incumbentName": "Teresa Leger Fernandez",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": false,
       "incumbencyEligible": false,
       "openSeat": false,
@@ -28017,17 +28016,21 @@
       "repVotes2024": 200802,
       "incumbentName": "Nick LaLota",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
-      "incumbentRunning": false,
-      "incumbencyEligible": false,
+      "incumbentStatus": "Incumbent renominated",
+      "incumbentRunning": true,
+      "incumbencyEligible": true,
       "openSeat": false,
       "candidates": {
-        "D": "No Democratic candidate listed",
-        "R": "No Republican candidate listed"
+        "D": "Chris Gallant",
+        "R": "Nick LaLota"
       },
       "candidateOptions": {
-        "D": [],
-        "R": []
+        "D": [
+          "Chris Gallant"
+        ],
+        "R": [
+          "Nick LaLota"
+        ]
       }
     },
     {
@@ -28043,17 +28046,21 @@
       "repVotes2024": 180374,
       "incumbentName": "Andrew Garbarino",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
-      "incumbentRunning": false,
-      "incumbencyEligible": false,
+      "incumbentStatus": "Incumbent renominated",
+      "incumbentRunning": true,
+      "incumbencyEligible": true,
       "openSeat": false,
       "candidates": {
-        "D": "No Democratic candidate listed",
-        "R": "No Republican candidate listed"
+        "D": "Patrick Halpin",
+        "R": "Andrew Garbarino"
       },
       "candidateOptions": {
-        "D": [],
-        "R": []
+        "D": [
+          "Patrick Halpin"
+        ],
+        "R": [
+          "Andrew Garbarino"
+        ]
       }
     },
     {
@@ -28069,19 +28076,21 @@
       "repVotes2024": 161196,
       "incumbentName": "Tom Suozzi",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
       "candidates": {
         "D": "Tom Suozzi",
-        "R": "No Republican candidate listed"
+        "R": "Mike LiPetri"
       },
       "candidateOptions": {
         "D": [
           "Tom Suozzi"
         ],
-        "R": []
+        "R": [
+          "Mike LiPetri"
+        ]
       }
     },
     {
@@ -28097,19 +28106,21 @@
       "repVotes2024": 169641,
       "incumbentName": "Laura Gillen",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
       "candidates": {
         "D": "Laura Gillen",
-        "R": "No Republican candidate listed"
+        "R": "Jeanine Driscoll"
       },
       "candidateOptions": {
         "D": [
           "Laura Gillen"
         ],
-        "R": []
+        "R": [
+          "Jeanine Driscoll"
+        ]
       }
     },
     {
@@ -28125,7 +28136,7 @@
       "repVotes2024": 56689,
       "incumbentName": "Gregory Meeks",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -28155,19 +28166,21 @@
       "repVotes2024": 69654,
       "incumbentName": "Grace Meng",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
       "candidates": {
         "D": "Grace Meng",
-        "R": "No Republican candidate listed"
+        "R": "Joseph Chou"
       },
       "candidateOptions": {
         "D": [
           "Grace Meng"
         ],
-        "R": []
+        "R": [
+          "Joseph Chou"
+        ]
       }
     },
     {
@@ -28183,17 +28196,21 @@
       "repVotes2024": 43052,
       "incumbentName": "Nydia Velázquez",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent retired. Democratic hold.",
+      "incumbentStatus": "Incumbent retiring [ 20 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
-        "D": "No Democratic candidate listed",
-        "R": "No Republican candidate listed"
+        "D": "Claire Valdez",
+        "R": "Melvin Rivera"
       },
       "candidateOptions": {
-        "D": [],
-        "R": []
+        "D": [
+          "Claire Valdez"
+        ],
+        "R": [
+          "Melvin Rivera"
+        ]
       }
     },
     {
@@ -28209,19 +28226,21 @@
       "repVotes2024": 48369,
       "incumbentName": "Hakeem Jeffries",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
       "candidates": {
         "D": "Hakeem Jeffries",
-        "R": "No Republican candidate listed"
+        "R": "Lewis Mizrahi"
       },
       "candidateOptions": {
         "D": [
           "Hakeem Jeffries"
         ],
-        "R": []
+        "R": [
+          "Lewis Mizrahi"
+        ]
       }
     },
     {
@@ -28237,19 +28256,21 @@
       "repVotes2024": 51458,
       "incumbentName": "Yvette Clarke",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
       "candidates": {
         "D": "Yvette Clarke",
-        "R": "No Republican candidate listed"
+        "R": "Joel Azumah"
       },
       "candidateOptions": {
         "D": [
           "Yvette Clarke"
         ],
-        "R": []
+        "R": [
+          "Joel Azumah"
+        ]
       }
     },
     {
@@ -28265,17 +28286,21 @@
       "repVotes2024": 37555,
       "incumbentName": "Dan Goldman",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent lost renomination. Democratic hold.",
+      "incumbentStatus": "Incumbent lost renomination",
       "incumbentRunning": false,
       "incumbencyEligible": false,
       "openSeat": true,
       "candidates": {
-        "D": "No Democratic candidate listed",
-        "R": "No Republican candidate listed"
+        "D": "Brad Lander",
+        "R": "Jennifer Moore"
       },
       "candidateOptions": {
-        "D": [],
-        "R": []
+        "D": [
+          "Brad Lander"
+        ],
+        "R": [
+          "Jennifer Moore"
+        ]
       }
     },
     {
@@ -28291,19 +28316,21 @@
       "repVotes2024": 153105,
       "incumbentName": "Nicole Malliotakis",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
-      "incumbentRunning": false,
-      "incumbencyEligible": false,
+      "incumbentStatus": "Incumbent renominated",
+      "incumbentRunning": true,
+      "incumbencyEligible": true,
       "openSeat": false,
       "candidates": {
         "D": "Michael DeCillis",
-        "R": "No Republican candidate listed"
+        "R": "Nicole Malliotakis"
       },
       "candidateOptions": {
         "D": [
           "Michael DeCillis"
         ],
-        "R": []
+        "R": [
+          "Nicole Malliotakis"
+        ]
       }
     },
     {
@@ -28319,19 +28346,21 @@
       "repVotes2024": 62989,
       "incumbentName": "Jerry Nadler",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent retired. Democratic hold.",
+      "incumbentStatus": "Incumbent retiring [ 21 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Micah Lasher",
-        "R": "No Republican candidate listed"
+        "R": "Caroline Shinkle"
       },
       "candidateOptions": {
         "D": [
           "Micah Lasher"
         ],
-        "R": []
+        "R": [
+          "Caroline Shinkle"
+        ]
       }
     },
     {
@@ -28347,17 +28376,21 @@
       "repVotes2024": 32071,
       "incumbentName": "Adriano Espaillat",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent lost renomination. Democratic hold.",
+      "incumbentStatus": "Incumbent lost renomination",
       "incumbentRunning": false,
       "incumbencyEligible": false,
       "openSeat": true,
       "candidates": {
-        "D": "No Democratic candidate listed",
-        "R": "No Republican candidate listed"
+        "D": "Darializa Avila Chevalier",
+        "R": "Jomo Williams"
       },
       "candidateOptions": {
-        "D": [],
-        "R": []
+        "D": [
+          "Darializa Avila Chevalier"
+        ],
+        "R": [
+          "Jomo Williams"
+        ]
       }
     },
     {
@@ -28373,17 +28406,21 @@
       "repVotes2024": 54157,
       "incumbentName": "Alexandria Ocasio-Cortez",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
-      "incumbentRunning": false,
-      "incumbencyEligible": false,
+      "incumbentStatus": "Incumbent renominated",
+      "incumbentRunning": true,
+      "incumbencyEligible": true,
       "openSeat": false,
       "candidates": {
-        "D": "No Democratic candidate listed",
-        "R": "No Republican candidate listed"
+        "D": "Alexandria Ocasio-Cortez",
+        "R": "Diamant Hysenaj"
       },
       "candidateOptions": {
-        "D": [],
-        "R": []
+        "D": [
+          "Alexandria Ocasio-Cortez"
+        ],
+        "R": [
+          "Diamant Hysenaj"
+        ]
       }
     },
     {
@@ -28399,7 +28436,7 @@
       "repVotes2024": 32494,
       "incumbentName": "Ritchie Torres",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -28429,7 +28466,7 @@
       "repVotes2024": 86408,
       "incumbentName": "George Latimer",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -28459,17 +28496,21 @@
       "repVotes2024": 180924,
       "incumbentName": "Mike Lawler",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
-      "incumbentRunning": false,
-      "incumbencyEligible": false,
+      "incumbentStatus": "Incumbent renominated",
+      "incumbentRunning": true,
+      "incumbencyEligible": true,
       "openSeat": false,
       "candidates": {
-        "D": "No Democratic candidate listed",
-        "R": "No Republican candidate listed"
+        "D": "Cait Conley",
+        "R": "Mike Lawler"
       },
       "candidateOptions": {
-        "D": [],
-        "R": []
+        "D": [
+          "Cait Conley"
+        ],
+        "R": [
+          "Mike Lawler"
+        ]
       }
     },
     {
@@ -28485,17 +28526,21 @@
       "repVotes2024": 138409,
       "incumbentName": "Pat Ryan",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
-      "incumbentRunning": false,
-      "incumbencyEligible": false,
+      "incumbentStatus": "Incumbent renominated",
+      "incumbentRunning": true,
+      "incumbencyEligible": true,
       "openSeat": false,
       "candidates": {
-        "D": "No Democratic candidate listed",
-        "R": "No Republican candidate listed"
+        "D": "Pat Ryan",
+        "R": "Jacqueline Auringer"
       },
       "candidateOptions": {
-        "D": [],
-        "R": []
+        "D": [
+          "Pat Ryan"
+        ],
+        "R": [
+          "Jacqueline Auringer"
+        ]
       }
     },
     {
@@ -28511,17 +28556,21 @@
       "repVotes2024": 164001,
       "incumbentName": "Josh Riley",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
-      "incumbentRunning": false,
-      "incumbencyEligible": false,
+      "incumbentStatus": "Incumbent renominated",
+      "incumbentRunning": true,
+      "incumbencyEligible": true,
       "openSeat": false,
       "candidates": {
-        "D": "No Democratic candidate listed",
-        "R": "No Republican candidate listed"
+        "D": "Josh Riley",
+        "R": "Peter Oberacker"
       },
       "candidateOptions": {
-        "D": [],
-        "R": []
+        "D": [
+          "Josh Riley"
+        ],
+        "R": [
+          "Peter Oberacker"
+        ]
       }
     },
     {
@@ -28537,17 +28586,21 @@
       "repVotes2024": 121609,
       "incumbentName": "Paul Tonko",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
-      "incumbentRunning": false,
-      "incumbencyEligible": false,
+      "incumbentStatus": "Incumbent renominated",
+      "incumbentRunning": true,
+      "incumbencyEligible": true,
       "openSeat": false,
       "candidates": {
-        "D": "No Democratic candidate listed",
-        "R": "No Republican candidate listed"
+        "D": "Paul Tonko",
+        "R": "Ralph Ambrosio"
       },
       "candidateOptions": {
-        "D": [],
-        "R": []
+        "D": [
+          "Paul Tonko"
+        ],
+        "R": [
+          "Ralph Ambrosio"
+        ]
       }
     },
     {
@@ -28563,10 +28616,10 @@
       "repVotes2024": 195464,
       "incumbentName": "Elise Stefanik",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired. Republican hold.",
+      "incumbentStatus": "Incumbent retiring [ 48 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Blake Gendebien",
         "R": "Anthony Constantino"
@@ -28593,17 +28646,21 @@
       "repVotes2024": 142082,
       "incumbentName": "John Mannion",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
-      "incumbentRunning": false,
-      "incumbencyEligible": false,
+      "incumbentStatus": "Incumbent renominated",
+      "incumbentRunning": true,
+      "incumbencyEligible": true,
       "openSeat": false,
       "candidates": {
-        "D": "No Democratic candidate listed",
-        "R": "No Republican candidate listed"
+        "D": "John Mannion",
+        "R": "Kailee Buller"
       },
       "candidateOptions": {
-        "D": [],
-        "R": []
+        "D": [
+          "John Mannion"
+        ],
+        "R": [
+          "Kailee Buller"
+        ]
       }
     },
     {
@@ -28619,17 +28676,21 @@
       "repVotes2024": 213928,
       "incumbentName": "Nick Langworthy",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
-      "incumbentRunning": false,
-      "incumbencyEligible": false,
+      "incumbentStatus": "Incumbent renominated",
+      "incumbentRunning": true,
+      "incumbencyEligible": true,
       "openSeat": false,
       "candidates": {
-        "D": "No Democratic candidate listed",
-        "R": "No Republican candidate listed"
+        "D": "Aaron Gies",
+        "R": "Nick Langworthy"
       },
       "candidateOptions": {
-        "D": [],
-        "R": []
+        "D": [
+          "Aaron Gies"
+        ],
+        "R": [
+          "Nick Langworthy"
+        ]
       }
     },
     {
@@ -28645,17 +28706,21 @@
       "repVotes2024": 207078,
       "incumbentName": "Claudia Tenney",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
-      "incumbentRunning": false,
-      "incumbencyEligible": false,
+      "incumbentStatus": "Incumbent renominated",
+      "incumbentRunning": true,
+      "incumbencyEligible": true,
       "openSeat": false,
       "candidates": {
-        "D": "No Democratic candidate listed",
-        "R": "No Republican candidate listed"
+        "D": "Alissa Ellman",
+        "R": "Claudia Tenney"
       },
       "candidateOptions": {
-        "D": [],
-        "R": []
+        "D": [
+          "Alissa Ellman"
+        ],
+        "R": [
+          "Claudia Tenney"
+        ]
       }
     },
     {
@@ -28671,17 +28736,21 @@
       "repVotes2024": 141195,
       "incumbentName": "Joseph Morelle",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
-      "incumbentRunning": false,
-      "incumbencyEligible": false,
+      "incumbentStatus": "Incumbent renominated",
+      "incumbentRunning": true,
+      "incumbencyEligible": true,
       "openSeat": false,
       "candidates": {
-        "D": "No Democratic candidate listed",
-        "R": "No Republican candidate listed"
+        "D": "Joseph Morelle",
+        "R": "Virginia McIntyre"
       },
       "candidateOptions": {
-        "D": [],
-        "R": []
+        "D": [
+          "Joseph Morelle"
+        ],
+        "R": [
+          "Virginia McIntyre"
+        ]
       }
     },
     {
@@ -28697,19 +28766,21 @@
       "repVotes2024": 95035,
       "incumbentName": "Tim Kennedy",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
       "candidates": {
         "D": "Tim Kennedy",
-        "R": "No Republican candidate listed"
+        "R": "Dennis Hannon"
       },
       "candidateOptions": {
         "D": [
           "Tim Kennedy"
         ],
-        "R": []
+        "R": [
+          "Dennis Hannon"
+        ]
       }
     },
     {
@@ -28725,7 +28796,7 @@
       "repVotes2024": 180034,
       "incumbentName": "Don Davis",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -28755,7 +28826,7 @@
       "repVotes2024": 128164,
       "incumbentName": "Deborah Ross",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -28785,7 +28856,7 @@
       "repVotes2024": 248276,
       "incumbentName": "Greg Murphy",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -28815,7 +28886,7 @@
       "repVotes2024": 112084,
       "incumbentName": "Valerie Foushee",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -28875,7 +28946,7 @@
       "repVotes2024": 233303,
       "incumbentName": "Addison McDowell",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -28905,7 +28976,7 @@
       "repVotes2024": 254022,
       "incumbentName": "David Rouzer",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent renominated.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -28935,7 +29006,7 @@
       "repVotes2024": 238640,
       "incumbentName": "Mark Harris",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -28965,7 +29036,7 @@
       "repVotes2024": 210042,
       "incumbentName": "Richard Hudson",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29025,7 +29096,7 @@
       "repVotes2024": 245546,
       "incumbentName": "Chuck Edwards",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent renominated [ 69 ] but withdrew. [ 70 ] [ 71 ] Democratic gain.",
+      "incumbentStatus": "Incumbent renominated [ 65 ] but withdrew [ 66 ] [ 67 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
       "openSeat": false,
@@ -29055,7 +29126,7 @@
       "repVotes2024": 91128,
       "incumbentName": "Alma Adams",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29085,7 +29156,7 @@
       "repVotes2024": 243655,
       "incumbentName": "Brad Knott",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29115,17 +29186,17 @@
       "repVotes2024": 232987,
       "incumbentName": "Tim Moore",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
       "candidates": {
-        "D": "LaKesha Womack",
+        "D": "Lakesha Womack",
         "R": "Tim Moore"
       },
       "candidateOptions": {
         "D": [
-          "LaKesha Womack"
+          "Lakesha Womack"
         ],
         "R": [
           "Tim Moore"
@@ -29145,7 +29216,7 @@
       "repVotes2024": 249101,
       "incumbentName": "Julie Fedorchak",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29173,7 +29244,7 @@
       "repVotes2024": 177993,
       "incumbentName": "Greg Landsman",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29203,7 +29274,7 @@
       "repVotes2024": 268211,
       "incumbentName": "David Taylor",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29233,7 +29304,7 @@
       "repVotes2024": 100355,
       "incumbentName": "Joyce Beatty",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29263,7 +29334,7 @@
       "repVotes2024": 273297,
       "incumbentName": "Jim Jordan",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29293,7 +29364,7 @@
       "repVotes2024": 255633,
       "incumbentName": "Bob Latta",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29323,7 +29394,7 @@
       "repVotes2024": 245860,
       "incumbentName": "Michael Rulli",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29353,7 +29424,7 @@
       "repVotes2024": 204494,
       "incumbentName": "Max Miller",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29383,7 +29454,7 @@
       "repVotes2024": 237503,
       "incumbentName": "Warren Davidson",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29413,7 +29484,7 @@
       "repVotes2024": 178716,
       "incumbentName": "Marcy Kaptur",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29443,7 +29514,7 @@
       "repVotes2024": 213695,
       "incumbentName": "Mike Turner",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29473,7 +29544,7 @@
       "repVotes2024": 59394,
       "incumbentName": "Shontel Brown",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29503,7 +29574,7 @@
       "repVotes2024": 260450,
       "incumbentName": "Troy Balderson",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29533,7 +29604,7 @@
       "repVotes2024": 188924,
       "incumbentName": "Emilia Sykes",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29563,7 +29634,7 @@
       "repVotes2024": 243427,
       "incumbentName": "David Joyce",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29593,7 +29664,7 @@
       "repVotes2024": 196338,
       "incumbentName": "Mike Carey",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29623,10 +29694,10 @@
       "repVotes2024": 188832,
       "incumbentName": "Kevin Hern",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired to run for U.S. Senate . [ 53 ] Republican hold.",
+      "incumbentStatus": "Incumbent retiring to run for U.S. Senate [ 49 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "John Croisant",
         "R": "Mark Tedford"
@@ -29653,7 +29724,7 @@
       "repVotes2024": 238123,
       "incumbentName": "Josh Brecheen",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29683,7 +29754,7 @@
       "repVotes2024": 0,
       "incumbentName": "Frank Lucas",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29713,7 +29784,7 @@
       "repVotes2024": 199962,
       "incumbentName": "Tom Cole",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29743,7 +29814,7 @@
       "repVotes2024": 207636,
       "incumbentName": "Stephanie Bice",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29773,7 +29844,7 @@
       "repVotes2024": 98908,
       "incumbentName": "Suzanne Bonamici",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29803,7 +29874,7 @@
       "repVotes2024": 224601,
       "incumbentName": "Cliff Bentz",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29833,7 +29904,7 @@
       "repVotes2024": 84344,
       "incumbentName": "Maxine Dexter",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29863,7 +29934,7 @@
       "repVotes2024": 166430,
       "incumbentName": "Val Hoyle",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29893,7 +29964,7 @@
       "repVotes2024": 180420,
       "incumbentName": "Janelle Bynum",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29923,7 +29994,7 @@
       "repVotes2024": 157634,
       "incumbentName": "Andrea Salinas",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29953,7 +30024,7 @@
       "repVotes2024": 261390,
       "incumbentName": "Brian Fitzpatrick",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -29983,7 +30054,7 @@
       "repVotes2024": 77355,
       "incumbentName": "Brendan Boyle",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -30013,10 +30084,10 @@
       "repVotes2024": 0,
       "incumbentName": "Dwight Evans",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent retired. Democratic hold.",
+      "incumbentStatus": "Incumbent retiring [ 22 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Chris Rabb",
         "R": "No Republican candidate listed"
@@ -30041,7 +30112,7 @@
       "repVotes2024": 186457,
       "incumbentName": "Madeleine Dean",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -30071,7 +30142,7 @@
       "repVotes2024": 142355,
       "incumbentName": "Mary Gay Scanlon",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -30101,7 +30172,7 @@
       "repVotes2024": 183638,
       "incumbentName": "Chrissy Houlahan",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -30131,7 +30202,7 @@
       "repVotes2024": 203688,
       "incumbentName": "Ryan Mackenzie",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -30161,7 +30232,7 @@
       "repVotes2024": 195663,
       "incumbentName": "Rob Bresnahan",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -30191,7 +30262,7 @@
       "repVotes2024": 276212,
       "incumbentName": "Dan Meuser",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -30221,7 +30292,7 @@
       "repVotes2024": 205567,
       "incumbentName": "Scott Perry",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -30251,7 +30322,7 @@
       "repVotes2024": 253672,
       "incumbentName": "Lloyd Smucker",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -30281,7 +30352,7 @@
       "repVotes2024": 181426,
       "incumbentName": "Summer Lee",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -30311,7 +30382,7 @@
       "repVotes2024": 301460,
       "incumbentName": "John Joyce",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -30341,7 +30412,7 @@
       "repVotes2024": 268380,
       "incumbentName": "Guy Reschenthaler",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -30371,7 +30442,7 @@
       "repVotes2024": 279027,
       "incumbentName": "Glenn Thompson",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -30401,7 +30472,7 @@
       "repVotes2024": 256923,
       "incumbentName": "Mike Kelly",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -30431,7 +30502,7 @@
       "repVotes2024": 207900,
       "incumbentName": "Chris Deluzio",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -30461,7 +30532,7 @@
       "repVotes2024": 70742,
       "incumbentName": "Gabe Amo",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -30491,7 +30562,7 @@
       "repVotes2024": 109381,
       "incumbentName": "Seth Magaziner",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -30521,10 +30592,10 @@
       "repVotes2024": 227502,
       "incumbentName": "Nancy Mace",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired to run for governor . [ 54 ] Democratic gain.",
+      "incumbentStatus": "Incumbent retiring to run for governor [ 50 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Nancy Lacore",
         "R": "Jenny Costa Honeycutt"
@@ -30551,7 +30622,7 @@
       "repVotes2024": 211514,
       "incumbentName": "Joe Wilson",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -30581,7 +30652,7 @@
       "repVotes2024": 248451,
       "incumbentName": "Sheri Biggs",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -30611,7 +30682,7 @@
       "repVotes2024": 206916,
       "incumbentName": "William Timmons",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -30641,10 +30712,10 @@
       "repVotes2024": 228260,
       "incumbentName": "Ralph Norman",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired to run for governor . [ 55 ] Republican hold.",
+      "incumbentStatus": "Incumbent retiring to run for governor [ 51 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Mallory Dittmer",
         "R": "Wes Climer"
@@ -30671,7 +30742,7 @@
       "repVotes2024": 112360,
       "incumbentName": "Jim Clyburn",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -30701,7 +30772,7 @@
       "repVotes2024": 240326,
       "incumbentName": "Russell Fry",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -30731,10 +30802,10 @@
       "repVotes2024": 303630,
       "incumbentName": "Dusty Johnson",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired to run for governor . [ 57 ] Republican hold.",
+      "incumbentStatus": "Incumbent retiring to run for governor [ 53 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Nikki Gronli",
         "R": "Marty Jackley"
@@ -30761,7 +30832,7 @@
       "repVotes2024": 257825,
       "incumbentName": "Diana Harshbarger",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -30791,7 +30862,7 @@
       "repVotes2024": 250782,
       "incumbentName": "Tim Burchett",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -30821,7 +30892,7 @@
       "repVotes2024": 236519,
       "incumbentName": "Chuck Fleischmann",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -30851,7 +30922,7 @@
       "repVotes2024": 219133,
       "incumbentName": "Scott DesJarlais",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent renominated.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -30881,7 +30952,7 @@
       "repVotes2024": 205075,
       "incumbentName": "Andy Ogles",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost renomination. Republican hold.",
+      "incumbentStatus": "Incumbent lost renomination",
       "incumbentRunning": false,
       "incumbencyEligible": false,
       "openSeat": true,
@@ -30911,10 +30982,10 @@
       "repVotes2024": 225543,
       "incumbentName": "John Rose",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired to run for governor . [ 58 ] Republican hold.",
+      "incumbentStatus": "Incumbent retiring to run for governor [ 54 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Mike Croley",
         "R": "Johnny Garrett"
@@ -30941,7 +31012,7 @@
       "repVotes2024": 191992,
       "incumbentName": "Matt Van Epps",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -30971,7 +31042,7 @@
       "repVotes2024": 240411,
       "incumbentName": "David Kustoff",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -31001,10 +31072,10 @@
       "repVotes2024": 57411,
       "incumbentName": "Steve Cohen",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent retired. [ 27 ] Republican gain.",
+      "incumbentStatus": "Incumbent retiring [ 23 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Justin Pearson",
         "R": "Brent Taylor"
@@ -31031,7 +31102,7 @@
       "repVotes2024": 258523,
       "incumbentName": "Nathaniel Moran",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -31061,7 +31132,7 @@
       "repVotes2024": 214631,
       "incumbentName": "Dan Crenshaw",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost renomination. [ 84 ] Republican hold.",
+      "incumbentStatus": "Incumbent lost renomination [ 80 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
       "openSeat": true,
@@ -31091,7 +31162,7 @@
       "repVotes2024": 237794,
       "incumbentName": "Keith Self",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -31121,7 +31192,7 @@
       "repVotes2024": 241603,
       "incumbentName": "Pat Fallon",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -31151,7 +31222,7 @@
       "repVotes2024": 192185,
       "incumbentName": "Lance Gooden",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -31181,7 +31252,7 @@
       "repVotes2024": 188119,
       "incumbentName": "Jake Ellzey",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -31211,7 +31282,7 @@
       "repVotes2024": 94651,
       "incumbentName": "Lizzie Fletcher",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -31241,20 +31312,20 @@
       "repVotes2024": 233423,
       "incumbentName": "Morgan Luttrell",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired. [ 59 ] Republican hold.",
+      "incumbentStatus": "Incumbent retiring [ 55 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Laura Jones",
-        "R": "Jessica Steinmann"
+        "R": "Jessica Hart Steinmann"
       },
       "candidateOptions": {
         "D": [
           "Laura Jones"
         ],
         "R": [
-          "Jessica Steinmann"
+          "Jessica Hart Steinmann"
         ]
       }
     },
@@ -31271,10 +31342,10 @@
       "repVotes2024": 0,
       "incumbentName": null,
       "incumbentCurrentParty": null,
-      "incumbentStatus": "New member elected. Democratic gain.",
+      "incumbentStatus": "New representative to be elected",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Leticia Gutierrez",
         "R": "Alex Mealer"
@@ -31301,10 +31372,10 @@
       "repVotes2024": 221229,
       "incumbentName": "Michael McCaul",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired. [ 60 ] Republican hold.",
+      "incumbentStatus": "Incumbent retiring [ 56 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Caitlin Rourk",
         "R": "Chris Gober"
@@ -31331,7 +31402,7 @@
       "repVotes2024": 211975,
       "incumbentName": "August Pfluger",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -31361,7 +31432,7 @@
       "repVotes2024": 215564,
       "incumbentName": "Craig Goldman",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -31391,7 +31462,7 @@
       "repVotes2024": 240622,
       "incumbentName": "Ronny Jackson",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -31421,7 +31492,7 @@
       "repVotes2024": 210320,
       "incumbentName": "Randy Weber",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -31451,7 +31522,7 @@
       "repVotes2024": 127804,
       "incumbentName": "Monica De La Cruz",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -31481,7 +31552,7 @@
       "repVotes2024": 89281,
       "incumbentName": "Veronica Escobar",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -31511,7 +31582,7 @@
       "repVotes2024": 193101,
       "incumbentName": "Pete Sessions",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -31541,7 +31612,7 @@
       "repVotes2024": 66810,
       "incumbentName": "Christian Menefee",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -31571,10 +31642,10 @@
       "repVotes2024": 214950,
       "incumbentName": "Jodey Arrington",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired. [ 61 ] Republican hold.",
+      "incumbentStatus": "Incumbent retiring [ 57 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Kyle Rable",
         "R": "Tom Sell"
@@ -31601,7 +31672,7 @@
       "repVotes2024": 0,
       "incumbentName": "Joaquin Castro",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -31631,10 +31702,10 @@
       "repVotes2024": 263744,
       "incumbentName": "Chip Roy",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired to run for Texas attorney general . [ 62 ] Republican hold.",
+      "incumbentStatus": "Incumbent retiring to run for Texas attorney general [ 58 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Kristin Hook",
         "R": "Mark Teixeira"
@@ -31661,10 +31732,10 @@
       "repVotes2024": 209285,
       "incumbentName": "Troy Nehls",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired. [ 63 ] Republican hold.",
+      "incumbentStatus": "Incumbent retiring [ 59 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Marquette Greene-Scott",
         "R": "Trever Nehls"
@@ -31691,7 +31762,7 @@
       "repVotes2024": 180720,
       "incumbentName": null,
       "incumbentCurrentParty": null,
-      "incumbentStatus": "Rep. Tony Gonzales (R) resigned April 14, 2026. Democratic gain.",
+      "incumbentStatus": "Rep. Tony Gonzales (R) resigned April 14, 2026.",
       "incumbentRunning": false,
       "incumbencyEligible": false,
       "openSeat": true,
@@ -31721,7 +31792,7 @@
       "repVotes2024": 227108,
       "incumbentName": "Beth Van Duyne",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -31751,7 +31822,7 @@
       "repVotes2024": 263042,
       "incumbentName": "Roger Williams",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -31781,7 +31852,7 @@
       "repVotes2024": 241096,
       "incumbentName": "Brandon Gill",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -31811,7 +31882,7 @@
       "repVotes2024": 183980,
       "incumbentName": "Michael Cloud",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -31841,7 +31912,7 @@
       "repVotes2024": 112018,
       "incumbentName": "Henry Cuellar",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -31871,7 +31942,7 @@
       "repVotes2024": 52830,
       "incumbentName": "Sylvia Garcia",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -31901,10 +31972,10 @@
       "repVotes2024": 0,
       "incumbentName": null,
       "incumbentCurrentParty": null,
-      "incumbentStatus": "New member elected. Democratic gain.",
+      "incumbentStatus": "New representative to be elected",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Frederick Haynes III",
         "R": "Everett Jackson"
@@ -31931,7 +32002,7 @@
       "repVotes2024": 229087,
       "incumbentName": "John Carter",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -31961,10 +32032,10 @@
       "repVotes2024": 85941,
       "incumbentName": null,
       "incumbentCurrentParty": null,
-      "incumbentStatus": "New member elected. Republican gain.",
+      "incumbentStatus": "New representative to be elected",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Dan Barrios",
         "R": "Jace Yarbrough"
@@ -31991,10 +32062,10 @@
       "repVotes2024": 51864,
       "incumbentName": "Jasmine Crockett",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent retired to run for U.S. Senate . [ 28 ] Democratic hold.",
+      "incumbentStatus": "Incumbent retiring to run for U.S. Senate . [ 24 ] Democratic loss.",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Colin Allred",
         "R": "Patrick Gillespie"
@@ -32021,7 +32092,7 @@
       "repVotes2024": 97603,
       "incumbentName": "Vicente Gonzalez",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -32051,10 +32122,10 @@
       "repVotes2024": 82610,
       "incumbentName": null,
       "incumbentCurrentParty": null,
-      "incumbentStatus": "New member elected. Democratic gain.",
+      "incumbentStatus": "New representative to be elected",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Johnny Garcia",
         "R": "Carlos De La Cruz"
@@ -32081,7 +32152,7 @@
       "repVotes2024": 206009,
       "incumbentName": "Brian Babin",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -32111,10 +32182,10 @@
       "repVotes2024": 80366,
       "incumbentName": "Lloyd Doggett",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent retired. [ 30 ] Democratic loss.",
+      "incumbentStatus": "Incumbent retiring. [ 26 ] Democratic loss.",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Greg Casar",
         "R": "Lauren Peña"
@@ -32141,10 +32212,10 @@
       "repVotes2024": 215030,
       "incumbentName": "Wesley Hunt",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired to run for U.S. Senate [ 64 ] Republican hold.",
+      "incumbentStatus": "Incumbent retiring to run for U.S. Senate [ 60 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Melissa McDonough",
         "R": "Jon Bonck"
@@ -32171,10 +32242,10 @@
       "repVotes2024": 230975,
       "incumbentName": null,
       "incumbentCurrentParty": null,
-      "incumbentStatus": "New member elected. Democratic gain.",
+      "incumbentStatus": "New representative to be elected",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Ben McAdams",
         "R": "Riley Owen"
@@ -32201,7 +32272,7 @@
       "repVotes2024": 205234,
       "incumbentName": "Blake Moore",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -32231,7 +32302,7 @@
       "repVotes2024": 242496,
       "incumbentName": "Celeste Maloy",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -32261,10 +32332,10 @@
       "repVotes2024": 230627,
       "incumbentName": "Burgess Owens",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired. [ 65 ] Republican loss.",
+      "incumbentStatus": "Incumbent retiring. [ 61 ] Republican loss.",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Jonny Larsen",
         "R": "Mike Kennedy"
@@ -32291,7 +32362,7 @@
       "repVotes2024": 104451,
       "incumbentName": "Becca Balint",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -32321,7 +32392,7 @@
       "repVotes2024": 269657,
       "incumbentName": "Rob Wittman",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -32351,7 +32422,7 @@
       "repVotes2024": 207368,
       "incumbentName": "Jen Kiggans",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -32381,7 +32452,7 @@
       "repVotes2024": 93801,
       "incumbentName": "Bobby Scott",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -32411,7 +32482,7 @@
       "repVotes2024": 121814,
       "incumbentName": "Jennifer McClellan",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -32441,7 +32512,7 @@
       "repVotes2024": 249564,
       "incumbentName": "John McGuire",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -32471,7 +32542,7 @@
       "repVotes2024": 256933,
       "incumbentName": "Ben Cline",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -32501,7 +32572,7 @@
       "repVotes2024": 192847,
       "incumbentName": "Eugene Vindman",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -32531,7 +32602,7 @@
       "repVotes2024": 94676,
       "incumbentName": "Don Beyer",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -32561,7 +32632,7 @@
       "repVotes2024": 290645,
       "incumbentName": "Morgan Griffith",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -32591,7 +32662,7 @@
       "repVotes2024": 196343,
       "incumbentName": "Suhas Subramanyam",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -32621,7 +32692,7 @@
       "repVotes2024": 134802,
       "incumbentName": "James Walkinshaw",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -32651,7 +32722,7 @@
       "repVotes2024": 132538,
       "incumbentName": "Suzan DelBene",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -32681,7 +32752,7 @@
       "repVotes2024": 148167,
       "incumbentName": "Rick Larsen",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -32711,7 +32782,7 @@
       "repVotes2024": 199054,
       "incumbentName": "Marie Gluesenkamp Perez",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -32741,10 +32812,10 @@
       "repVotes2024": 289652,
       "incumbentName": "Dan Newhouse",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired. [ 66 ] Republican hold.",
+      "incumbentStatus": "Incumbent retiring [ 62 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "John Duresky",
         "R": "Amanda McKinney"
@@ -32771,7 +32842,7 @@
       "repVotes2024": 240619,
       "incumbentName": "Michael Baumgartner",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -32801,7 +32872,7 @@
       "repVotes2024": 182182,
       "incumbentName": "Emily Randall",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -32831,7 +32902,7 @@
       "repVotes2024": 66220,
       "incumbentName": "Pramila Jayapal",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -32861,7 +32932,7 @@
       "repVotes2024": 190675,
       "incumbentName": "Kim Schrier",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -32891,7 +32962,7 @@
       "repVotes2024": 0,
       "incumbentName": "Adam Smith",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -32921,7 +32992,7 @@
       "repVotes2024": 143492,
       "incumbentName": "Marilyn Strickland",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent advanced to general",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -32951,7 +33022,7 @@
       "repVotes2024": 228491,
       "incumbentName": "Carol Miller",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -32981,7 +33052,7 @@
       "repVotes2024": 268190,
       "incumbentName": "Riley Moore",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -33011,7 +33082,7 @@
       "repVotes2024": 212515,
       "incumbentName": "Bryan Steil",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -33041,7 +33112,7 @@
       "repVotes2024": 136357,
       "incumbentName": "Mark Pocan",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent re-elected",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -33069,7 +33140,7 @@
       "repVotes2024": 212064,
       "incumbentName": "Derrick Van Orden",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -33099,7 +33170,7 @@
       "repVotes2024": 74921,
       "incumbentName": "Gwen Moore",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -33129,7 +33200,7 @@
       "repVotes2024": 300521,
       "incumbentName": "Scott Fitzgerald",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -33159,7 +33230,7 @@
       "repVotes2024": 251889,
       "incumbentName": "Glenn Grothman",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -33189,10 +33260,10 @@
       "repVotes2024": 273553,
       "incumbentName": "Tom Tiffany",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired to run for governor . [ 67 ] Republican hold.",
+      "incumbentStatus": "Incumbent retiring to run for governor [ 63 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Fred Clark",
         "R": "Michael Alfonso"
@@ -33219,7 +33290,7 @@
       "repVotes2024": 240040,
       "incumbentName": "Tony Wied",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent re-elected.",
+      "incumbentStatus": "Incumbent renominated",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -33249,10 +33320,10 @@
       "repVotes2024": 184680,
       "incumbentName": "Harriet Hageman",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent retired to run for U.S. Senate . [ 68 ] Republican hold.",
+      "incumbentStatus": "Incumbent retiring to run for U.S. Senate [ 64 ]",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Lisa Kinney",
         "R": "Chuck Gray"
