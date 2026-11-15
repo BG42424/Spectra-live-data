@@ -152,7 +152,7 @@
       "2023": 392,
       "2024": 368,
       "2025": 399,
-      "2026": 218
+      "2026": 220
     }
   },
   "quarterbacks": [
@@ -20987,9 +20987,9 @@
       "playerId": "00-0038128",
       "name": "Malik Willis",
       "team": "MIA",
-      "depthRank": 2,
+      "depthRank": 3,
       "isStarter": false,
-      "projection": "QB2",
+      "projection": "QB3",
       "epaElo": 1450.0,
       "starts": 14,
       "recentAdjustedEpaPerDropback": -0.067,
@@ -21911,7 +21911,7 @@
           "afterEpaElo": 1438.8
         }
       ],
-      "healthyBenchWeeks": 117,
+      "healthyBenchWeeks": 118,
       "healthyBenchAdjustments": [
         {
           "date": "2023-11-05",
@@ -32378,7 +32378,7 @@
         "initialEpaElo": 1350.1
       },
       "offseasonRegressions": [],
-      "healthyBenchWeeks": 43,
+      "healthyBenchWeeks": 44,
       "healthyBenchAdjustments": [],
       "injuryWeeksExcluded": 1,
       "benchInjuryExclusions": [
@@ -32732,6 +32732,37 @@
       "benchInjuryExclusions": []
     },
     {
+      "playerId": "00-0040398",
+      "name": "Brady Cook",
+      "team": "MIA",
+      "depthRank": 2,
+      "isStarter": false,
+      "projection": "QB2",
+      "epaElo": 1358.4,
+      "starts": 2,
+      "recentAdjustedEpaPerDropback": -0.4,
+      "lastStart": "2026-01-04",
+      "lastAppearance": "2026-01-04",
+      "status": "Provisional",
+      "teamBaselineEpaElo": 1483.5,
+      "preseasonTeamEpaElo": 1400.1,
+      "forecastEloChange": -137.6,
+      "initialization": {
+        "type": "undrafted",
+        "draftSeason": null,
+        "draftPick": null,
+        "initializationSeason": 2025,
+        "historicalDraftValue": 0.0,
+        "historicalLeagueQbAverage": 157.8,
+        "initialEpaElo": 1342.2
+      },
+      "offseasonRegressions": [],
+      "healthyBenchWeeks": 19,
+      "healthyBenchAdjustments": [],
+      "injuryWeeksExcluded": 0,
+      "benchInjuryExclusions": []
+    },
+    {
       "playerId": "00-0041123",
       "name": "Behren Morton",
       "team": "NE",
@@ -32757,7 +32788,7 @@
         "initialEpaElo": 1355.9
       },
       "offseasonRegressions": [],
-      "healthyBenchWeeks": 9,
+      "healthyBenchWeeks": 10,
       "healthyBenchAdjustments": [],
       "injuryWeeksExcluded": 0,
       "benchInjuryExclusions": []
@@ -33106,6 +33137,37 @@
       },
       "offseasonRegressions": [],
       "healthyBenchWeeks": 18,
+      "healthyBenchAdjustments": [],
+      "injuryWeeksExcluded": 0,
+      "benchInjuryExclusions": []
+    },
+    {
+      "playerId": "00-0036679",
+      "name": "Shane Buechele",
+      "team": "BUF",
+      "depthRank": 3,
+      "isStarter": false,
+      "projection": "QB3",
+      "epaElo": 1322.1,
+      "starts": 0,
+      "recentAdjustedEpaPerDropback": -0.471,
+      "lastStart": "2026-01-04",
+      "lastAppearance": "2026-01-04",
+      "status": "Provisional",
+      "teamBaselineEpaElo": 1557.6,
+      "preseasonTeamEpaElo": 1400.6,
+      "forecastEloChange": -259.0,
+      "initialization": {
+        "type": "undrafted",
+        "draftSeason": null,
+        "draftPick": null,
+        "initializationSeason": 2021,
+        "historicalDraftValue": 0.0,
+        "historicalLeagueQbAverage": 180.2,
+        "initialEpaElo": 1319.8
+      },
+      "offseasonRegressions": [],
+      "healthyBenchWeeks": 75,
       "healthyBenchAdjustments": [],
       "injuryWeeksExcluded": 0,
       "benchInjuryExclusions": []
@@ -61448,6 +61510,44 @@
           "dropbacks": 2,
           "performanceElo": 1250.0,
           "updateRate": 0.0067
+        }
+      ]
+    },
+    "00-0036679": {
+      "name": "Shane Buechele",
+      "currentTeam": "BUF",
+      "currentEpaElo": 1322.1,
+      "initialization": {
+        "type": "undrafted",
+        "draftSeason": null,
+        "draftPick": null,
+        "initializationSeason": 2021,
+        "historicalDraftValue": 0.0,
+        "historicalLeagueQbAverage": 180.2,
+        "initialEpaElo": 1319.8
+      },
+      "offseasonRegressions": [],
+      "healthyBenchAdjustments": [],
+      "injuryWeeksExcluded": 0,
+      "benchInjuryExclusions": [],
+      "points": [
+        {
+          "date": "2026-01-04",
+          "season": 2025,
+          "week": 18,
+          "stage": "Week 18",
+          "type": "game",
+          "appearance": "relief",
+          "gameId": "2025_18_KC_LV",
+          "team": "KC",
+          "opponent": "OAK",
+          "qbElo": 1322.1,
+          "epaPerDropback": -0.359,
+          "expectedVsOpponent": 0.112,
+          "adjustedEpaPerDropback": -0.471,
+          "dropbacks": 19,
+          "performanceElo": 1355.9,
+          "updateRate": 0.0633
         }
       ]
     },
@@ -121437,6 +121537,116 @@
       "injuryWeeksExcluded": 0,
       "benchInjuryExclusions": [],
       "points": []
+    },
+    "00-0040398": {
+      "name": "Brady Cook",
+      "currentTeam": "MIA",
+      "currentEpaElo": 1358.4,
+      "initialization": {
+        "type": "undrafted",
+        "draftSeason": null,
+        "draftPick": null,
+        "initializationSeason": 2025,
+        "historicalDraftValue": 0.0,
+        "historicalLeagueQbAverage": 157.8,
+        "initialEpaElo": 1342.2
+      },
+      "offseasonRegressions": [],
+      "healthyBenchAdjustments": [],
+      "injuryWeeksExcluded": 0,
+      "benchInjuryExclusions": [],
+      "points": [
+        {
+          "date": "2025-12-07",
+          "season": 2025,
+          "week": 14,
+          "stage": "Week 14",
+          "type": "game",
+          "appearance": "relief",
+          "gameId": "2025_14_MIA_NYJ",
+          "team": "NYJ",
+          "opponent": "MIA",
+          "qbElo": 1338.4,
+          "epaPerDropback": -0.494,
+          "expectedVsOpponent": 0.147,
+          "adjustedEpaPerDropback": -0.641,
+          "dropbacks": 36,
+          "performanceElo": 1303.9,
+          "updateRate": 0.1
+        },
+        {
+          "date": "2025-12-14",
+          "season": 2025,
+          "week": 15,
+          "stage": "Week 15",
+          "type": "game",
+          "appearance": "start",
+          "gameId": "2025_15_NYJ_JAX",
+          "team": "NYJ",
+          "opponent": "JAX",
+          "qbElo": 1350.0,
+          "epaPerDropback": -0.216,
+          "expectedVsOpponent": -0.066,
+          "adjustedEpaPerDropback": -0.15,
+          "dropbacks": 36,
+          "performanceElo": 1454.2,
+          "updateRate": 0.1
+        },
+        {
+          "date": "2025-12-21",
+          "season": 2025,
+          "week": 16,
+          "stage": "Week 16",
+          "type": "game",
+          "appearance": "relief",
+          "gameId": "2025_16_NYJ_NO",
+          "team": "NYJ",
+          "opponent": "NO",
+          "qbElo": 1349.4,
+          "epaPerDropback": -0.495,
+          "expectedVsOpponent": 0.012,
+          "adjustedEpaPerDropback": -0.507,
+          "dropbacks": 43,
+          "performanceElo": 1344.8,
+          "updateRate": 0.1
+        },
+        {
+          "date": "2025-12-28",
+          "season": 2025,
+          "week": 17,
+          "stage": "Week 17",
+          "type": "game",
+          "appearance": "relief",
+          "gameId": "2025_17_NE_NYJ",
+          "team": "NYJ",
+          "opponent": "NE",
+          "qbElo": 1352.6,
+          "epaPerDropback": -0.446,
+          "expectedVsOpponent": -0.058,
+          "adjustedEpaPerDropback": -0.387,
+          "dropbacks": 34,
+          "performanceElo": 1381.5,
+          "updateRate": 0.1
+        },
+        {
+          "date": "2026-01-04",
+          "season": 2025,
+          "week": 18,
+          "stage": "Week 18",
+          "type": "game",
+          "appearance": "start",
+          "gameId": "2025_18_NYJ_BUF",
+          "team": "NYJ",
+          "opponent": "BUF",
+          "qbElo": 1358.4,
+          "epaPerDropback": -0.275,
+          "expectedVsOpponent": -0.041,
+          "adjustedEpaPerDropback": -0.235,
+          "dropbacks": 23,
+          "performanceElo": 1428.2,
+          "updateRate": 0.0767
+        }
+      ]
     },
     "00-0038128": {
       "name": "Malik Willis",
