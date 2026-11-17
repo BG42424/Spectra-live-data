@@ -2,7 +2,7 @@
   "meta": {
     "cycle": 2026,
     "electionDate": "2026-11-03",
-    "updatedAt": "2026-11-16",
+    "updatedAt": "2026-11-17",
     "experimental": true,
     "houseBaselineNationalMargin": -2.782,
     "senatePollCoverage": {
@@ -311,10 +311,10 @@
       }
     },
     "houseCandidateCoverage": {
-      "checkedAt": "2026-11-16",
+      "checkedAt": "2026-11-17",
       "districts": 435,
       "finalizedDemocratic": 397,
-      "finalizedRepublican": 388,
+      "finalizedRepublican": 387,
       "openSeats": 13
     },
     "sources": [
@@ -398,14 +398,14 @@
       }
     ],
     "senatePollRefresh": {
-      "checkedAt": "2026-11-16",
+      "checkedAt": "2026-11-17",
       "provider": "PollingSource",
       "reviewed": 0,
       "added": 0,
       "skippedCandidateMismatch": 0
     },
     "pollRefresh": {
-      "checkedAt": "2026-11-16",
+      "checkedAt": "2026-11-17",
       "provider": "VoteHub",
       "added": 73,
       "needsReview": [
@@ -551,14 +551,14 @@
       ]
     },
     "housePollCoverage": {
-      "checkedAt": "2026-11-16",
+      "checkedAt": "2026-11-17",
       "provider": "PollingSource, VoteHub, and Decision Labs",
       "polls": 187,
       "districts": 85
     },
     "decisionLabsPollRefresh": {
-      "checkedAt": "2026-11-16",
-      "generatedAt": "2026-11-16T21:50:08.310Z",
+      "checkedAt": "2026-11-17",
+      "generatedAt": "2026-11-17T08:05:46.651Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -21580,7 +21580,7 @@
       "repVotes2024": 159286,
       "incumbentName": "Jay Obernolte",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent advanced to general.",
+      "incumbentStatus": "Incumbent re-elected.",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -23138,15 +23138,13 @@
       "openSeat": false,
       "candidates": {
         "D": "Darren Soto",
-        "R": "Dan Green"
+        "R": "No Republican candidate listed"
       },
       "candidateOptions": {
         "D": [
           "Darren Soto"
         ],
-        "R": [
-          "Dan Green"
-        ]
+        "R": []
       }
     },
     {
@@ -28995,7 +28993,7 @@
       "repVotes2024": 245546,
       "incumbentName": "Chuck Edwards",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent renominated but withdrew. [ 229 ] Democratic gain.",
+      "incumbentStatus": "Incumbent renominated but withdrew. [ 228 ] Democratic gain.",
       "incumbentRunning": false,
       "incumbencyEligible": false,
       "openSeat": false,
