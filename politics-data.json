@@ -315,7 +315,7 @@
       "districts": 435,
       "finalizedDemocratic": 397,
       "finalizedRepublican": 388,
-      "openSeats": 13
+      "openSeats": 14
     },
     "sources": [
       {
@@ -553,12 +553,12 @@
     "housePollCoverage": {
       "checkedAt": "2026-11-18",
       "provider": "PollingSource, VoteHub, and Decision Labs",
-      "polls": 190,
-      "districts": 85
+      "polls": 189,
+      "districts": 84
     },
     "decisionLabsPollRefresh": {
       "checkedAt": "2026-11-18",
-      "generatedAt": "2026-11-18T05:32:44.620Z",
+      "generatedAt": "2026-11-18T20:40:43.240Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -20139,27 +20139,6 @@
       "sourceType": "public_aggregator",
       "notes": "PollingSource table date; Johnny Garcia (D) / Carlos De La Cruz Jr (R)",
       "modelEligible": true
-    },
-    {
-      "id": "pollingsource-co-05-2026-10-18-global-strategy-group-d",
-      "raceId": "CO-05",
-      "pollsterId": "global-strategy-group-d",
-      "pollster": "Global Strategy Group (D)",
-      "sponsor": null,
-      "partisanSponsor": "D-sponsored",
-      "startDate": "2026-10-18",
-      "endDate": "2026-10-18",
-      "population": "LV",
-      "sampleSize": 500,
-      "demPct": 43.0,
-      "repPct": 38.0,
-      "margin": 5.0,
-      "sourceUrl": "https://pollingsource.com/house/polls",
-      "sourceLabel": "PollingSource public House poll ledger",
-      "methodologyUrl": "https://pollingsource.com/methodology",
-      "sourceType": "public_aggregator",
-      "notes": "PollingSource table date; Jessica Willow Killin (D) / Jeff Crank (R)",
-      "modelEligible": true
     }
   ],
   "houseRaces": [
@@ -31746,9 +31725,9 @@
       "baselineMargin": 100.0,
       "demVotes2024": 197650,
       "repVotes2024": 0,
-      "incumbentName": null,
-      "incumbentCurrentParty": null,
-      "incumbentStatus": "New member elected. Democratic gain.",
+      "incumbentName": "Jasmine Crockett",
+      "incumbentCurrentParty": "D",
+      "incumbentStatus": "Incumbent retired to run for U.S. Senate . [ 32 ] Democratic hold.",
       "incumbentRunning": false,
       "incumbencyEligible": false,
       "openSeat": false,
@@ -31836,12 +31815,12 @@
       "baselineMargin": 37.57,
       "demVotes2024": 114289,
       "repVotes2024": 51864,
-      "incumbentName": "Jasmine Crockett",
+      "incumbentName": "Julie Johnson",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent retired to run for U.S. Senate . [ 32 ] Democratic hold.",
+      "incumbentStatus": "Incumbent lost renomination. [ 239 ] Democratic hold.",
       "incumbentRunning": false,
       "incumbencyEligible": false,
-      "openSeat": false,
+      "openSeat": true,
       "candidates": {
         "D": "Colin Allred",
         "R": "Patrick Gillespie"
