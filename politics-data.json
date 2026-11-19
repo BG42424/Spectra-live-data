@@ -2,7 +2,7 @@
   "meta": {
     "cycle": 2026,
     "electionDate": "2026-11-03",
-    "updatedAt": "2026-11-18",
+    "updatedAt": "2026-11-19",
     "experimental": true,
     "houseBaselineNationalMargin": -2.782,
     "senatePollCoverage": {
@@ -311,7 +311,7 @@
       }
     },
     "houseCandidateCoverage": {
-      "checkedAt": "2026-11-18",
+      "checkedAt": "2026-11-19",
       "districts": 435,
       "finalizedDemocratic": 397,
       "finalizedRepublican": 388,
@@ -398,14 +398,14 @@
       }
     ],
     "senatePollRefresh": {
-      "checkedAt": "2026-11-18",
+      "checkedAt": "2026-11-19",
       "provider": "PollingSource",
       "reviewed": 0,
       "added": 0,
       "skippedCandidateMismatch": 0
     },
     "pollRefresh": {
-      "checkedAt": "2026-11-18",
+      "checkedAt": "2026-11-19",
       "provider": "VoteHub",
       "added": 73,
       "needsReview": [
@@ -551,14 +551,14 @@
       ]
     },
     "housePollCoverage": {
-      "checkedAt": "2026-11-18",
+      "checkedAt": "2026-11-19",
       "provider": "PollingSource, VoteHub, and Decision Labs",
       "polls": 189,
       "districts": 84
     },
     "decisionLabsPollRefresh": {
-      "checkedAt": "2026-11-18",
-      "generatedAt": "2026-11-18T20:40:43.240Z",
+      "checkedAt": "2026-11-19",
+      "generatedAt": "2026-11-19T07:37:31.883Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -20153,9 +20153,9 @@
       "baselineMargin": -56.95,
       "demVotes2024": 70929,
       "repVotes2024": 258619,
-      "incumbentName": null,
-      "incumbentCurrentParty": null,
-      "incumbentStatus": "New member elected. Republican gain.",
+      "incumbentName": "Barry Moore",
+      "incumbentCurrentParty": "R",
+      "incumbentStatus": "Incumbent retired to run for U.S. Senate . [ 36 ] Republican hold.",
       "incumbentRunning": false,
       "incumbencyEligible": false,
       "openSeat": false,
@@ -20365,7 +20365,7 @@
       "repVotes2024": 159550,
       "incumbentName": "Nick Begich III",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent advanced to general.",
+      "incumbentStatus": "Incumbent re-elected.",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
