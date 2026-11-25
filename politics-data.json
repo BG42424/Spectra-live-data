@@ -2,7 +2,7 @@
   "meta": {
     "cycle": 2026,
     "electionDate": "2026-11-03",
-    "updatedAt": "2026-11-24",
+    "updatedAt": "2026-11-25",
     "experimental": true,
     "houseBaselineNationalMargin": -2.782,
     "senatePollCoverage": {
@@ -311,7 +311,7 @@
       }
     },
     "houseCandidateCoverage": {
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
       "districts": 435,
       "finalizedDemocratic": 397,
       "finalizedRepublican": 388,
@@ -398,14 +398,14 @@
       }
     ],
     "senatePollRefresh": {
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
       "provider": "PollingSource",
       "reviewed": 0,
       "added": 0,
       "skippedCandidateMismatch": 0
     },
     "pollRefresh": {
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
       "provider": "VoteHub",
       "added": 73,
       "needsReview": [
@@ -551,14 +551,14 @@
       ]
     },
     "housePollCoverage": {
-      "checkedAt": "2026-11-24",
+      "checkedAt": "2026-11-25",
       "provider": "PollingSource, VoteHub, and Decision Labs",
       "polls": 187,
       "districts": 85
     },
     "decisionLabsPollRefresh": {
-      "checkedAt": "2026-11-24",
-      "generatedAt": "2026-11-24T22:35:14.960Z",
+      "checkedAt": "2026-11-25",
+      "generatedAt": "2026-11-25T08:48:24.052Z",
       "provider": "Decision Labs",
       "reviewed": 167,
       "added": 0,
@@ -26625,7 +26625,7 @@
       "repVotes2024": 220929,
       "incumbentName": "Brad Finstad",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent lost re-election. Democratic gain.",
+      "incumbentStatus": "Incumbent ran for re-election.",
       "incumbentRunning": true,
       "incumbencyEligible": true,
       "openSeat": false,
@@ -28995,7 +28995,7 @@
       "repVotes2024": 245546,
       "incumbentName": "Chuck Edwards",
       "incumbentCurrentParty": "R",
-      "incumbentStatus": "Incumbent renominated but withdrew. [ 227 ] Democratic gain.",
+      "incumbentStatus": "Incumbent renominated but withdrew. [ 223 ] Democratic gain.",
       "incumbentRunning": false,
       "incumbencyEligible": false,
       "openSeat": false,
@@ -31961,7 +31961,7 @@
       "repVotes2024": 51864,
       "incumbentName": "Julie Johnson",
       "incumbentCurrentParty": "D",
-      "incumbentStatus": "Incumbent lost renomination. [ 236 ] Democratic hold.",
+      "incumbentStatus": "Incumbent lost renomination. [ 232 ] Democratic hold.",
       "incumbentRunning": false,
       "incumbencyEligible": false,
       "openSeat": true,
