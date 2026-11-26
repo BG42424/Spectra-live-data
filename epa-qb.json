@@ -152,7 +152,7 @@
       "2023": 392,
       "2024": 368,
       "2025": 399,
-      "2026": 259
+      "2026": 261
     }
   },
   "quarterbacks": [
@@ -22485,7 +22485,7 @@
           "afterEpaElo": 1438.8
         }
       ],
-      "healthyBenchWeeks": 118,
+      "healthyBenchWeeks": 119,
       "healthyBenchAdjustments": [
         {
           "date": "2023-11-05",
@@ -28336,7 +28336,7 @@
           "afterEpaElo": 1481.0
         }
       ],
-      "healthyBenchWeeks": 113,
+      "healthyBenchWeeks": 114,
       "healthyBenchAdjustments": [
         {
           "date": "2016-11-20",
@@ -32148,7 +32148,7 @@
         "initialEpaElo": 1350.1
       },
       "offseasonRegressions": [],
-      "healthyBenchWeeks": 47,
+      "healthyBenchWeeks": 48,
       "healthyBenchAdjustments": [],
       "injuryWeeksExcluded": 2,
       "benchInjuryExclusions": [
